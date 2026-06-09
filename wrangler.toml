@@ -6,5 +6,5 @@ compatibility_flags = [ "nodejs_compat" ]
 [[d1_databases]]
 binding = "mithila_db"
 database_name = "mithila-db"
-database_id = "743639dd-ffa5-4d31-a9df-bc6e42f5ec2c"
+database_id = "6b0499f9-3e49-49cc-bb0e-c75329639960"
 migrations_dir = "migrations"
