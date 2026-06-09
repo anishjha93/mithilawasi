@@ -1,0 +1,2192 @@
+{
+    "2026-01-01": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Jan 1, 01:48 AM",
+        "tithi_end_time": "Jan 1, 10:22 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-01-02": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Jan 1, 10:22 PM",
+        "tithi_end_time": "Jan 2, 06:53 PM",
+        "next_tithi": "Purnima"
+    },
+    "2026-01-03": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Jan 2, 06:53 PM",
+        "tithi_end_time": "Jan 3, 03:32 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-01-04": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Jan 3, 03:32 PM",
+        "tithi_end_time": "Jan 4, 12:30 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-01-05": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Jan 4, 12:30 PM",
+        "tithi_end_time": "Jan 5, 09:56 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-01-06": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Jan 5, 09:56 AM",
+        "tithi_end_time": "Jan 6, 08:02 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-01-07": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Jan 6, 08:02 AM",
+        "tithi_end_time": "Jan 7, 06:52 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-01-08": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Jan 8, 06:34 AM",
+        "tithi_end_time": "Jan 9, 07:05 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-01-09": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Jan 8, 06:34 AM",
+        "tithi_end_time": "Jan 9, 07:05 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-01-10": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Jan 9, 07:05 AM",
+        "tithi_end_time": "Jan 10, 08:24 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-01-11": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Jan 10, 08:24 AM",
+        "tithi_end_time": "Jan 11, 10:20 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-01-12": {
+        "tithi": "Navami",
+        "tithi_start_time": "Jan 11, 10:20 AM",
+        "tithi_end_time": "Jan 12, 12:43 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-01-13": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Jan 12, 12:43 PM",
+        "tithi_end_time": "Jan 13, 03:18 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-01-14": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Jan 13, 03:18 PM",
+        "tithi_end_time": "Jan 14, 05:53 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-01-15": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Jan 14, 05:53 PM",
+        "tithi_end_time": "Jan 15, 08:16 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-01-16": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Jan 15, 08:16 PM",
+        "tithi_end_time": "Jan 16, 10:22 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-01-17": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Jan 16, 10:22 PM",
+        "tithi_end_time": "Jan 18, 12:04 AM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-01-18": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Jan 18, 12:04 AM",
+        "tithi_end_time": "Jan 19, 01:21 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-01-19": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Jan 19, 01:21 AM",
+        "tithi_end_time": "Jan 20, 02:14 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-01-20": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Jan 20, 02:14 AM",
+        "tithi_end_time": "Jan 21, 02:42 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-01-21": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Jan 21, 02:42 AM",
+        "tithi_end_time": "Jan 22, 02:47 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-01-22": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Jan 22, 02:47 AM",
+        "tithi_end_time": "Jan 23, 02:28 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-01-23": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Jan 23, 02:28 AM",
+        "tithi_end_time": "Jan 24, 01:46 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-01-24": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Jan 24, 01:46 AM",
+        "tithi_end_time": "Jan 25, 12:40 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-01-25": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Jan 25, 12:40 AM",
+        "tithi_end_time": "Jan 25, 11:10 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-01-26": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Jan 25, 11:10 PM",
+        "tithi_end_time": "Jan 26, 09:18 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-01-27": {
+        "tithi": "Navami",
+        "tithi_start_time": "Jan 26, 09:18 PM",
+        "tithi_end_time": "Jan 27, 07:05 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-01-28": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Jan 27, 07:05 PM",
+        "tithi_end_time": "Jan 28, 04:36 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-01-29": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Jan 28, 04:36 PM",
+        "tithi_end_time": "Jan 29, 01:55 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-01-30": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Jan 29, 01:55 PM",
+        "tithi_end_time": "Jan 30, 11:09 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-01-31": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Jan 30, 11:09 AM",
+        "tithi_end_time": "Jan 31, 08:25 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-02-01": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Feb 1, 05:53 AM",
+        "tithi_end_time": "Feb 2, 03:39 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-02-02": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Feb 2, 03:39 AM",
+        "tithi_end_time": "Feb 3, 01:52 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-02-03": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Feb 3, 01:52 AM",
+        "tithi_end_time": "Feb 4, 12:41 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-02-04": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Feb 4, 12:41 AM",
+        "tithi_end_time": "Feb 5, 12:09 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-02-05": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Feb 5, 12:09 AM",
+        "tithi_end_time": "Feb 6, 12:22 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-02-06": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Feb 6, 12:22 AM",
+        "tithi_end_time": "Feb 7, 01:18 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-02-07": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Feb 7, 01:18 AM",
+        "tithi_end_time": "Feb 8, 02:54 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-02-08": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Feb 8, 02:54 AM",
+        "tithi_end_time": "Feb 9, 05:01 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-02-09": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Feb 9, 05:01 AM",
+        "tithi_end_time": "Feb 10, 07:27 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-02-10": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Feb 9, 05:01 AM",
+        "tithi_end_time": "Feb 10, 07:27 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-02-11": {
+        "tithi": "Navami",
+        "tithi_start_time": "Feb 10, 07:27 AM",
+        "tithi_end_time": "Feb 11, 09:59 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-02-12": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Feb 11, 09:59 AM",
+        "tithi_end_time": "Feb 12, 12:22 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-02-13": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Feb 12, 12:22 PM",
+        "tithi_end_time": "Feb 13, 02:26 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-02-14": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Feb 13, 02:26 PM",
+        "tithi_end_time": "Feb 14, 04:02 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-02-15": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Feb 14, 04:02 PM",
+        "tithi_end_time": "Feb 15, 05:05 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-02-16": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Feb 15, 05:05 PM",
+        "tithi_end_time": "Feb 16, 05:34 PM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-02-17": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Feb 16, 05:34 PM",
+        "tithi_end_time": "Feb 17, 05:31 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-02-18": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Feb 17, 05:31 PM",
+        "tithi_end_time": "Feb 18, 04:58 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-02-19": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Feb 18, 04:58 PM",
+        "tithi_end_time": "Feb 19, 03:59 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-02-20": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Feb 19, 03:59 PM",
+        "tithi_end_time": "Feb 20, 02:38 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-02-21": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Feb 20, 02:38 PM",
+        "tithi_end_time": "Feb 21, 01:01 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-02-22": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Feb 21, 01:01 PM",
+        "tithi_end_time": "Feb 22, 11:10 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-02-23": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Feb 22, 11:10 AM",
+        "tithi_end_time": "Feb 23, 09:09 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-02-24": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Feb 23, 09:09 AM",
+        "tithi_end_time": "Feb 24, 07:02 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-02-25": {
+        "tithi": "Navami",
+        "tithi_start_time": "Feb 25, 04:52 AM",
+        "tithi_end_time": "Feb 26, 02:41 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-02-26": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Feb 26, 02:41 AM",
+        "tithi_end_time": "Feb 27, 12:33 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-02-27": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Feb 27, 12:33 AM",
+        "tithi_end_time": "Feb 27, 10:33 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-02-28": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Feb 27, 10:33 PM",
+        "tithi_end_time": "Feb 28, 08:43 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-03-01": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Feb 28, 08:43 PM",
+        "tithi_end_time": "Mar 1, 07:09 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-03-02": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Mar 1, 07:09 PM",
+        "tithi_end_time": "Mar 2, 05:56 PM",
+        "next_tithi": "Purnima"
+    },
+    "2026-03-03": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Mar 2, 05:56 PM",
+        "tithi_end_time": "Mar 3, 05:07 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-03-04": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Mar 3, 05:07 PM",
+        "tithi_end_time": "Mar 4, 04:49 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-03-05": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Mar 4, 04:49 PM",
+        "tithi_end_time": "Mar 5, 05:04 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-03-06": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Mar 5, 05:04 PM",
+        "tithi_end_time": "Mar 6, 05:53 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-03-07": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Mar 6, 05:53 PM",
+        "tithi_end_time": "Mar 7, 07:17 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-03-08": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Mar 7, 07:17 PM",
+        "tithi_end_time": "Mar 8, 09:11 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-03-09": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Mar 8, 09:11 PM",
+        "tithi_end_time": "Mar 9, 11:27 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-03-10": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Mar 9, 11:27 PM",
+        "tithi_end_time": "Mar 11, 01:54 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-03-11": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Mar 11, 01:54 AM",
+        "tithi_end_time": "Mar 12, 04:19 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-03-12": {
+        "tithi": "Navami",
+        "tithi_start_time": "Mar 12, 04:19 AM",
+        "tithi_end_time": "Mar 13, 06:29 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-03-13": {
+        "tithi": "Navami",
+        "tithi_start_time": "Mar 12, 04:19 AM",
+        "tithi_end_time": "Mar 13, 06:29 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-03-14": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Mar 13, 06:29 AM",
+        "tithi_end_time": "Mar 14, 08:11 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-03-15": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Mar 14, 08:11 AM",
+        "tithi_end_time": "Mar 15, 09:16 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-03-16": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Mar 15, 09:16 AM",
+        "tithi_end_time": "Mar 16, 09:41 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-03-17": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Mar 16, 09:41 AM",
+        "tithi_end_time": "Mar 17, 09:23 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-03-18": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Mar 17, 09:23 AM",
+        "tithi_end_time": "Mar 18, 08:25 AM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-03-19": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Mar 18, 08:25 AM",
+        "tithi_end_time": "Mar 19, 06:53 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-03-20": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Mar 20, 04:52 AM",
+        "tithi_end_time": "Mar 21, 02:31 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-03-21": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Mar 21, 02:31 AM",
+        "tithi_end_time": "Mar 21, 11:56 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-03-22": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Mar 21, 11:56 PM",
+        "tithi_end_time": "Mar 22, 09:17 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-03-23": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Mar 22, 09:17 PM",
+        "tithi_end_time": "Mar 23, 06:38 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-03-24": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Mar 23, 06:38 PM",
+        "tithi_end_time": "Mar 24, 04:08 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-03-25": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Mar 24, 04:08 PM",
+        "tithi_end_time": "Mar 25, 01:50 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-03-26": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Mar 25, 01:50 PM",
+        "tithi_end_time": "Mar 26, 11:49 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-03-27": {
+        "tithi": "Navami",
+        "tithi_start_time": "Mar 26, 11:49 AM",
+        "tithi_end_time": "Mar 27, 10:07 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-03-28": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Mar 27, 10:07 AM",
+        "tithi_end_time": "Mar 28, 08:46 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-03-29": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Mar 28, 08:46 AM",
+        "tithi_end_time": "Mar 29, 07:46 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-03-30": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Mar 29, 07:46 AM",
+        "tithi_end_time": "Mar 30, 07:10 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-03-31": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Mar 30, 07:10 AM",
+        "tithi_end_time": "Mar 31, 06:56 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-04-01": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Mar 31, 06:56 AM",
+        "tithi_end_time": "Apr 1, 07:06 AM",
+        "next_tithi": "Purnima"
+    },
+    "2026-04-02": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Apr 1, 07:06 AM",
+        "tithi_end_time": "Apr 2, 07:41 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-04-03": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Apr 2, 07:41 AM",
+        "tithi_end_time": "Apr 3, 08:42 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-04-04": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Apr 3, 08:42 AM",
+        "tithi_end_time": "Apr 4, 10:09 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-04-05": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Apr 4, 10:09 AM",
+        "tithi_end_time": "Apr 5, 12:00 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-04-06": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Apr 5, 12:00 PM",
+        "tithi_end_time": "Apr 6, 02:11 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-04-07": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Apr 6, 02:11 PM",
+        "tithi_end_time": "Apr 7, 04:34 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-04-08": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Apr 7, 04:34 PM",
+        "tithi_end_time": "Apr 8, 07:02 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-04-09": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Apr 8, 07:02 PM",
+        "tithi_end_time": "Apr 9, 09:20 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-04-10": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Apr 9, 09:20 PM",
+        "tithi_end_time": "Apr 10, 11:15 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-04-11": {
+        "tithi": "Navami",
+        "tithi_start_time": "Apr 10, 11:15 PM",
+        "tithi_end_time": "Apr 12, 12:38 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-04-12": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Apr 12, 12:38 AM",
+        "tithi_end_time": "Apr 13, 01:17 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-04-13": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Apr 13, 01:17 AM",
+        "tithi_end_time": "Apr 14, 01:09 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-04-14": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Apr 14, 01:09 AM",
+        "tithi_end_time": "Apr 15, 12:12 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-04-15": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Apr 15, 12:12 AM",
+        "tithi_end_time": "Apr 15, 10:31 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-04-16": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Apr 15, 10:31 PM",
+        "tithi_end_time": "Apr 16, 08:11 PM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-04-17": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Apr 16, 08:11 PM",
+        "tithi_end_time": "Apr 17, 05:21 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-04-18": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Apr 17, 05:21 PM",
+        "tithi_end_time": "Apr 18, 02:11 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-04-19": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Apr 18, 02:11 PM",
+        "tithi_end_time": "Apr 19, 10:49 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-04-20": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Apr 19, 10:49 AM",
+        "tithi_end_time": "Apr 20, 07:27 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-04-21": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Apr 21, 04:15 AM",
+        "tithi_end_time": "Apr 22, 01:20 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-04-22": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Apr 22, 01:20 AM",
+        "tithi_end_time": "Apr 22, 10:49 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-04-23": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Apr 22, 10:49 PM",
+        "tithi_end_time": "Apr 23, 08:49 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-04-24": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Apr 23, 08:49 PM",
+        "tithi_end_time": "Apr 24, 07:22 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-04-25": {
+        "tithi": "Navami",
+        "tithi_start_time": "Apr 24, 07:22 PM",
+        "tithi_end_time": "Apr 25, 06:28 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-04-26": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Apr 25, 06:28 PM",
+        "tithi_end_time": "Apr 26, 06:07 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-04-27": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Apr 26, 06:07 PM",
+        "tithi_end_time": "Apr 27, 06:16 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-04-28": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Apr 27, 06:16 PM",
+        "tithi_end_time": "Apr 28, 06:52 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-04-29": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Apr 28, 06:52 PM",
+        "tithi_end_time": "Apr 29, 07:52 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-04-30": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Apr 29, 07:52 PM",
+        "tithi_end_time": "Apr 30, 09:12 PM",
+        "next_tithi": "Purnima"
+    },
+    "2026-05-01": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Apr 30, 09:12 PM",
+        "tithi_end_time": "May 1, 10:53 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-05-02": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "May 1, 10:53 PM",
+        "tithi_end_time": "May 3, 12:50 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-05-03": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "May 3, 12:50 AM",
+        "tithi_end_time": "May 4, 03:02 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-05-04": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "May 4, 03:02 AM",
+        "tithi_end_time": "May 5, 05:24 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-05-05": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "May 4, 03:02 AM",
+        "tithi_end_time": "May 5, 05:24 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-05-06": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "May 5, 05:24 AM",
+        "tithi_end_time": "May 6, 07:51 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-05-07": {
+        "tithi": "Panchami",
+        "tithi_start_time": "May 6, 07:51 AM",
+        "tithi_end_time": "May 7, 10:14 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-05-08": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "May 7, 10:14 AM",
+        "tithi_end_time": "May 8, 12:22 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-05-09": {
+        "tithi": "Saptami",
+        "tithi_start_time": "May 8, 12:22 PM",
+        "tithi_end_time": "May 9, 02:03 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-05-10": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "May 9, 02:03 PM",
+        "tithi_end_time": "May 10, 03:06 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-05-11": {
+        "tithi": "Navami",
+        "tithi_start_time": "May 10, 03:06 PM",
+        "tithi_end_time": "May 11, 03:24 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-05-12": {
+        "tithi": "Dashami",
+        "tithi_start_time": "May 11, 03:24 PM",
+        "tithi_end_time": "May 12, 02:52 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-05-13": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "May 12, 02:52 PM",
+        "tithi_end_time": "May 13, 01:30 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-05-14": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "May 13, 01:30 PM",
+        "tithi_end_time": "May 14, 11:20 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-05-15": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "May 14, 11:20 AM",
+        "tithi_end_time": "May 15, 08:31 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-05-16": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "May 15, 08:31 AM",
+        "tithi_end_time": "May 16, 05:11 AM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-05-17": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "May 17, 01:30 AM",
+        "tithi_end_time": "May 17, 09:41 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-05-18": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "May 17, 09:41 PM",
+        "tithi_end_time": "May 18, 05:53 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-05-19": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "May 18, 05:53 PM",
+        "tithi_end_time": "May 19, 02:18 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-05-20": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "May 19, 02:18 PM",
+        "tithi_end_time": "May 20, 11:07 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-05-21": {
+        "tithi": "Panchami",
+        "tithi_start_time": "May 20, 11:07 AM",
+        "tithi_end_time": "May 21, 08:27 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-05-22": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "May 21, 08:27 AM",
+        "tithi_end_time": "May 22, 06:24 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-05-23": {
+        "tithi": "Saptami",
+        "tithi_start_time": "May 22, 06:24 AM",
+        "tithi_end_time": "May 23, 05:04 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-05-24": {
+        "tithi": "Navami",
+        "tithi_start_time": "May 24, 04:27 AM",
+        "tithi_end_time": "May 25, 04:31 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-05-25": {
+        "tithi": "Dashami",
+        "tithi_start_time": "May 25, 04:31 AM",
+        "tithi_end_time": "May 26, 05:11 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-05-26": {
+        "tithi": "Dashami",
+        "tithi_start_time": "May 25, 04:31 AM",
+        "tithi_end_time": "May 26, 05:11 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-05-27": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "May 26, 05:11 AM",
+        "tithi_end_time": "May 27, 06:22 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-05-28": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "May 27, 06:22 AM",
+        "tithi_end_time": "May 28, 07:57 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-05-29": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "May 28, 07:57 AM",
+        "tithi_end_time": "May 29, 09:51 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-05-30": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "May 29, 09:51 AM",
+        "tithi_end_time": "May 30, 11:58 AM",
+        "next_tithi": "Purnima"
+    },
+    "2026-05-31": {
+        "tithi": "Purnima",
+        "tithi_start_time": "May 30, 11:58 AM",
+        "tithi_end_time": "May 31, 02:15 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-06-01": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "May 31, 02:15 PM",
+        "tithi_end_time": "Jun 1, 04:37 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-06-02": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Jun 1, 04:37 PM",
+        "tithi_end_time": "Jun 2, 07:01 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-06-03": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Jun 2, 07:01 PM",
+        "tithi_end_time": "Jun 3, 09:21 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-06-04": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Jun 3, 09:21 PM",
+        "tithi_end_time": "Jun 4, 11:30 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-06-05": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Jun 4, 11:30 PM",
+        "tithi_end_time": "Jun 6, 01:20 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-06-06": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Jun 6, 01:20 AM",
+        "tithi_end_time": "Jun 7, 02:41 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-06-07": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Jun 7, 02:41 AM",
+        "tithi_end_time": "Jun 8, 03:24 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-06-08": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Jun 8, 03:24 AM",
+        "tithi_end_time": "Jun 9, 03:24 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-06-09": {
+        "tithi": "Navami",
+        "tithi_start_time": "Jun 9, 03:24 AM",
+        "tithi_end_time": "Jun 10, 02:35 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-06-10": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Jun 10, 02:35 AM",
+        "tithi_end_time": "Jun 11, 12:58 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-06-11": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Jun 11, 12:58 AM",
+        "tithi_end_time": "Jun 11, 10:36 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-06-12": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Jun 11, 10:36 PM",
+        "tithi_end_time": "Jun 12, 07:37 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-06-13": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Jun 12, 07:37 PM",
+        "tithi_end_time": "Jun 13, 04:08 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-06-14": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Jun 13, 04:08 PM",
+        "tithi_end_time": "Jun 14, 12:20 PM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-06-15": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Jun 14, 12:20 PM",
+        "tithi_end_time": "Jun 15, 08:24 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-06-16": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Jun 16, 04:31 AM",
+        "tithi_end_time": "Jun 17, 12:52 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-06-17": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Jun 17, 12:52 AM",
+        "tithi_end_time": "Jun 17, 09:39 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-06-18": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Jun 17, 09:39 PM",
+        "tithi_end_time": "Jun 18, 06:59 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-06-19": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Jun 18, 06:59 PM",
+        "tithi_end_time": "Jun 19, 05:00 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-06-20": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Jun 19, 05:00 PM",
+        "tithi_end_time": "Jun 20, 03:47 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-06-21": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Jun 20, 03:47 PM",
+        "tithi_end_time": "Jun 21, 03:21 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-06-22": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Jun 21, 03:21 PM",
+        "tithi_end_time": "Jun 22, 03:40 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-06-23": {
+        "tithi": "Navami",
+        "tithi_start_time": "Jun 22, 03:40 PM",
+        "tithi_end_time": "Jun 23, 04:40 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-06-24": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Jun 23, 04:40 PM",
+        "tithi_end_time": "Jun 24, 06:12 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-06-25": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Jun 24, 06:12 PM",
+        "tithi_end_time": "Jun 25, 08:09 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-06-26": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Jun 25, 08:09 PM",
+        "tithi_end_time": "Jun 26, 10:22 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-06-27": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Jun 26, 10:22 PM",
+        "tithi_end_time": "Jun 28, 12:43 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-06-28": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Jun 28, 12:43 AM",
+        "tithi_end_time": "Jun 29, 03:06 AM",
+        "next_tithi": "Purnima"
+    },
+    "2026-06-29": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Jun 29, 03:06 AM",
+        "tithi_end_time": "Jun 30, 05:26 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-06-30": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Jun 29, 03:06 AM",
+        "tithi_end_time": "Jun 30, 05:26 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-07-01": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Jun 30, 05:26 AM",
+        "tithi_end_time": "Jul 1, 07:38 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-07-02": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Jul 1, 07:38 AM",
+        "tithi_end_time": "Jul 2, 09:38 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-07-03": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Jul 2, 09:38 AM",
+        "tithi_end_time": "Jul 3, 11:20 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-07-04": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Jul 3, 11:20 AM",
+        "tithi_end_time": "Jul 4, 12:40 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-07-05": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Jul 4, 12:40 PM",
+        "tithi_end_time": "Jul 5, 01:31 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-07-06": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Jul 5, 01:31 PM",
+        "tithi_end_time": "Jul 6, 01:47 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-07-07": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Jul 6, 01:47 PM",
+        "tithi_end_time": "Jul 7, 01:25 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-07-08": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Jul 7, 01:25 PM",
+        "tithi_end_time": "Jul 8, 12:22 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-07-09": {
+        "tithi": "Navami",
+        "tithi_start_time": "Jul 8, 12:22 PM",
+        "tithi_end_time": "Jul 9, 10:38 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-07-10": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Jul 9, 10:38 AM",
+        "tithi_end_time": "Jul 10, 08:16 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-07-11": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Jul 10, 08:16 AM",
+        "tithi_end_time": "Jul 11, 05:23 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-07-12": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Jul 12, 02:04 AM",
+        "tithi_end_time": "Jul 12, 10:30 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-07-13": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Jul 12, 10:30 PM",
+        "tithi_end_time": "Jul 13, 06:49 PM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-07-14": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Jul 13, 06:49 PM",
+        "tithi_end_time": "Jul 14, 03:13 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-07-15": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Jul 14, 03:13 PM",
+        "tithi_end_time": "Jul 15, 11:51 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-07-16": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Jul 15, 11:51 AM",
+        "tithi_end_time": "Jul 16, 08:53 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-07-17": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Jul 16, 08:53 AM",
+        "tithi_end_time": "Jul 17, 06:28 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-07-18": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Jul 18, 04:43 AM",
+        "tithi_end_time": "Jul 19, 03:43 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-07-19": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Jul 19, 03:43 AM",
+        "tithi_end_time": "Jul 20, 03:30 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-07-20": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Jul 20, 03:30 AM",
+        "tithi_end_time": "Jul 21, 04:03 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-07-21": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Jul 21, 04:03 AM",
+        "tithi_end_time": "Jul 22, 05:17 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-07-22": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Jul 21, 04:03 AM",
+        "tithi_end_time": "Jul 22, 05:17 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-07-23": {
+        "tithi": "Navami",
+        "tithi_start_time": "Jul 22, 05:17 AM",
+        "tithi_end_time": "Jul 23, 07:03 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-07-24": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Jul 23, 07:03 AM",
+        "tithi_end_time": "Jul 24, 09:13 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-07-25": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Jul 24, 09:13 AM",
+        "tithi_end_time": "Jul 25, 11:34 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-07-26": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Jul 25, 11:34 AM",
+        "tithi_end_time": "Jul 26, 01:58 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-07-27": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Jul 26, 01:58 PM",
+        "tithi_end_time": "Jul 27, 04:15 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-07-28": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Jul 27, 04:15 PM",
+        "tithi_end_time": "Jul 28, 06:19 PM",
+        "next_tithi": "Purnima"
+    },
+    "2026-07-29": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Jul 28, 06:19 PM",
+        "tithi_end_time": "Jul 29, 08:05 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-07-30": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Jul 29, 08:05 PM",
+        "tithi_end_time": "Jul 30, 09:30 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-07-31": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Jul 30, 09:30 PM",
+        "tithi_end_time": "Jul 31, 10:32 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-08-01": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Jul 31, 10:32 PM",
+        "tithi_end_time": "Aug 1, 11:07 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-08-02": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Aug 1, 11:07 PM",
+        "tithi_end_time": "Aug 2, 11:15 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-08-03": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Aug 2, 11:15 PM",
+        "tithi_end_time": "Aug 3, 10:54 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-08-04": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Aug 3, 10:54 PM",
+        "tithi_end_time": "Aug 4, 10:03 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-08-05": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Aug 4, 10:03 PM",
+        "tithi_end_time": "Aug 5, 08:42 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-08-06": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Aug 5, 08:42 PM",
+        "tithi_end_time": "Aug 6, 06:53 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-08-07": {
+        "tithi": "Navami",
+        "tithi_start_time": "Aug 6, 06:53 PM",
+        "tithi_end_time": "Aug 7, 04:37 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-08-08": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Aug 7, 04:37 PM",
+        "tithi_end_time": "Aug 8, 01:59 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-08-09": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Aug 8, 01:59 PM",
+        "tithi_end_time": "Aug 9, 11:05 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-08-10": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Aug 9, 11:05 AM",
+        "tithi_end_time": "Aug 10, 08:01 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-08-11": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Aug 11, 04:54 AM",
+        "tithi_end_time": "Aug 12, 01:53 AM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-08-12": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Aug 12, 01:53 AM",
+        "tithi_end_time": "Aug 12, 11:06 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-08-13": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Aug 12, 11:06 PM",
+        "tithi_end_time": "Aug 13, 08:41 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-08-14": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Aug 13, 08:41 PM",
+        "tithi_end_time": "Aug 14, 06:47 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-08-15": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Aug 14, 06:47 PM",
+        "tithi_end_time": "Aug 15, 05:29 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-08-16": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Aug 15, 05:29 PM",
+        "tithi_end_time": "Aug 16, 04:52 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-08-17": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Aug 16, 04:52 PM",
+        "tithi_end_time": "Aug 17, 05:00 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-08-18": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Aug 17, 05:00 PM",
+        "tithi_end_time": "Aug 18, 05:51 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-08-19": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Aug 18, 05:51 PM",
+        "tithi_end_time": "Aug 19, 07:19 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-08-20": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Aug 19, 07:19 PM",
+        "tithi_end_time": "Aug 20, 09:18 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-08-21": {
+        "tithi": "Navami",
+        "tithi_start_time": "Aug 20, 09:18 PM",
+        "tithi_end_time": "Aug 21, 11:36 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-08-22": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Aug 21, 11:36 PM",
+        "tithi_end_time": "Aug 23, 02:00 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-08-23": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Aug 23, 02:00 AM",
+        "tithi_end_time": "Aug 24, 04:19 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-08-24": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Aug 24, 04:19 AM",
+        "tithi_end_time": "Aug 25, 06:21 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-08-25": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Aug 24, 04:19 AM",
+        "tithi_end_time": "Aug 25, 06:21 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-08-26": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Aug 25, 06:21 AM",
+        "tithi_end_time": "Aug 26, 07:59 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-08-27": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Aug 26, 07:59 AM",
+        "tithi_end_time": "Aug 27, 09:09 AM",
+        "next_tithi": "Purnima"
+    },
+    "2026-08-28": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Aug 27, 09:09 AM",
+        "tithi_end_time": "Aug 28, 09:48 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-08-29": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Aug 28, 09:48 AM",
+        "tithi_end_time": "Aug 29, 09:57 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-08-30": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Aug 29, 09:57 AM",
+        "tithi_end_time": "Aug 30, 09:37 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-08-31": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Aug 30, 09:37 AM",
+        "tithi_end_time": "Aug 31, 08:51 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-09-01": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Aug 31, 08:51 AM",
+        "tithi_end_time": "Sep 1, 07:42 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-09-02": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Sep 1, 07:42 AM",
+        "tithi_end_time": "Sep 2, 06:12 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-09-03": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Sep 3, 04:26 AM",
+        "tithi_end_time": "Sep 4, 02:25 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-09-04": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Sep 4, 02:25 AM",
+        "tithi_end_time": "Sep 5, 12:13 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-09-05": {
+        "tithi": "Navami",
+        "tithi_start_time": "Sep 5, 12:13 AM",
+        "tithi_end_time": "Sep 5, 09:54 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-09-06": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Sep 5, 09:54 PM",
+        "tithi_end_time": "Sep 6, 07:29 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-09-07": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Sep 6, 07:29 PM",
+        "tithi_end_time": "Sep 7, 05:04 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-09-08": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Sep 7, 05:04 PM",
+        "tithi_end_time": "Sep 8, 02:43 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-09-09": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Sep 8, 02:43 PM",
+        "tithi_end_time": "Sep 9, 12:31 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-09-10": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Sep 9, 12:31 PM",
+        "tithi_end_time": "Sep 10, 10:33 AM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-09-11": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Sep 10, 10:33 AM",
+        "tithi_end_time": "Sep 11, 08:56 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-09-12": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Sep 11, 08:56 AM",
+        "tithi_end_time": "Sep 12, 07:46 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-09-13": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Sep 12, 07:46 AM",
+        "tithi_end_time": "Sep 13, 07:08 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-09-14": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Sep 13, 07:08 AM",
+        "tithi_end_time": "Sep 14, 07:07 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-09-15": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Sep 14, 07:07 AM",
+        "tithi_end_time": "Sep 15, 07:44 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-09-16": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Sep 15, 07:44 AM",
+        "tithi_end_time": "Sep 16, 08:59 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-09-17": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Sep 16, 08:59 AM",
+        "tithi_end_time": "Sep 17, 10:48 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-09-18": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Sep 17, 10:48 AM",
+        "tithi_end_time": "Sep 18, 01:01 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-09-19": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Sep 18, 01:01 PM",
+        "tithi_end_time": "Sep 19, 03:27 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-09-20": {
+        "tithi": "Navami",
+        "tithi_start_time": "Sep 19, 03:27 PM",
+        "tithi_end_time": "Sep 20, 05:51 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-09-21": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Sep 20, 05:51 PM",
+        "tithi_end_time": "Sep 21, 08:01 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-09-22": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Sep 21, 08:01 PM",
+        "tithi_end_time": "Sep 22, 09:43 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-09-23": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Sep 22, 09:43 PM",
+        "tithi_end_time": "Sep 23, 10:50 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-09-24": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Sep 23, 10:50 PM",
+        "tithi_end_time": "Sep 24, 11:18 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-09-25": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Sep 24, 11:18 PM",
+        "tithi_end_time": "Sep 25, 11:07 PM",
+        "next_tithi": "Purnima"
+    },
+    "2026-09-26": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Sep 25, 11:07 PM",
+        "tithi_end_time": "Sep 26, 10:18 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-09-27": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Sep 26, 10:18 PM",
+        "tithi_end_time": "Sep 27, 08:59 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-09-28": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Sep 27, 08:59 PM",
+        "tithi_end_time": "Sep 28, 07:13 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-09-29": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Sep 28, 07:13 PM",
+        "tithi_end_time": "Sep 29, 05:10 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-09-30": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Sep 29, 05:10 PM",
+        "tithi_end_time": "Sep 30, 02:55 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-10-01": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Sep 30, 02:55 PM",
+        "tithi_end_time": "Oct 1, 12:35 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-10-02": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Oct 1, 12:35 PM",
+        "tithi_end_time": "Oct 2, 10:15 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-10-03": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Oct 2, 10:15 AM",
+        "tithi_end_time": "Oct 3, 08:00 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-10-04": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Oct 3, 08:00 AM",
+        "tithi_end_time": "Oct 4, 05:52 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-10-05": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Oct 5, 03:54 AM",
+        "tithi_end_time": "Oct 6, 02:07 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-10-06": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Oct 6, 02:07 AM",
+        "tithi_end_time": "Oct 7, 12:34 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-10-07": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Oct 7, 12:34 AM",
+        "tithi_end_time": "Oct 7, 11:16 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-10-08": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Oct 7, 11:16 PM",
+        "tithi_end_time": "Oct 8, 10:16 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-10-09": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Oct 8, 10:16 PM",
+        "tithi_end_time": "Oct 9, 09:36 PM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-10-10": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Oct 9, 09:36 PM",
+        "tithi_end_time": "Oct 10, 09:19 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-10-11": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Oct 10, 09:19 PM",
+        "tithi_end_time": "Oct 11, 09:31 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-10-12": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Oct 11, 09:31 PM",
+        "tithi_end_time": "Oct 12, 10:13 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-10-13": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Oct 12, 10:13 PM",
+        "tithi_end_time": "Oct 13, 11:28 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-10-14": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Oct 13, 11:28 PM",
+        "tithi_end_time": "Oct 15, 01:13 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-10-15": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Oct 15, 01:13 AM",
+        "tithi_end_time": "Oct 16, 03:25 AM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-10-16": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Oct 16, 03:25 AM",
+        "tithi_end_time": "Oct 17, 05:54 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-10-17": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Oct 16, 03:25 AM",
+        "tithi_end_time": "Oct 17, 05:54 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-10-18": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Oct 17, 05:54 AM",
+        "tithi_end_time": "Oct 18, 08:28 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-10-19": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Oct 18, 08:28 AM",
+        "tithi_end_time": "Oct 19, 10:52 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-10-20": {
+        "tithi": "Navami",
+        "tithi_start_time": "Oct 19, 10:52 AM",
+        "tithi_end_time": "Oct 20, 12:50 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-10-21": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Oct 20, 12:50 PM",
+        "tithi_end_time": "Oct 21, 02:12 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-10-22": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Oct 21, 02:12 PM",
+        "tithi_end_time": "Oct 22, 02:48 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-10-23": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Oct 22, 02:48 PM",
+        "tithi_end_time": "Oct 23, 02:36 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-10-24": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Oct 23, 02:36 PM",
+        "tithi_end_time": "Oct 24, 01:37 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-10-25": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Oct 24, 01:37 PM",
+        "tithi_end_time": "Oct 25, 11:56 AM",
+        "next_tithi": "Purnima"
+    },
+    "2026-10-26": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Oct 25, 11:56 AM",
+        "tithi_end_time": "Oct 26, 09:41 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-10-27": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Oct 26, 09:41 AM",
+        "tithi_end_time": "Oct 27, 07:01 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-10-28": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Oct 28, 04:07 AM",
+        "tithi_end_time": "Oct 29, 01:07 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-10-29": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Oct 29, 01:07 AM",
+        "tithi_end_time": "Oct 29, 10:10 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-10-30": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Oct 29, 10:10 PM",
+        "tithi_end_time": "Oct 30, 07:25 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-10-31": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Oct 30, 07:25 PM",
+        "tithi_end_time": "Oct 31, 04:57 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-11-01": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Oct 31, 04:57 PM",
+        "tithi_end_time": "Nov 1, 02:52 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-11-02": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Nov 1, 02:52 PM",
+        "tithi_end_time": "Nov 2, 01:10 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-11-03": {
+        "tithi": "Navami",
+        "tithi_start_time": "Nov 2, 01:10 PM",
+        "tithi_end_time": "Nov 3, 11:54 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-11-04": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Nov 3, 11:54 AM",
+        "tithi_end_time": "Nov 4, 11:03 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-11-05": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Nov 4, 11:03 AM",
+        "tithi_end_time": "Nov 5, 10:35 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-11-06": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Nov 5, 10:35 AM",
+        "tithi_end_time": "Nov 6, 10:30 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-11-07": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Nov 6, 10:30 AM",
+        "tithi_end_time": "Nov 7, 10:48 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-11-08": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Nov 7, 10:48 AM",
+        "tithi_end_time": "Nov 8, 11:28 AM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-11-09": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Nov 8, 11:28 AM",
+        "tithi_end_time": "Nov 9, 12:31 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-11-10": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Nov 9, 12:31 PM",
+        "tithi_end_time": "Nov 10, 02:00 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-11-11": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Nov 10, 02:00 PM",
+        "tithi_end_time": "Nov 11, 03:53 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-11-12": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Nov 11, 03:53 PM",
+        "tithi_end_time": "Nov 12, 06:09 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-11-13": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Nov 12, 06:09 PM",
+        "tithi_end_time": "Nov 13, 08:42 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-11-14": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Nov 13, 08:42 PM",
+        "tithi_end_time": "Nov 14, 11:24 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-11-15": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Nov 14, 11:24 PM",
+        "tithi_end_time": "Nov 16, 02:01 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-11-16": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Nov 16, 02:01 AM",
+        "tithi_end_time": "Nov 17, 04:20 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-11-17": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Nov 17, 04:20 AM",
+        "tithi_end_time": "Nov 18, 06:05 AM",
+        "next_tithi": "Navami"
+    },
+    "2026-11-18": {
+        "tithi": "Navami",
+        "tithi_start_time": "Nov 18, 06:05 AM",
+        "tithi_end_time": "Nov 19, 07:06 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-11-19": {
+        "tithi": "Navami",
+        "tithi_start_time": "Nov 18, 06:05 AM",
+        "tithi_end_time": "Nov 19, 07:06 AM",
+        "next_tithi": "Dashami"
+    },
+    "2026-11-20": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Nov 19, 07:06 AM",
+        "tithi_end_time": "Nov 20, 07:16 AM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-11-21": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Nov 20, 07:16 AM",
+        "tithi_end_time": "Nov 21, 06:31 AM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-11-22": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Nov 22, 04:56 AM",
+        "tithi_end_time": "Nov 23, 02:37 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-11-23": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Nov 23, 02:37 AM",
+        "tithi_end_time": "Nov 23, 11:42 PM",
+        "next_tithi": "Purnima"
+    },
+    "2026-11-24": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Nov 23, 11:42 PM",
+        "tithi_end_time": "Nov 24, 08:23 PM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-11-25": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Nov 24, 08:23 PM",
+        "tithi_end_time": "Nov 25, 04:50 PM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-11-26": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Nov 25, 04:50 PM",
+        "tithi_end_time": "Nov 26, 01:15 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-11-27": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Nov 26, 01:15 PM",
+        "tithi_end_time": "Nov 27, 09:48 AM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-11-28": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Nov 27, 09:48 AM",
+        "tithi_end_time": "Nov 28, 06:40 AM",
+        "next_tithi": "Panchami"
+    },
+    "2026-11-29": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Nov 29, 03:57 AM",
+        "tithi_end_time": "Nov 30, 01:46 AM",
+        "next_tithi": "Saptami"
+    },
+    "2026-11-30": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Nov 30, 01:46 AM",
+        "tithi_end_time": "Dec 1, 12:12 AM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-12-01": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Dec 1, 12:12 AM",
+        "tithi_end_time": "Dec 1, 11:14 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-12-02": {
+        "tithi": "Navami",
+        "tithi_start_time": "Dec 1, 11:14 PM",
+        "tithi_end_time": "Dec 2, 10:52 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-12-03": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Dec 2, 10:52 PM",
+        "tithi_end_time": "Dec 3, 11:03 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-12-04": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Dec 3, 11:03 PM",
+        "tithi_end_time": "Dec 4, 11:45 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-12-05": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Dec 4, 11:45 PM",
+        "tithi_end_time": "Dec 6, 12:52 AM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-12-06": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Dec 6, 12:52 AM",
+        "tithi_end_time": "Dec 7, 02:22 AM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-12-07": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Dec 7, 02:22 AM",
+        "tithi_end_time": "Dec 8, 04:12 AM",
+        "next_tithi": "Amavasya"
+    },
+    "2026-12-08": {
+        "tithi": "Amavasya",
+        "tithi_start_time": "Dec 8, 04:12 AM",
+        "tithi_end_time": "Dec 9, 06:21 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-12-09": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Dec 9, 06:21 AM",
+        "tithi_end_time": "Dec 10, 08:46 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-12-10": {
+        "tithi": "Pratipada",
+        "tithi_start_time": "Dec 9, 06:21 AM",
+        "tithi_end_time": "Dec 10, 08:46 AM",
+        "next_tithi": "Dwitiya"
+    },
+    "2026-12-11": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Dec 10, 08:46 AM",
+        "tithi_end_time": "Dec 11, 11:23 AM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-12-12": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Dec 11, 11:23 AM",
+        "tithi_end_time": "Dec 12, 02:06 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-12-13": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Dec 12, 02:06 PM",
+        "tithi_end_time": "Dec 13, 04:47 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-12-14": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Dec 13, 04:47 PM",
+        "tithi_end_time": "Dec 14, 07:16 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-12-15": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Dec 14, 07:16 PM",
+        "tithi_end_time": "Dec 15, 09:19 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-12-16": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Dec 15, 09:19 PM",
+        "tithi_end_time": "Dec 16, 10:46 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-12-17": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Dec 16, 10:46 PM",
+        "tithi_end_time": "Dec 17, 11:26 PM",
+        "next_tithi": "Navami"
+    },
+    "2026-12-18": {
+        "tithi": "Navami",
+        "tithi_start_time": "Dec 17, 11:26 PM",
+        "tithi_end_time": "Dec 18, 11:14 PM",
+        "next_tithi": "Dashami"
+    },
+    "2026-12-19": {
+        "tithi": "Dashami",
+        "tithi_start_time": "Dec 18, 11:14 PM",
+        "tithi_end_time": "Dec 19, 10:09 PM",
+        "next_tithi": "Ekadashi"
+    },
+    "2026-12-20": {
+        "tithi": "Ekadashi",
+        "tithi_start_time": "Dec 19, 10:09 PM",
+        "tithi_end_time": "Dec 20, 08:14 PM",
+        "next_tithi": "Dwadashi"
+    },
+    "2026-12-21": {
+        "tithi": "Dwadashi",
+        "tithi_start_time": "Dec 20, 08:14 PM",
+        "tithi_end_time": "Dec 21, 05:36 PM",
+        "next_tithi": "Trayodashi"
+    },
+    "2026-12-22": {
+        "tithi": "Trayodashi",
+        "tithi_start_time": "Dec 21, 05:36 PM",
+        "tithi_end_time": "Dec 22, 02:24 PM",
+        "next_tithi": "Chaturdashi"
+    },
+    "2026-12-23": {
+        "tithi": "Chaturdashi",
+        "tithi_start_time": "Dec 22, 02:24 PM",
+        "tithi_end_time": "Dec 23, 10:47 AM",
+        "next_tithi": "Purnima"
+    },
+    "2026-12-24": {
+        "tithi": "Purnima",
+        "tithi_start_time": "Dec 23, 10:47 AM",
+        "tithi_end_time": "Dec 24, 06:58 AM",
+        "next_tithi": "Pratipada"
+    },
+    "2026-12-25": {
+        "tithi": "Dwitiya",
+        "tithi_start_time": "Dec 25, 03:07 AM",
+        "tithi_end_time": "Dec 25, 11:26 PM",
+        "next_tithi": "Tritiya"
+    },
+    "2026-12-26": {
+        "tithi": "Tritiya",
+        "tithi_start_time": "Dec 25, 11:26 PM",
+        "tithi_end_time": "Dec 26, 08:05 PM",
+        "next_tithi": "Chaturthi"
+    },
+    "2026-12-27": {
+        "tithi": "Chaturthi",
+        "tithi_start_time": "Dec 26, 08:05 PM",
+        "tithi_end_time": "Dec 27, 05:13 PM",
+        "next_tithi": "Panchami"
+    },
+    "2026-12-28": {
+        "tithi": "Panchami",
+        "tithi_start_time": "Dec 27, 05:13 PM",
+        "tithi_end_time": "Dec 28, 02:58 PM",
+        "next_tithi": "Shashthi"
+    },
+    "2026-12-29": {
+        "tithi": "Shashthi",
+        "tithi_start_time": "Dec 28, 02:58 PM",
+        "tithi_end_time": "Dec 29, 01:25 PM",
+        "next_tithi": "Saptami"
+    },
+    "2026-12-30": {
+        "tithi": "Saptami",
+        "tithi_start_time": "Dec 29, 01:25 PM",
+        "tithi_end_time": "Dec 30, 12:36 PM",
+        "next_tithi": "Ashtami"
+    },
+    "2026-12-31": {
+        "tithi": "Ashtami",
+        "tithi_start_time": "Dec 30, 12:36 PM",
+        "tithi_end_time": "Dec 31, 12:32 PM",
+        "next_tithi": "Navami"
+    }
+}

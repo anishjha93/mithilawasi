@@ -1,0 +1,5078 @@
+[
+  {
+    "slug": "makhana-kheer",
+    "category": "Sweets",
+    "prepTime": "5 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Makhana Kheer",
+        "description": "A creamy, delicious pudding made from Fox Nuts (Makhana), a staple of Mithila.",
+        "ingredients": [
+          "2 cups Makhana (Fox Nuts)",
+          "1 liter Full Cream Milk",
+          "1/2 cup Sugar (or Jaggery)",
+          "1 tbsp Ghee",
+          "1/2 tsp Cardamom powder",
+          "Chopped Dry Fruits (Almonds, Cashews, Pistachios)",
+          "Saffron strands (optional)"
+        ],
+        "instructions": [
+          "Heat ghee in a pan and roast the Makhana on low heat until they become crisp.",
+          "Crush 1/3rd of the roasted Makhana coarsely. Keep the rest whole.",
+          "Boil the milk in a heavy-bottomed pot. Reduce the flame and let it thicken slightly.",
+          "Add the roasted Makhana (both whole and crushed) to the boiling milk.",
+          "Cook on low heat for 10-15 minutes until the Makhana softens and the milk thickens.",
+          "Add sugar, cardamom powder, and nuts. Cook for another 2-3 minutes.",
+          "Turn off the heat. Serve warm or chilled."
+        ],
+        "culturalSignificance": "Makhana is considered auspicious in Mithila and is often served during weddings and festivals. This kheer is a healthier alternative to rice kheer."
+      },
+      "hi": {
+        "title": "मखानक खीर",
+        "description": "मखाना की खीर एक स्वादिष्ट और पौष्टिक मिठाई है, जो मिथिला में बहुत लोकप्रिय है।",
+        "ingredients": [
+          "2 कप मखाना",
+          "1 लीटर फुल क्रीम दूध",
+          "1/2 कप चीनी (या गुड़)",
+          "1 बड़ा चम्मच घी",
+          "1/2 छोटा चम्मच इलायची पाउडर",
+          "कटे हुए मेवे (बादाम, काजू, पिस्ता)",
+          "केसर (वैकल्पिक)"
+        ],
+        "instructions": [
+          "एक कड़ाही में घी गर्म करें और मखाने को कुरकुरा होने तक भूनें।",
+          "भुने हुए मखाने का एक तिहाई हिस्सा दरदरा पीस लें। बाकी को साबुत रखें।",
+          "एक भारी तले वाले बर्तन में दूध उबालें। आंच कम करें और इसे थोड़ा गाढ़ा होने दें।",
+          "उबलते दूध में भुने हुए मखाने (साबुत और पिसे हुए) डालें।",
+          "धीमी आंच पर 10-15 मिनट तक पकाएं जब तक मखाना नरम न हो जाए और दूध गाढ़ा न हो जाए।",
+          "चीनी, इलायची पाउडर और मेवे डालें। 2-3 मिनट और पकाएं।",
+          "आंच बंद कर दें। गर्मागर्म या ठंडा करके परोसें।"
+        ],
+        "culturalSignificance": "मिथिला में मखाना को शुभ माना जाता है और इसे अक्सर शादियों और त्योहारों के दौरान परोसा जाता है।"
+      },
+      "mai": {
+        "title": "मखानक खीर",
+        "description": "मखानक खीर मिथिलाक एकटा प्रमुख आर स्वादिष्ट मिठाई थिक।",
+        "ingredients": [
+          "२ कप मखान",
+          "१ लीटर फुल क्रीम दूध",
+          "१/२ कप चीनी (या गुड़)",
+          "१ बड़का चम्मच घी",
+          "१/२ छोट चम्मच इलायची पाउडर",
+          "कटल मेवा (बादाम, काजू, पिस्ता)",
+          "केसर (इच्छानुसार)"
+        ],
+        "instructions": [
+          "कड़ाही में घी गर्म करू आर मखान के कुरकुरा होय तक भुजू।",
+          "भुजल मखान के एक तिहाई हिस्सा दरदरा क क कूटि लिय। बाकी के साबुत राखू।",
+          "एकटा भारी पेंदी वाला बर्तन में दूध खौलाउ। आंच कम क क एकरा तनी गाढ़ होय दिय।",
+          "खौलैत दूध में भुजल मखान (साबुत आर कुटल) द दिय।",
+          "कम आंच पर १०-१५ मिनट तक पकाउ जब तक मखान नरम नहि भ जाय आर दूध गाढ़ नहि भ जाय।",
+          "चीनी, इलायची पाउडर आर मेवा दिय। २-३ मिनट आर पकाउ।",
+          "आंच बंद क दिय। गरम या ठंडा क क परसू।"
+        ],
+        "culturalSignificance": "मिथिला में मखान के शुभ मानल जायत छैक आर ई विवाह-डांगा आर पावनि-तिहार में अक्सर बनाओल जायत छैक।"
+      }
+    }
+  },
+  {
+    "slug": "thekua",
+    "category": "Festival Special",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Thekua",
+        "description": "A traditional crispy sweet cookie made of whole wheat flour and jaggery, essential for Chhath Puja.",
+        "ingredients": [
+          "2 cups Whole Wheat Flour (Atta)",
+          "1 cup Jaggery (melted in 1/2 cup water) or Sugar",
+          "1/4 cup Desi Ghee (fro moyan)",
+          "1 tsp Cardamom powder",
+          "1 tbsp Fennel seeds (Saunf)",
+          "Chopped Coconut (optional)",
+          "Oil or Ghee for deep frying"
+        ],
+        "instructions": [
+          "In a large bowl, mix wheat flour, ghee, cardamom powder, fennel seeds, and coconut.",
+          "Rub the ghee into the flour using your fingers until it resembles breadcrumbs (Moyan).",
+          "Add the cooled jaggery syrup (or sugar water) little by little to knead a stiff dough.",
+          "Pinch small balls of dough and press them against a Thekua mould (archa) to create patterns.",
+          "Heat oil/ghee in a kadhai on medium flame.",
+          "Deep fry the Thekuas on low-medium heat until golden brown and crispy.",
+          "Cool completely before storing."
+        ],
+        "culturalSignificance": "Thekua is the main \"Prasad\" offering to the Sun God during the Chhath Puja festival. It is known for its long shelf life."
+      },
+      "hi": {
+        "title": "ठेकुआ",
+        "description": "ठेकुआ छठ पूजा का मुख्य प्रसाद है। यह गेहूं के आटे और गुड़ से बना एक पारंपरिक कुरकुरा मीठा व्यंजन है।",
+        "ingredients": [
+          "2 कप गेहूं का आटा",
+          "1 कप गुड़ (पिघला हुआ) या चीनी",
+          "1/4 कप देसी घी (मोयन के लिए)",
+          "1 छोटा चम्मच इलायची पाउडर",
+          "1 बड़ा चम्मच सौंफ",
+          "कटा हुआ नारियल (वैकल्पिक)",
+          "तलने के लिए तेल या घी"
+        ],
+        "instructions": [
+          "एक बड़े बर्तन में आटा, घी, इलायची पाउडर, सौंफ और नारियल मिलाएं।",
+          "घी को आटे में अच्छी तरह मिलाएं (मोयन)।",
+          "गुड़ का पानी थोड़ा-थोड़ा डालकर सख्त आटा गूंथ लें।",
+          "आटे की छोटी लोइयां बनाएं और उन्हें ठेकुआ के सांचे (अरचा) पर दबाकर आकार दें।",
+          "धीमी आंच पर तेल/घी गर्म करें और सुनहरा होने तक तलें।",
+          "ठंडा होने पर एयरटाइट डिब्बे में रखें।"
+        ],
+        "culturalSignificance": "ठेकुआ छठ पूजा के दौरान सूर्य देव को चढ़ाया जाने वाला मुख्य प्रसाद है। यह लंबे समय तक खराब नहीं होता है।"
+      },
+      "mai": {
+        "title": "ठेकुआ",
+        "description": "ठेकुआ छठ पूजाक मुख्य प्रसाद थिक। ई गहूम क आटा आर गुड़ स बनल एकटा पारंपरिक पकवान थिक।",
+        "ingredients": [
+          "२ कप गहूम क आटा",
+          "१ कप गुड़ (घोलल) या चीनी",
+          "१/४ कप घी (मोयन लेल)",
+          "१ छोट चम्मच इलायची पाउडर",
+          "१ बड़का चम्मच सौंफ",
+          "कटल गड़ी (नारियल)",
+          "छानय लेल तेल या घी"
+        ],
+        "instructions": [
+          "एकटा पैघ बर्तन में आटा, घी, इलायची, सौंफ आर गड़ी मिलाउ।",
+          "घी के आटा में नीक जकां मिलाउ (मोयन)।",
+          "गुड़ क पानी तनी-तनी द क कड़ा सानू।",
+          "आटा क छोट-छोट लोई बनाउ आर ओकरा ठेकुआ क अरचा पर दबा क आकार दिय।",
+          "कम आंच पर तेल/घी गर्म करू आर लाल होय तक छानू।",
+          "ठंडा भेला पर डब्बा में राखू।"
+        ],
+        "culturalSignificance": "ठेकुआ छठ पावनि में सूर्य देवता के चढ़ाओल जाय वाला मुख्य प्रसाद थिक।"
+      }
+    }
+  },
+  {
+    "slug": "tilkor-tarua",
+    "category": "Snacks",
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Tilkor Tarua (Fritters)",
+        "description": "Crispy fritters made from leaves of the Pointed Gourd (Parwal/Patal) creeper.",
+        "ingredients": [
+          "10-12 Fresh Tilkor leaves",
+          "1 cup Rice Flour (for crispiness)",
+          "2 tbsp Besan (Gram Flour)",
+          "1 tsp Turmeric powder",
+          "1 tsp Red Chili powder",
+          "Salt to taste",
+          "Mustard Oil for frying"
+        ],
+        "instructions": [
+          "Wash the Tilkor leaves gently and pat them dry.",
+          "Make a thick batter using rice flour, besan, spices, salt, and water.",
+          "Heat mustard oil in a pan.",
+          "Dip each leaf into the batter, ensuring it is well coated.",
+          "Deep fry or shallow fry until crispy and golden.",
+          "Serve hot with meals as a side dish."
+        ],
+        "culturalSignificance": "Tilkor is unique to the Mithila region. Serving Tilkor Tarua to guests is considered a mark of respect and hospitality."
+      },
+      "hi": {
+        "title": "तिलकोर केर तरुआ",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "तिलकोर केर तरुआ",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "dahi-chura",
+    "category": "Main Course",
+    "prepTime": "5 mins",
+    "cookTime": "0 mins",
+    "servings": 1,
+    "locales": {
+      "en": {
+        "title": "Dahi Chura",
+        "description": "A wholesome breakfast staple consisting of beaten rice (Chura/Poha) and yogurt, typically eaten with sugar or jaggery.",
+        "ingredients": [
+          "1 cup Chura (Beaten Rice) - high quality",
+          "1 cup Fresh Thick Curd (Dahi)",
+          "Sugar or Jaggery (Gur) to taste",
+          "Sliced Mango or Banana (optional)"
+        ],
+        "instructions": [
+          "Wash the Chura lightly if it is thick, or use it dry if it is crisp.",
+          "Place Chura in a bowl.",
+          "Pour thick fresh curd over it.",
+          "Add sugar or crushed jaggery.",
+          "Mix well and eat immediately."
+        ],
+        "culturalSignificance": "It is the mandatory breakfast on the day of Makar Sankranti (Til Sakraat) in Mithila. It is famously known as \"comfort food\" for Maithils."
+      },
+      "hi": {
+        "title": "दही-चूड़ा",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "दही-चूड़ा",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "mithila-machh-curry",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Mithila Fish Curry",
+        "description": "Spicy fish curry cooked in a pungent mustard paste gravy, a signature dish of the region.",
+        "ingredients": [
+          "500g Rohu or Catla Fish",
+          "2 tbsp Yellow Mustard seeds (Sarso) paste",
+          "1 tbsp Garlic paste",
+          "2 Tomatoes (chopped)",
+          "1 tsp Turmeric powder",
+          "2 tsp Red Chili powder",
+          "1 tsp Coriander powder",
+          "Mustard Oil",
+          "Salt",
+          "Coriander leaves for garnish"
+        ],
+        "instructions": [
+          "Marinate fish pieces with salt and turmeric.",
+          "Fry the fish in hot mustard oil until golden. Set aside.",
+          "In the same oil, add mustard seeds for tempering.",
+          "Add the mustard and garlic paste. Sauté well.",
+          "Add spices and tomatoes. Cook until oil separates.",
+          "Add water to make the gravy.",
+          "Once gravy boils, add the fried fish pieces.",
+          "Simmer for 5-7 minutes. Garnish with coriander."
+        ],
+        "culturalSignificance": "Fish is a symbol of fertility and auspiciousness in Mithila (\"Maachh-Bhaat\"). No celebration is complete without it for non-vegetarians."
+      },
+      "hi": {
+        "title": "मिथिला माछ (सरसों वाली मछली)",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "मिथिला माछ (सरसों वाली मछली)",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "ol-ki-chatni",
+    "category": "Chutney/Pickle",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Ol (Yam) Chutney",
+        "description": "A tangy and spicy chutney made from Elephant Foot Yam (Ol), known for its distinct flavor.",
+        "ingredients": [
+          "250g Elephant Foot Yam (Ol)",
+          "2 tbsp Mustard Oil (Raw)",
+          "1 tsp Mustard seeds powder",
+          "2-3 Green Chilies (minced)",
+          "1 tbsp Lemon juice",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "Boil the Ol (Yam) until soft.",
+          "Peel and mash it thoroughly.",
+          "Add raw mustard oil, mustard powder, green chilies, and salt.",
+          "Add lemon juice generously (to reduce the itchiness of the yam).",
+          "Mix well. Can be stored for a few days."
+        ],
+        "culturalSignificance": "Ol is traditionally eaten on Diwali to ensure prosperity. It keeps the body warm during winter."
+      },
+      "hi": {
+        "title": "ओल केर चटनी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "ओल केर चटनी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "dal-pithi",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "25 mins",
+    "servings": 3,
+    "locales": {
+      "en": {
+        "title": "Dal Pithi",
+        "description": "Flower-shaped wheat dumplings cooked in spicy lentil soup. A hearty one-pot meal.",
+        "ingredients": [
+          "1 cup Toor Dal (Arhar)",
+          "1 cup Wheat flour dough",
+          "1 tsp Turmeric",
+          "1 tsp Cumin seeds (Jeera)",
+          "2 Dry Red Chilies",
+          "Ghee for tempering",
+          "Salt"
+        ],
+        "instructions": [
+          "Pressure cook the dal with turmeric and salt until half done.",
+          "Roll out the wheat dough and cut into small flower shapes (Pithi).",
+          "Add the Pithis to the boiling dal.",
+          "Simmer until the dumplings are cooked through.",
+          "Temper with ghee, cumin, and red chilies."
+        ],
+        "culturalSignificance": "A simple, nutritious comfort meal often made for dinner in Maithil households."
+      },
+      "hi": {
+        "title": "दाल पिठ्ठी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "दाल पिठ्ठी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "bagiya",
+    "category": "Snacks",
+    "prepTime": "30 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Bagiya",
+        "description": "Steamed rice flour dumplings stuffed with lentils or jaggery/khoya. A healthy, oil-free snack.",
+        "ingredients": [
+          "2 cups Rice Flour",
+          "1.5 cups Hot Water",
+          "Filling Option 1: Chana Dal paste with spices",
+          "Filling Option 2: Khoa/Mawa with sugar and nuts",
+          "Salt (for dough)"
+        ],
+        "instructions": [
+          "Mix hot water with rice flour to make a soft dough.",
+          "Take a small ball, hollow it out, and fill with the chosen stuffing.",
+          "Seal it into an oval shape tapered at both ends.",
+          "Steam in a steamer for 15-20 minutes.",
+          "Serve warm with chutney."
+        ],
+        "culturalSignificance": "Traditionally eaten during the winter season, especially on the auspicious day of Pous Sankranti."
+      },
+      "hi": {
+        "title": "बगिया",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "बगिया",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "adauri",
+    "category": "Chutney/Pickle",
+    "prepTime": "Overnight",
+    "cookTime": "Sun Dry",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Adauri (Badi)",
+        "description": "Sun-dried lentil dumplings used to enhance the flavor of vegetable curries.",
+        "ingredients": [
+          "1 kg Urad Dal (soaked overnight)",
+          "Spices (Asafoetida, Black Pepper, Cumin)",
+          "Winter Melon (Petha/Kumhra) grated (optional)"
+        ],
+        "instructions": [
+          "Grind the soaked dal into a fine paste.",
+          "Beat the batter until fluffy (it should float in water).",
+          "Mix in spices and grated melon.",
+          "Drop small dumplings onto a cloth sheet in strong sunlight.",
+          "Dry for 3-4 days until hard. Store in jars."
+        ],
+        "culturalSignificance": "Making Adauri is a community activity for women in summer. These are used throughout the year in curries with potatoes or eggplant."
+      },
+      "hi": {
+        "title": "अदौरी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "अदौरी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "khaja",
+    "category": "Sweets",
+    "prepTime": "45 mins",
+    "cookTime": "30 mins",
+    "servings": 8,
+    "locales": {
+      "en": {
+        "title": "Khaja",
+        "description": "Layered crispy sweet pastry, famously from Silao but integral to Mithila weddings.",
+        "ingredients": [
+          "2 cups All Purpose Flour (Maida)",
+          "1/4 cup Ghee (melted)",
+          "Oil for frying",
+          "Sugar Syrup (1 string consistency)"
+        ],
+        "instructions": [
+          "Knead a firm dough with flour, ghee, and water.",
+          "Roll out thin sheets (rotis).",
+          "Stack 3-4 sheets with a smear of ghee and flour paste between them.",
+          "Roll the stack into a log and cut into 1-inch pieces.",
+          "Flatten each piece slightly.",
+          "Deep fry on low heat until layers open up and turn golden.",
+          "Dip in warm sugar syrup."
+        ],
+        "culturalSignificance": "Khaja is a mandatory item in the \"Sandesh\" (gifts) sent to the daughter's in-laws."
+      },
+      "hi": {
+        "title": "खाजा",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "खाजा",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "arikanchan-sabba",
+    "category": "Main Course",
+    "prepTime": "30 mins",
+    "cookTime": "40 mins",
+    "servings": 5,
+    "locales": {
+      "en": {
+        "title": "Arikanchan (Colocasia Curry)",
+        "description": "Spicy, tangy curry made from rolled Colocasia leaves (Arbi Patta) stuffed with gram flour paste.",
+        "ingredients": [
+          "10-12 Colocasia Leaves (Arbi Patta)",
+          "2 cups Besan (Gram Flour)",
+          "1 tbsp Amchur powder (Mango powder)",
+          "2 tbsp Mustard Paste",
+          "Mustard Oil",
+          "Spices (Turmeric, Red Chili, Coriander)",
+          "Salt"
+        ],
+        "instructions": [
+          "Wash leaves and remove stalks.",
+          "Make a thick paste of besan, amchur, spices, and water.",
+          "Layer leaves one on top of another, spreading the paste between each layer.",
+          "Roll the stack tightly and steam for 15-20 minutes.",
+          "Cool, cut into slices, and shallow fry.",
+          "Prepare a mustard-based gravy and add the fried rolls (this is the \"Sabba\")."
+        ],
+        "culturalSignificance": "A delicacy in Mithila, often made when Arbi leaves are lush green during monsoons. It serves as a mock-meat dish."
+      },
+      "hi": {
+        "title": "अरिकंचन (अरबी पत्ता)",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "अरिकंचन (अरबी पत्ता)",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "pidakiya",
+    "category": "Sweets",
+    "prepTime": "40 mins",
+    "cookTime": "30 mins",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Pidakiya (Gujiya)",
+        "description": "A deep-fried dumpling stuffed with sweet khoya and nuts, crucial for Tij and Holi.",
+        "ingredients": [
+          "2 cups All Purpose Flour (Maida)",
+          "1 cup Khoya (Mawa) or Semolina (Suji)",
+          "1/2 cup Sugar powder",
+          "1/4 cup Desiccated Coconut",
+          "Cardamom powder",
+          "Ghee for dough and frying"
+        ],
+        "instructions": [
+          "Knead a stiff dough with maida and ghee.",
+          "Roast khoya/suji until golden and mix with sugar, coconut, and nuts.",
+          "Roll out small circles of dough.",
+          "Place filling in the center, fold, and seal edges (often designing with a fork or hand).",
+          "Deep fry on low heat until golden brown."
+        ],
+        "culturalSignificance": "Mandatory for the \"Tij\" festival. Women compete to make the most beautifully designed Pidakiya."
+      },
+      "hi": {
+        "title": "पिरिकिया (गुझिया)",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "पिरिकिया (गुझिया)",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "anarasa",
+    "category": "Sweets",
+    "prepTime": "Overnight",
+    "cookTime": "20 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Anarasa",
+        "description": "A sweet pastry made from soaked rice flour and jaggery, coated with sesame seeds.",
+        "ingredients": [
+          "1 cup Rice (soaked overnight and air-dried)",
+          "3/4 cup Jaggery/Sugar",
+          "2 tbsp Sesame Seeds (Safed Til)",
+          "Ghee for deep frying"
+        ],
+        "instructions": [
+          "Grind the semi-moist rice into a coarse powder.",
+          "Mix with sugar/jaggery. The mixture effectively becomes a dough due to the rice moisture.",
+          "Leave the dough for a few hours/days to ferment slightly (optional).",
+          "Make small flat discs, coat one side with sesame seeds.",
+          "Deep fry with the sesame side up until golden."
+        ],
+        "culturalSignificance": "A delicacy made during Diwali and Holi."
+      },
+      "hi": {
+        "title": "अनरसा",
+        "description": "चावल के आटे और गुड़ से बनी, तिल लगी हुई कुरकुरी पेस्ट्री।",
+        "ingredients": [
+          "चावल का आटा",
+          "गुड़/चीनी",
+          "सफेद तिल",
+          "घी (तलने के लिए)"
+        ],
+        "instructions": [
+          "भीगे चावल को पीसकर आटा बनाएं।",
+          "गुड़ के साथ मिलाएं।",
+          "छोटी लोई बनाएं, तिल लगाएं और तलें।"
+        ],
+        "culturalSignificance": "दिवाली और होली के दौरान बनाई जाने वाली एक मिठाई।"
+      },
+      "mai": {
+        "title": "अनरसा",
+        "description": "चाउर क आटा आर गुड़ स बनल मिठाई।",
+        "ingredients": [
+          "चाउर क आटा",
+          "गुड़/चीनी",
+          "तिल",
+          "घी"
+        ],
+        "instructions": [
+          "चाउर फूलने दिय आर पीस लिय।",
+          "गुड़ मिलाउ।",
+          "तिल लगा क छानू।"
+        ],
+        "culturalSignificance": "दीवाली आर होली क समय बनैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "kadhi-bari",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Kadhi Bari",
+        "description": "Soft gram flour dumplings (Bari) simmered in a tangy yogurt gravy (Kadhi).",
+        "ingredients": [
+          "1.5 cups Besan (Gram Flour)",
+          "1 cup Sour Curd (Dahi)",
+          "1 tsp Turmeric",
+          "Pinch of Asafoetida (Hing)",
+          "Mustard Oil",
+          "Dry Red Chilies and Curry Leaves for tempering"
+        ],
+        "instructions": [
+          "Mix besan, water, and spices to make a thick batter for Bari.",
+          "Deep fry small dumplings (Baris) in mustard oil until fluffy.",
+          "Mix curd, remaining besan, turmeric, and water to make a thin liquid.",
+          "Cook this liquid on low heat until it boils and thickens (Kadhi).",
+          "Add the fried Baris and simmer.",
+          "Temper with hing, red chilies, and curry leaves."
+        ],
+        "culturalSignificance": "Kadhi-Bari is the celebratory Sunday lunch and a must-have for guests. The softness of the Bari is a test of the cook's skill (`Phulouri`)."
+      },
+      "hi": {
+        "title": "कढ़ी-बड़ी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "कढ़ी-बड़ी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "ghugni-mudhi",
+    "category": "Snacks",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": 2,
+    "locales": {
+      "en": {
+        "title": "Ghugni Mudhi",
+        "description": "A spicy black gram or yellow pea curry served with puffed rice (Mudhi). The ultimate evening snack.",
+        "ingredients": [
+          "1 cup Black Gram (Kala Chana) or Yellow Peas (soaked)",
+          "1 Onion (chopped)",
+          "1 tsp Ginger-Garlic paste",
+          "Spices (Cumin, Coriander, Garam Masala)",
+          "2 cups Puffed Rice (Mudhi)",
+          "Green Chilies"
+        ],
+        "instructions": [
+          "Heat oil in a cooker or pan.",
+          "Sauté onions and ginger-garlic paste.",
+          "Add soaked chana and spices. Sauté high heat.",
+          "Add water and cook until chana is tender but keeps shape.",
+          "Serve hot in a bowl, topped with raw onions, alongside a heap of Mudhi."
+        ],
+        "culturalSignificance": "The common man's breakfast and evening snack across Mithila and Bengal. Cheap, nutritious, and filling."
+      },
+      "hi": {
+        "title": "घुघनी-मुढ़ी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "घुघनी-मुढ़ी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "kachri",
+    "category": "Snacks",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Kachri (Onion Fritters)",
+        "description": "Rustic onion fritters bound with gram flour or crushed pulses, fried to perfection.",
+        "ingredients": [
+          "3 Onions (sliced)",
+          "1/2 cup Besan or Soaked Masoor Dal paste",
+          "2 Green Chilies",
+          "Corainder seeds (crushed)",
+          "Salt and Turmeric",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Mix sliced onions with salt and leave for 5 mins to release water.",
+          "Add spices and binding agent (besan/dal paste). Do not add water.",
+          "Heat oil. Drop irregular lumps of the mixture into hot oil.",
+          "Fry until crisp and brown.",
+          "Serve with puffed rice (Mudhi) or chutney."
+        ],
+        "culturalSignificance": "A favorite rainy day snack. Often pairs with Mudhi (`Mudhi-Kachri`)."
+      },
+      "hi": {
+        "title": "कचरी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "कचरी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "tisi-chatni",
+    "category": "Chutney/Pickle",
+    "prepTime": "5 mins",
+    "cookTime": "5 mins",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Tisi (Flaxseed) Chutney",
+        "description": "A dry, nutty chutney made from roasted flaxseeds, garlic, and chilies.",
+        "ingredients": [
+          "1 cup Flaxseeds (Tisi/Alsi)",
+          "4-5 Garlic cloves",
+          "2-3 Dry Red Chilies",
+          "Salt",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Dry roast the flaxseeds and red chilies until they pop.",
+          "Let them cool.",
+          "Grind into a fine powder along with garlic and salt.",
+          "Before serving, mix a small amount with a few drops of water and raw mustard oil."
+        ],
+        "culturalSignificance": "Tisi is a winter superfood in Mithila, known to keep the body warm. This chutney is a staple side for rice and daal."
+      },
+      "hi": {
+        "title": "तीसी के चटनी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "तीसी के चटनी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "dhaniya-chatni",
+    "category": "Chutney/Pickle",
+    "prepTime": "10 mins",
+    "cookTime": "0 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Dhaniya Chutney (Silbatta Style)",
+        "description": "Fresh coriander chutney ground on a stone slab (Silbatta) for maximum flavor preservation.",
+        "ingredients": [
+          "1 bunch Fresh Coriander leaves",
+          "1 Tomato (roasted on flame)",
+          "2 Green Chilies",
+          "4 Garlic cloves",
+          "Salt",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Roast the tomato on an open flame until skin chars. Peel it.",
+          "Place coriander, chilies, garlic, and roasted tomato in a grinder (or Silbatta).",
+          "Grind to a coarse paste.",
+          "Mix in salt and a dash of raw mustard oil."
+        ],
+        "culturalSignificance": "Essential winter condiment found in every Maithil lunch plate."
+      },
+      "hi": {
+        "title": "धनिया पत्ता चटनी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "धनिया पत्ता चटनी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "malpua",
+    "category": "Sweets",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 5,
+    "locales": {
+      "en": {
+        "title": "Malpua",
+        "description": "Soft, fluffy pancakes soaked in sugar syrup, often containing bananas.",
+        "ingredients": [
+          "1 cup Maida (All Purpose Flour)",
+          "2 Ripe Bananas (mashed)",
+          "1/2 cup Milk",
+          "Sugar Syrup",
+          "Fennel seeds (Saunf)",
+          "Ghee for frying"
+        ],
+        "instructions": [
+          "Mash bananas and mix with flour, milk, and fennel seeds to make a pouring consistency batter.",
+          "Let it rest for 15 mins.",
+          "Heat ghee in a flat pan.",
+          "Pour a ladleful of batter. Do not spread it; let it take its shape.",
+          "Fry until golden brown edges appear.",
+          "Soak in warm sugar syrup for 2 mins and serve."
+        ],
+        "culturalSignificance": "The star dessert of Holi celebrations in Mithila."
+      },
+      "hi": {
+        "title": "मालपुआ",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "मालपुआ",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "nenua-chana",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Nenua Chana Dal",
+        "description": "Sponge gourd (Toro) cooked with soaked gram lentils—a healthy, nutritious vegetable dish.",
+        "ingredients": [
+          "500g Sponge Gourd (Nenua/Toro), peeled and sliced",
+          "1/2 cup Chana Dal (soaked for 2 hours)",
+          "1 Onion (sliced)",
+          "Cumin seeds, Green Chilies",
+          "Turmeric, Salt"
+        ],
+        "instructions": [
+          "Heat oil in a pan/cooker.",
+          "Temper with cumin and chilies.",
+          "Add onions and sauté.",
+          "Add soaked chana dal and spices.",
+          "Add the sliced Nenua. (Nenua releases a lot of water, so no extra water needed usually).",
+          "Cover and cook until dal is soft and veggies are tender."
+        ],
+        "culturalSignificance": "A very common summer vegetable dish, valued for being cooling and easy to digest."
+      },
+      "hi": {
+        "title": "नेनुआ चना दाल",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "नेनुआ चना दाल",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "baigan-adouri",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Baigan Adauri",
+        "description": "Eggplant curry enhanced with the strong flavor of sun-dried lentil dumplings (Adauri).",
+        "ingredients": [
+          "2 large Eggplants (cubed)",
+          "1/2 cup Adauri (Badi)",
+          "1 Potato (cubed)",
+          "Mustard Paste (optional but traditional)",
+          "Spices (Turmeric, Coriander, Chili)",
+          "Oil"
+        ],
+        "instructions": [
+          "Fry the Adauri in oil until red/brown. Remove.",
+          "In the same oil, add spices/mustard paste.",
+          "Add potatoes and eggplant. Sauté.",
+          "Add water and the fried Adauri.",
+          "Cook until veggies and Adauri are soft. The Adauri absorbs the gravy."
+        ],
+        "culturalSignificance": "A classic way to use preserved Adauri during seasons when fresh vegetables might be scarce."
+      },
+      "hi": {
+        "title": "बैगन-अदौरी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "बैगन-अदौरी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "sattu-drink",
+    "category": "Snacks",
+    "prepTime": "5 mins",
+    "cookTime": "0 mins",
+    "servings": 1,
+    "locales": {
+      "en": {
+        "title": "Sattu Sharbat",
+        "description": "The energy drink of Bihar/Mithila. Roasted gram flour powder mixed with water and spices.",
+        "ingredients": [
+          "3 tbsp Sattu (Roasted Gram Flour)",
+          "1 glass Chilled Water",
+          "Black Salt, Roasted Cumin Powder",
+          "Finely of chopped Onion & Green Chili (optional)",
+          "Lemon Juice"
+        ],
+        "instructions": [
+          "Take sattu in a glass.",
+          "Add 1/2 water and stir to remove lumps.",
+          "Add remaining water.",
+          "Add salt, spices, onion, and lemon juice.",
+          "Mix well and drink immediately."
+        ],
+        "culturalSignificance": "The ultimate coolant for the scorching summers. Farmers drink this for instant energy (`Sattu-Pani`)."
+      },
+      "hi": {
+        "title": "सतुआ (सत्तू शरबत)",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "सतुआ (सत्तू शरबत)",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "kathal-dam",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Kathal (Jackfruit) Curry",
+        "description": "Raw jackfruit curry that rivals mutton in texture and taste.",
+        "ingredients": [
+          "500g Raw Jackfruit (cubed)",
+          "2 Onions (paste)",
+          "Ginger-Garlic paste",
+          "Whole Garam Masala (Cardamom, Cloves, Cinnamon)",
+          "Meat Masala (optional)",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Fry the jackfruit cubes until golden. Set aside.",
+          "In oil, add whole spices and onion paste. Brown it well.",
+          "Add ginger-garlic and powdered spices. Cook until oil separates.",
+          "Add fried jackfruit and water.",
+          "Pressure cook for 1-2 whistles until soft."
+        ],
+        "culturalSignificance": "Often called \"Vegetarian Mutton\" (`Ahuna Kathal`), served on special occasions like Holi."
+      },
+      "hi": {
+        "title": "कटहर दम",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "कटहर दम",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "suran-sabzi",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Ol (Yam) Curry",
+        "description": "A rich, spicy curry made from Elephant Foot Yam, often resembling meat curry.",
+        "ingredients": [
+          "500g Ol (Yam), cubed and boiled",
+          "Mustard Seeds paste",
+          "Garlic paste",
+          "Amchur or Lemon (crucial to prevent itching)",
+          "Spices"
+        ],
+        "instructions": [
+          "Deep fry the boiled Yam cubes.",
+          "Prepare a gravy using mustard paste, garlic, and spices.",
+          "Add the fried Yam.",
+          "Finish with generous lemon juice/Amchur."
+        ],
+        "culturalSignificance": "Mandatory dish on Diwali. It signifies strength and longevity."
+      },
+      "hi": {
+        "title": "ओल के सब्जी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "ओल के सब्जी",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "laai",
+    "category": "Sweets",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Laai (Puffed Rice Balls)",
+        "description": "Crispy balls made of puffed rice (Mudhi) or beaten rice (Chura) bound with sticky jaggery syrup.",
+        "ingredients": [
+          "3 cups Puffed Rice (Mudhi) or Roasted Chura",
+          "1 cup Jaggery",
+          "1 tsp Ghee",
+          "Ginger powder (optional)"
+        ],
+        "instructions": [
+          "Melt jaggery with a little water to hard-ball consistency.",
+          "Turn off heat and quickly mix in the puffed rice.",
+          "Grease hands with water/ghee and shape the hot mixture into balls."
+        ],
+        "culturalSignificance": "A common winter treat, especially during Makar Sankranti."
+      },
+      "hi": {
+        "title": "लाई",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "लाई",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "lal-saag",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Red Amaranth Greens",
+        "description": "Simple, nutritious stir-fry of red leafy greens, a common lunch item.",
+        "ingredients": [
+          "1 bunch Lal Saag (Red Amaranth)",
+          "2 cloves Garlic (sliced)",
+          "2 Dry Red Chilies",
+          "Mustard Oil",
+          "Salt"
+        ],
+        "instructions": [
+          "Wash and chop the saag finely.",
+          "Heat mustard oil, add garlic and red chilies.",
+          "Add chopped saag and salt.",
+          "Cover and cook on low heat until water evaporates.",
+          "Serve with rice."
+        ],
+        "culturalSignificance": "Rich in iron, this saag is a poor man's superfood in Mithila."
+      },
+      "hi": {
+        "title": "लाल साग",
+        "description": "लाल साग एक सरल और पौष्टिक डिश है, जो दोपहर के भोजन में आम है।",
+        "ingredients": [
+          "1 गुच्छा लाल साग",
+          "2 कलियां लहसुन",
+          "2 सूखी लाल मिर्च",
+          "सरसों का तेल",
+          "नमक"
+        ],
+        "instructions": [
+          "साग को धोकर बारीक काट लें।",
+          "तेल गर्म करें, लहसुन और मिर्च डालें।",
+          "साग और नमक डालें।",
+          "पानी सूखने तक पकाएं।",
+          "चावल के साथ परोसें।"
+        ],
+        "culturalSignificance": "आयरन से भरपूर, यह मिथिला में गरीबों का सुपरफूड माना जाता है।"
+      },
+      "mai": {
+        "title": "लाल साग",
+        "description": "लाल साग एकटा साधारण मुदा पौष्टिक तरकारी थिक, जे अक्सर दुपहरिया लंच में बनाओल जायत अछि।",
+        "ingredients": [
+          "१ मोंथा लाल साग",
+          "2 कली लहसुन",
+          "2 लाल मिर्च",
+          "सरिसो तेल",
+          "नमक"
+        ],
+        "instructions": [
+          "साग के धो क महीन काटू।",
+          "तेल गरम क क लहसुन-मिर्च दिय।",
+          "साग और नून द क तोप दिय।",
+          "पनी जरला तक सिझाउ।",
+          "भात संग खाउ।"
+        ],
+        "culturalSignificance": "लाल साग खून बढ़ाबै लेल बहुत नीक मानल जायत छैक।"
+      }
+    }
+  },
+  {
+    "slug": "bathua-saag",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Bathua Greens",
+        "description": "Winter special greens, often cooked with potatoes or plain.",
+        "ingredients": [
+          "500g Bathua leaves",
+          "1 Potato (cubed)",
+          "Garlic",
+          "Green Chilies",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Boil bathua and mash it (for Jhor) or stir fry with potatoes (Bhujia).",
+          "For Bhujia: Heat oil, add cumin/chilies.",
+          "Add potatoes, fry till half done.",
+          "Add chopped Bathua and cook till dry."
+        ],
+        "culturalSignificance": "Available only in winter, it is known for keeping the body warm."
+      },
+      "hi": {
+        "title": "बथुआ (बथुआ साग)",
+        "description": "सर्दियों का विशेष साग, जिसे अक्सर आलू के साथ या सादा बनाया जाता है।",
+        "ingredients": [
+          "500 ग्राम बथुआ",
+          "1 आलू",
+          "लहसुन",
+          "हरी मिर्च",
+          "सरसों का तेल"
+        ],
+        "instructions": [
+          "बथुआ को उबालकर मैश करें (झोर के लिए) या आलू के साथ भूनें (भुजिया)।",
+          "भुजिया के लिए: तेल गर्म करें, जीरा/मिर्च डालें।",
+          "आलू डालें, आधा पकने तक भूनें।",
+          "कटा हुआ बथुआ डालें और सूखने तक पकाएं।"
+        ],
+        "culturalSignificance": "केवल सर्दियों में उपलब्ध, यह शरीर को गर्म रखने के लिए जाना जाता है।"
+      },
+      "mai": {
+        "title": "बथुआ (बथुआ साग)",
+        "description": "जाड़ क स्पेशल साग, जेकरा आलू क संग या ऐसे ही बनाओल जायत अछि।",
+        "ingredients": [
+          "५०० ग्राम बथुआ",
+          "१ आलू",
+          "लहसुन",
+          "हरियर मिर्च",
+          "सरिसो तेल"
+        ],
+        "instructions": [
+          "बथुआ के उसइन क महीन क लिय (झोर लेल) या आलू संग भुजू (भुजिया)।",
+          "भुजिया लेल: तेल गरम क जीरा/मिर्च दिय।",
+          "आलू द क लाल करू।",
+          "बथुआ द क पानी सुखला तक भुजू।"
+        ],
+        "culturalSignificance": "ई साग खाली जाड़ में भेटैत अछि आर शरीर के गरम रखैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "palak-saag-mithila",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Spinach Curry (Mithila Style)",
+        "description": "Spinach cooked with eggplant and radish, flavored with mustard oil.",
+        "ingredients": [
+          "1 bunch Spinach",
+          "1 small Eggplant (cubed)",
+          "1 Radish (cubed)",
+          "Panch Phoran",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Heat oil, add Panch Phoran.",
+          "Add eggplant and radish, fry slightly.",
+          "Add chopped spinach and salt.",
+          "Cook until everything is mushy.",
+          "Drizzle raw mustard oil on top before serving."
+        ],
+        "culturalSignificance": "The addition of raw mustard oil (Kachchi Ghani) is the signature of Maithil cooking."
+      },
+      "hi": {
+        "title": "पालक साग (मिथिला स्टाइल)",
+        "description": "बैंगन और मूली के साथ पकाया गया पालक, सरसों के तेल के स्वाद के साथ।",
+        "ingredients": [
+          "1 गुच्छा पालक",
+          "1 छोटा बैंगन",
+          "1 मूली",
+          "पंच फोरन",
+          "सरसों का तेल"
+        ],
+        "instructions": [
+          "तेल गर्म करें, पंच फोरन डालें।",
+          "बैंगन और मूली डालें, थोड़ा भूनें।",
+          "कटा हुआ पालक और नमक डालें।",
+          "गलने तक पकाएं।",
+          "परोसने से पहले ऊपर से कच्चा सरसों का तेल डालें।"
+        ],
+        "culturalSignificance": "कच्ची घानी सरसों के तेल का उपयोग मैथिल खाना पकाने की पहचान है।"
+      },
+      "mai": {
+        "title": "पालक साग (मिथिला स्टाइल)",
+        "description": "बैंगन आर मुरई क संग बनाओल पालक साग, जाहि में कच्चा सरिसो तेल क स्वाद मुख्य होइत छैक।",
+        "ingredients": [
+          "१ मोंथा पालक",
+          "१ भांटा (बैंगन)",
+          "१ मुरई",
+          "पंच फोरन",
+          "सरिसो तेल"
+        ],
+        "instructions": [
+          "तेल गरम क पंच फोरन दिय।",
+          "बैंगन आर मुरई द क तनी भुजू।",
+          "पलक आर नून दिय।",
+          "सिझला तक पकाउ।",
+          "उतारै देरिया ऊपर स कच्चा तेल दिय।"
+        ],
+        "culturalSignificance": "साग में ऊपर स कच्चा तेल देब मिथिला क खान-पान क विशेषता थिक।"
+      }
+    }
+  },
+  {
+    "slug": "alu-bhujia",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Aloo Bhujia (Stir Fry)",
+        "description": "Thinly sliced potatoes fried with turmeric and onions—the ultimate comfort food.",
+        "ingredients": [
+          "4 Potatoes (thin strips)",
+          "1 Onion (sliced)",
+          "Turmeric",
+          "Green Chilies",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Heat oil in a kadhai.",
+          "Add chilies and onions.",
+          "Add potatoes and turmeric vigorously.",
+          "Cook uncovered on medium heat for crispiness.",
+          "Add salt at the end."
+        ],
+        "culturalSignificance": "The standard accompaniment to Dal-Bhat in every household."
+      },
+      "hi": {
+        "title": "आलू भुजिया",
+        "description": "हल्दी और प्याज के साथ तले हुए पतले कटे आलू - सबसे आरामदायक भोजन।",
+        "ingredients": [
+          "4 आलू (लंबे कटे हुए)",
+          "1 प्याज",
+          "हल्दी",
+          "हरी मिर्च",
+          "सरसों का तेल"
+        ],
+        "instructions": [
+          "कड़ाही में तेल गर्म करें।",
+          "मिर्च और प्याज डालें।",
+          "आलू और हल्दी डालें।",
+          "कुरकुरा होने तक मध्यम आंच पर खुला पकाएं।",
+          "अंत में नमक डालें।"
+        ],
+        "culturalSignificance": "हर घर में दाल-भात के साथ परोसा जाने वाला मानक व्यंजन।"
+      },
+      "mai": {
+        "title": "आलू भुजिया",
+        "description": "दाल-भात संग खाय लेल सबस प्रिय आलू क भुजिया।",
+        "ingredients": [
+          "४ आलू (माहीन काटू)",
+          "१ प्याज",
+          "हल्दी",
+          "हरियर मिर्च",
+          "सरिसो तेल"
+        ],
+        "instructions": [
+          "कड़ाही में तेल गरम करू।",
+          "मिर्च आर प्याज दिय।",
+          "आलू आर हल्दी द क चलाउ।",
+          "बिना तोपने कम आंच पर कुरकुरा होय तक भुजू।",
+          "उतारै समय नून दिय।"
+        ],
+        "culturalSignificance": "मिथिला क हर घर में दाल-भात क संग आलू भुजिया जरूर बनैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "sahjan-alu-tarkari",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Drumstick Potato Curry",
+        "description": "Spicy mustard-based curry with Drumsticks (Moringa) and potatoes.",
+        "ingredients": [
+          "4 Drumsticks (cut into 3 inch pieces)",
+          "2 Potatoes",
+          "Mustard Paste",
+          "Garlic",
+          "Tomato",
+          "Spices"
+        ],
+        "instructions": [
+          "Fry drumsticks and potatoes.",
+          "Prepare mustard-garlic gravy.",
+          "Add vegetables and water.",
+          "Simmer until tender."
+        ],
+        "culturalSignificance": "Moringa is highly valued for its health benefits and grows in almost every backyard."
+      },
+      "hi": {
+        "title": "सहजन आलू सब्जी",
+        "description": "सहजन (मोरिंगा) और आलू के साथ मसालेदार सरसों वाली करी।",
+        "ingredients": [
+          "4 सहजन",
+          "2 आलू",
+          "सरसों का पेस्ट",
+          "लहसुन",
+          "टमाटर",
+          "मसाले"
+        ],
+        "instructions": [
+          "सहजन और आलू को भूनें।",
+          "सरसों-लहसुन की ग्रेवी तैयार करें।",
+          "सब्जियां और पानी डालें।",
+          "नरम होने तक उबालें।"
+        ],
+        "culturalSignificance": "मोरिंगा को इसके स्वास्थ्य लाभों के लिए बहुत महत्व दिया जाता है और यह लगभग हर आंगन में उगता है।"
+      },
+      "mai": {
+        "title": "सहजन आलू सब्जी",
+        "description": "सहजन (मुनगा) आर आलू क तीत-मसालेदार तरकारी।",
+        "ingredients": [
+          "४ सहजन",
+          "२ आलू",
+          "सरिसो पेस्ट",
+          "लहसुन",
+          "टमाटर",
+          "मसाला"
+        ],
+        "instructions": [
+          "सहजन आर आलू के भुजिय।",
+          "सरिसो-लहसुन क मसाल तैयार करू।",
+          "सब्जी आर पानी द क सिझाउ।",
+          "रसदार उतारू।"
+        ],
+        "culturalSignificance": "मुनगा (सहजन) स्वास्थ्य लेल बहुत नीक मानल जायत अछि आर मिथिला में खूब भेटैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "lauki-chana-dal",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Bottle Gourd with Gram Dal",
+        "description": "A light stew of bottle gourd and soaked split chickpeas.",
+        "ingredients": [
+          "1 Bottle Gourd (cubed)",
+          "1/2 cup Chana Dal (soaked)",
+          "Cumin",
+          "Bay leaf",
+          "Turmeric"
+        ],
+        "instructions": [
+          "Temper oil with cumin and bay leaf.",
+          "Add gourd and dal.",
+          "Add turmeric and salt.",
+          "Cook covered (gourd releases water)."
+        ],
+        "culturalSignificance": "Considered \"Satvik\" food, often eaten during fasts or lighter days."
+      },
+      "hi": {
+        "title": "लौकी चना दाल",
+        "description": "लौकी और भीगी हुई चना दाल की हल्की सब्जी।",
+        "ingredients": [
+          "1 लौकी",
+          "1/2 कप चना दाल (भीगी हुई)",
+          "जीरा",
+          "तेज पत्ता",
+          "हल्दी"
+        ],
+        "instructions": [
+          "तेल में जीरा और तेज पत्ता का तड़का लगाएँ।",
+          "लौकी और दाल डालें।",
+          "हल्दी और नमक डालें।",
+          "ढककर पकाएं (लौकी पानी छोड़ती है)।"
+        ],
+        "culturalSignificance": "इसे \"सात्विक\" भोजन माना जाता है, जिसे अक्सर उपवास या हल्के दिनों में खाया जाता है।"
+      },
+      "mai": {
+        "title": "लौकी चना दाल",
+        "description": "कद्दू (लौकी) आर चना दाल क सब्जी।",
+        "ingredients": [
+          "१ कद्दू",
+          "१/२ कप चना दाल (फूलल)",
+          "जीरा",
+          "तेजपात",
+          "हल्दी"
+        ],
+        "instructions": [
+          "तेल में जीरा आर तेजपात क फोरन दिय।",
+          "कद्दू आर दाल दिय।",
+          "हल्दी आर नून दिय।",
+          "तोप क पकाउ (कद्दू पनी छोड़त)।"
+        ],
+        "culturalSignificance": "ई सात्विक भोजन थिक, जे अक्सर पावनि-तिहार या सादा दिन में बनैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "kumhra-chana",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Pumpkin Black Gram Sabzi",
+        "description": "Sweet and savory pumpkin cooked with black gram (Kala Chana).",
+        "ingredients": [
+          "500g Pumpkin (cubed)",
+          "1/2 cup Kala Chana (soaked)",
+          "Panch Phoran",
+          "Dry Red Chili",
+          "Sugar (pinch)"
+        ],
+        "instructions": [
+          "Heat oil, add Panch Phoran and chili.",
+          "Add pumpkin and chana.",
+          "Cook until pumpkin mashes slightly.",
+          "Add sugar to balance flavors."
+        ],
+        "culturalSignificance": "Often served at feasts (Bhoj) alongside Puri."
+      },
+      "hi": {
+        "title": "कुम्हड़ा (कद्दू) चना",
+        "description": "काले चने के साथ पकाया गया खट्टा-मीठा कद्दू (कुम्हड़ा)।",
+        "ingredients": [
+          "500 ग्राम कद्दू",
+          "1/2 कप काला चना",
+          "पंच फोरन",
+          "सूखी लाल मिर्च",
+          "चीनी (इच्छानुसार)"
+        ],
+        "instructions": [
+          "तेल गर्म करें, पंच फोरन और मिर्च डालें।",
+          "कद्दू और चना डालें।",
+          "कद्दू के थोड़ा मैश होने तक पकाएं।",
+          "स्वाद को संतुलित करने के लिए चीनी डालें।"
+        ],
+        "culturalSignificance": "अक्सर पूरी के साथ भोज में परोसा जाता है।"
+      },
+      "mai": {
+        "title": "कुम्हड़ा (कद्दू) चना",
+        "description": "कोहड़ा (कद्दू) आर चना क रस्सेदार सब्जी।",
+        "ingredients": [
+          "५०० ग्राम कोहड़ा",
+          "१/२ कप चना",
+          "पंच फोरन",
+          "लाल मिर्च",
+          "चीनी (तनी मनी)"
+        ],
+        "instructions": [
+          "तेल गरम क पंच फोरन दिय।",
+          "कोहड़ा आर चना द क पकाउ।",
+          "कोहड़ा गलला पर तनी चीनी दिय (स्वाद लेल)।",
+          "लठपट उतारू।"
+        ],
+        "culturalSignificance": "मिथिला क भोज में पुरी क संग कोहड़ा क सब्जी प्रमुख होइत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "bhindi-masala-mithila",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Bhindi (Okra) Masala",
+        "description": "Okra stir-fried with onion and spices.",
+        "ingredients": [
+          "500g Bhindi",
+          "2 Onions",
+          "Cumin powder",
+          "Amchur",
+          "Turmeric"
+        ],
+        "instructions": [
+          "Wash and dry Bhindi thoroughly.",
+          "Cut into rounds.",
+          "Fry onions.",
+          "Add Bhindi and spices.",
+          "Cook open to prevent sliminess."
+        ],
+        "culturalSignificance": "A summer staple."
+      },
+      "hi": {
+        "title": "भिन्डी मसाला",
+        "description": "प्याज और मसालों के साथ तली हुई भिंडी।",
+        "ingredients": [
+          "500 ग्राम भिंडी",
+          "2 प्याज",
+          "जीरा पाउडर",
+          "अमचूर",
+          "हल्दी"
+        ],
+        "instructions": [
+          "भिंडी को अच्छे से धोकर सुखा लें।",
+          "गोल टुकड़ों में काटें।",
+          "प्याज भूनें।",
+          "भिंडी और मसाले डालें।",
+          "लेसदार होने से बचने के लिए खुला पकाएं।"
+        ],
+        "culturalSignificance": "गर्मियों का एक प्रमुख भोजन।"
+      },
+      "mai": {
+        "title": "भिन्डी मसाला",
+        "description": "प्याज आर मसाला क संग बनल भिंडी (रामतरोई) क भुजिया।",
+        "ingredients": [
+          "५०० ग्राम भिंडी",
+          "२ प्याज",
+          "जीरा पाउडर",
+          "अमचूर",
+          "हल्दी"
+        ],
+        "instructions": [
+          "भिंडी के धो क सुखा लिय।",
+          "गोल-गोल काटू।",
+          "प्याज भुजू।",
+          "भिंडी आर मसाला दिय।",
+          "खुले में पकाउ जाहि स लस्सा नहि छुटय।"
+        ],
+        "culturalSignificance": "गर्मी क दिन में ई बहुत बनैत अछि."
+      }
+    }
+  },
+  {
+    "slug": "karela-bharwa",
+    "category": "Main Course",
+    "prepTime": "30 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Stuffed Bitter Gourd",
+        "description": "Bitter gourd stuffed with a tangy spicy onion-mango pickle mix.",
+        "ingredients": [
+          "4 Karela",
+          "Onion paste",
+          "Amchur/Pickle masala",
+          "Fennel seeds",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Slit Karela and remove seeds.",
+          "Prepare stuffing with onion paste and spices.",
+          "Stuff inside Karela.",
+          "Tie with thread and shallow fry."
+        ],
+        "culturalSignificance": "A delicacy for those who love bitter flavors."
+      },
+      "hi": {
+        "title": "करेला भरवा",
+        "description": "तीखा मसालेदार प्याज-आम के अचार के मिश्रण से भरा हुआ करेला।",
+        "ingredients": [
+          "4 करेला",
+          "प्याज का पेस्ट",
+          "अमचूर/अचार मसाला",
+          "सौंफ",
+          "सरसों का तेल"
+        ],
+        "instructions": [
+          "करेले को बीच से चीरें और बीज निकालें।",
+          "प्याज पेस्ट और मसालों का मसाला तैयार करें।",
+          "करेले के अंदर भरें।",
+          "धागे से बांधकर उथला तलें।"
+        ],
+        "culturalSignificance": "जिन्हें कड़वा स्वाद पसंद है, उनके लिए एक स्वादिष्ट व्यंजन।"
+      },
+      "mai": {
+        "title": "करेला भरवा",
+        "description": "मसाला आर खटाई भरल करेला।",
+        "ingredients": [
+          "४ करेला",
+          "प्याज पेस्ट",
+          "अमचूर/अचार मसाला",
+          "सौंफ",
+          "सरिसो तेल"
+        ],
+        "instructions": [
+          "करेला के चीर क बिया निकालू।",
+          "प्याज आर मसाला क भरावन तैयार करू।",
+          "करेला में भरू।",
+          "धागा स बान्ह क तेल में छानू।"
+        ],
+        "culturalSignificance": "जेकरा तीत पसंद छैक, ओकरा लेल ई बहुत नीक लागैत छैक।"
+      }
+    }
+  },
+  {
+    "slug": "parwal-alu-jhor",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Pointed Gourd Potato Curry",
+        "description": "A runny gravy (Jhor) with Pointed Gourd and Potatoes.",
+        "ingredients": [
+          "250g Parwal (halved)",
+          "2 Potatoes",
+          "Cumin-Coriander paste",
+          "Garam Masala",
+          "Water"
+        ],
+        "instructions": [
+          "Fry veggies.",
+          "Make a thin spicy gravy.",
+          "Boil veggies in gravy.",
+          "Garnish with Coriander."
+        ],
+        "culturalSignificance": "Parwal is the \"King of Vegetables\" in Mithila/Bihar."
+      },
+      "hi": {
+        "title": "परवल आलू झोर",
+        "description": "परवल और आलू के साथ पतली तरी वाली सब्जी (झोर)।",
+        "ingredients": [
+          "250 ग्राम परवल (आधा कटा हुआ)",
+          "2 आलू",
+          "जीरा-धनिया पेस्ट",
+          "गरम मसाला",
+          "पानी"
+        ],
+        "instructions": [
+          "सब्जियों को भूनें।",
+          "पतली मसालेदार ग्रेवी बनाएं।",
+          "सब्जियों को ग्रेवी में उबालें।",
+          "धनिये से गार्निश करें।"
+        ],
+        "culturalSignificance": "परवल को मिथिला/बिहार में \"सब्जियों का राजा\" माना जाता है।"
+      },
+      "mai": {
+        "title": "परवल आलू झोर",
+        "description": "परवल (पटल) आर आलू क झोर वाला तरकारी।",
+        "ingredients": [
+          "२५० ग्राम परवल",
+          "२ आलू",
+          "जीरा-धनिया पेस्ट",
+          "गरम मसाला",
+          "पानी"
+        ],
+        "instructions": [
+          "सब्जी के भुजू।",
+          "पातर रस्सा तैयार करू।",
+          "सब्जी के रस्सा में सिझाउ।",
+          "धनिया पत्ता दिय।"
+        ],
+        "culturalSignificance": "पटल (परवल) के मिथिला में तरकारी क राजा मानल जायत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "khesari-saag",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "15 mins",
+    "servings": 3,
+    "locales": {
+      "en": {
+        "title": "Khesari Greens",
+        "description": "Young leaves of the grass pea plant, chopped and stir-fried.",
+        "ingredients": [
+          "Khesari leaves",
+          "Garlic",
+          "Green Chilies",
+          "Salt"
+        ],
+        "instructions": [
+          "Finely chop the tender leaves.",
+          "Heat oil, temper with garlic.",
+          "Add saag and cook till dry."
+        ],
+        "culturalSignificance": "Khesari grows in rice fields after harvest. It is quintessential rural food."
+      },
+      "hi": {
+        "title": "खेसारी साग",
+        "description": "खेसारी के पौधे की कोमल पत्तियां, कटी और भुनी हुईं।",
+        "ingredients": [
+          "खेसारी के पत्ते",
+          "लहसुन",
+          "हरी मिर्च",
+          "नमक"
+        ],
+        "instructions": [
+          "कोमल पत्तियों को बारीक काट लें।",
+          "तेल गर्म करें, लहसुन का तड़का लगाएँ।",
+          "साग डालें और सूखने तक पकाएं।"
+        ],
+        "culturalSignificance": "खेसारी फसल कटाई के बाद धान के खेतों में उगता है। यह सर्वोत्कृष्ट ग्रामीण भोजन है।"
+      },
+      "mai": {
+        "title": "खेसारी साग",
+        "description": "खेसारी क कोमल पत्ता क साग।",
+        "ingredients": [
+          "खेसारी साग",
+          "लहसुन",
+          "हरियर मिर्च",
+          "नमक"
+        ],
+        "instructions": [
+          "साग के हीन काटू।",
+          "तेल गरम क लहसुन दिय।",
+          "साग द क भुजू जब तक पनी नहि सुखा जाय।"
+        ],
+        "culturalSignificance": "धान कटनी क बाद खेत में खेसारी अपने होइत अछि। ई देहाती भोजन थिक।"
+      }
+    }
+  },
+  {
+    "slug": "genhari-saag",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Amaranth Greens (Green)",
+        "description": "Green Amaranth leaves cooked simple and healthy.",
+        "ingredients": [
+          "Genhari Saag",
+          "Onion",
+          "Garlic",
+          "Oil"
+        ],
+        "instructions": [
+          "Chop leaves.",
+          "Sauté with onion and garlic."
+        ],
+        "culturalSignificance": "Known for cooling the body."
+      },
+      "hi": {
+        "title": "गन्हारी साग",
+        "description": "हरी चौलाई (गन्हारी) का साग, सादा और स्वस्थ।",
+        "ingredients": [
+          "गन्हारी साग",
+          "प्याज",
+          "लहसुन",
+          "तेल"
+        ],
+        "instructions": [
+          "पत्ते काटें।",
+          "प्याज और लहसुन के साथ भूनें।"
+        ],
+        "culturalSignificance": "शरीर को ठंडक देने के लिए जाना जाता है।"
+      },
+      "mai": {
+        "title": "गन्हारी साग",
+        "description": "गन्हारी साग, जे बहुत पौष्टिक होइत अछि।",
+        "ingredients": [
+          "गन्हारी साग",
+          "प्याज",
+          "लहसुन",
+          "तेल"
+        ],
+        "instructions": [
+          "साग काटू।",
+          "प्याज-लहसुन संग भुजू।"
+        ],
+        "culturalSignificance": "ई पेट ठंडा रखैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "alu-gobi-matar",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 5,
+    "locales": {
+      "en": {
+        "title": "Aloo Gobi Matar",
+        "description": "Winter classic cauliflower, potato, and peas curry.",
+        "ingredients": [
+          "Cauliflower",
+          "Potato",
+          "Peas",
+          "Ginger-Garlic",
+          "Tomato"
+        ],
+        "instructions": [
+          "Fry cauliflower florets.",
+          "Make masala gravy.",
+          "Add veggies and peas.",
+          "Simmer."
+        ],
+        "culturalSignificance": "The main vegetable dish during winter weddings."
+      },
+      "hi": {
+        "title": "आलू-गोभी-मटर",
+        "description": "सर्दियों की क्लासिक फूलगोभी, आलू और मटर की सब्जी।",
+        "ingredients": [
+          "फूलगोभी",
+          "आलू",
+          "मटर",
+          "अदरक-लहसुन",
+          "टमाटर"
+        ],
+        "instructions": [
+          "फूलगोभी के टुकड़ों को भूनें।",
+          "मसाला ग्रेवी बनाएं।",
+          "सब्जियां और मटर डालें।",
+          "धीमी आंच पर पकाएं।"
+        ],
+        "culturalSignificance": "सर्दियों की शादियों के दौरान मुख्य सब्जी। "
+      },
+      "mai": {
+        "title": "आलू-गोभी-मटर",
+        "description": "गोभी, आलू आर मटर क मसालेदार तरकारी।",
+        "ingredients": [
+          "गोभी",
+          "आलू",
+          "मटर",
+          "अदरक-लहसुन",
+          "टमाटर"
+        ],
+        "instructions": [
+          "गोभी के भूनू।",
+          "मसाला तैयार करू।",
+          "सब्जी आर मटर दिय।",
+          "सिझाउ।"
+        ],
+        "culturalSignificance": "जाड़ क बियाह-डांगा में ई तरकारी मुख्य रहैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "sim-alu",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Broad Beans Potato",
+        "description": "Country beans cooked with mustard paste.",
+        "ingredients": [
+          "250g Broad Beans (Sim)",
+          "2 Potatoes",
+          "Mustard Paste",
+          "Garlic"
+        ],
+        "instructions": [
+          "De-string beans.",
+          "Cook in mustard gravy like fish curry."
+        ],
+        "culturalSignificance": "Seasonal winter vegetable."
+      },
+      "hi": {
+        "title": "सिम (सेम) आलू",
+        "description": "सरसों के पेस्ट के साथ पकाई गई सेम की फलियां।",
+        "ingredients": [
+          "250 ग्राम सेम (सिम)",
+          "2 आलू",
+          "सरसों का पेस्ट",
+          "लहसुन"
+        ],
+        "instructions": [
+          "सेम के रेशे निकालें।",
+          "मछली करी की तरह सरसों की ग्रेवी में पकाएं।"
+        ],
+        "culturalSignificance": "मौसमी सर्दियों की सब्जी।"
+      },
+      "mai": {
+        "title": "सिम (सेम) आलू",
+        "description": "सिम आर आलू क रस्सेदार तरकारी।",
+        "ingredients": [
+          "२५० ग्राम सिम",
+          "२ आलू",
+          "सरिसो पेस्ट",
+          "लहसुन"
+        ],
+        "instructions": [
+          "सिम क रेशा निकालू।",
+          "माछ क तरह सरिसो रस में बनाउ।"
+        ],
+        "culturalSignificance": "जाड़ क स्पेशल सब्जी।"
+      }
+    }
+  },
+  {
+    "slug": "kathal-do-pyaza",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "40 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Kathal Do Pyaza",
+        "description": "Jackfruit cooked with almost equal amount of onions.",
+        "ingredients": [
+          "500g Kathal",
+          "400g Onions",
+          "Whole Spices",
+          "Meat Masala"
+        ],
+        "instructions": [
+          "Layer kathal and onions.",
+          "Cook on slow heat (Dum) style."
+        ],
+        "culturalSignificance": "Rich and hearty dish."
+      },
+      "hi": {
+        "title": "कटहर दो प्याज़ा",
+        "description": "लगभग बराबर मात्रा में प्याज के साथ पकाया गया कटहल।",
+        "ingredients": [
+          "500 ग्राम कटहल",
+          "400 ग्राम प्याज",
+          "खड़े मसाले",
+          "मीट मसाला"
+        ],
+        "instructions": [
+          "कटहल और प्याज की परत लगाएं।",
+          "धीमी आंच (दम) पर पकाएं।",
+          "समृद्ध और हार्दिक भोजन।"
+        ],
+        "culturalSignificance": "समृद्ध और हार्दिक भोजन।"
+      },
+      "mai": {
+        "title": "कटहर दो प्याज़ा",
+        "description": "विशेस प्याज द क बनल कटहर क सब्जी।",
+        "ingredients": [
+          "५०० ग्राम कटहर",
+          "४०० ग्राम प्याज",
+          "गरम मसाला",
+          "मीट मसाला"
+        ],
+        "instructions": [
+          "कटहर आर प्याज मिलाउ।",
+          "कम आंच पर दम द क सिझाउ।"
+        ],
+        "culturalSignificance": "ई बहुत स्वादिष्ट होइत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "rahar-dal-tadka",
+    "category": "Main Course",
+    "prepTime": "5 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Toor Dal Tadka",
+        "description": "Yellow Pigeon Pea soup tempered with cumin and ghee.",
+        "ingredients": [
+          "1 cup Rahar Dal",
+          "Turmeric",
+          "Salt",
+          "Ghee",
+          "Cumin",
+          "Dry Red Chili"
+        ],
+        "instructions": [
+          "Boil dal with turmeric/salt.",
+          "Temper ghee, cumin, and chili in a ladle and pour over dal."
+        ],
+        "culturalSignificance": "The protein source of every meal."
+      },
+      "hi": {
+        "title": "रहर दाल (जीरा छौंकल)",
+        "description": "जीरा और घी के तड़के वाली पीली अरहर दाल।",
+        "ingredients": [
+          "1 कप अरहर (रहर) दाल",
+          "हल्दी",
+          "नमक",
+          "घी",
+          "जीरा",
+          "सूखी लाल मिर्च"
+        ],
+        "instructions": [
+          "हल्दी/नमक के साथ दाल उबालें।",
+          "कलछी में घी, जीरा और मिर्च का तड़का तैयार करें और दाल पर डालें।"
+        ],
+        "culturalSignificance": "हर भोजन का प्रोटीन स्रोत।"
+      },
+      "mai": {
+        "title": "रहर दाल (जीरा छौंकल)",
+        "description": "रहर दाल में जीरा आर घी क छौंक।",
+        "ingredients": [
+          "१ कप रहर दाल",
+          "हल्दी",
+          "नमक",
+          "घी",
+          "जीरा",
+          "ललका मिर्च"
+        ],
+        "instructions": [
+          "दाल उसिन लिय।",
+          "घी, जीरा, आर मिर्च स छौंक लगावय।",
+          "गरम-गरम भात संग खाउ।"
+        ],
+        "culturalSignificance": "दाल-भात-चोखा मिथिला क प्रमुख भोजन थिक।"
+      }
+    }
+  },
+  {
+    "slug": "masoor-dal-fry",
+    "category": "Main Course",
+    "prepTime": "5 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Masoor Dal Fry",
+        "description": "Red lentils cooked with onion and tomato tadka.",
+        "ingredients": [
+          "1 cup Masoor Dal",
+          "Onion",
+          "Tomato",
+          "Garlic",
+          "Ghee"
+        ],
+        "instructions": [
+          "Boil dal.",
+          "Fry onion, tomato, garlic in ghee.",
+          "Mix with dal."
+        ],
+        "culturalSignificance": "Eaten often in winter."
+      },
+      "hi": {
+        "title": "मसूर दाल फ्राई",
+        "description": "प्याज और टमाटर के तड़के के साथ पकाई गई लाल मसूर की दाल।",
+        "ingredients": [
+          "1 कप मसूर दाल",
+          "प्याज",
+          "टमाटर",
+          "लहसुन",
+          "घी"
+        ],
+        "instructions": [
+          "दाल उबालें।",
+          "घी में प्याज, टमाटर, लहसुन भूनें।",
+          "दाल के साथ मिलाएं।"
+        ],
+        "culturalSignificance": "सर्दियों में अक्सर खाया जाता है।"
+      },
+      "mai": {
+        "title": "मसूर दाल फ्राई",
+        "description": "प्याज आर टमाटर द क बनल मसूर दाल।",
+        "ingredients": [
+          "१ कप मसूर दाल",
+          "प्याज",
+          "टमाटर",
+          "लहसुन",
+          "घी"
+        ],
+        "instructions": [
+          "दाल सिझाउ।",
+          "प्याज, टमाटर, लहसुन घी में भुजू।",
+          "दाल में मिला दिय।"
+        ],
+        "culturalSignificance": "जाड़ में बेसी बनैत अछि."
+      }
+    }
+  },
+  {
+    "slug": "moong-dal-bhajal",
+    "category": "Main Course",
+    "prepTime": "5 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Roasted Moong Dal",
+        "description": "Moong beans dry roasted before boiling for a smoky flavor.",
+        "ingredients": [
+          "1 cup Moong Dal",
+          "Ghee",
+          "Ginger"
+        ],
+        "instructions": [
+          "Roast dal in dry pan until fragrant.",
+          "Boil.",
+          "Temper with ghee and ginger."
+        ],
+        "culturalSignificance": "Light on stomach, often given to sick/elderly (`Pathya`)."
+      },
+      "hi": {
+        "title": "मूंग दाल (भजल)",
+        "description": "उबालने से पहले सूखी भूनी गई मूंग दाल, एक स्मोकी स्वाद के लिए।",
+        "ingredients": [
+          "1 कप मूंग दाल",
+          "घी",
+          "अदरक"
+        ],
+        "instructions": [
+          "दाल को सूखी कड़ाही में खुशबू आने तक भूनें।",
+          "उबालें।",
+          "घी और अदरक का तड़का लगाएँ।"
+        ],
+        "culturalSignificance": "पेट के लिए हल्का, अक्सर बीमार/बुजुर्गों को दिया जाता है (`पथ्य`)।"
+      },
+      "mai": {
+        "title": "मूंग दाल (भजल)",
+        "description": "सोन्हगर मूंग दाल, जेकरा बनावय स पहिने भुजल जायत अछि।",
+        "ingredients": [
+          "१ कप मूंग दाल",
+          "घी",
+          "अदी (अदरक)"
+        ],
+        "instructions": [
+          "दाल के कड़ाही में लाल होय तक भुजू।",
+          "तखन उसिन लिय।",
+          "घी आर अदी स छौंकू।"
+        ],
+        "culturalSignificance": "ई सुपाच्य होइत छैक, बीमार लेल बहुत नीक।"
+      }
+    }
+  },
+  {
+    "slug": "arwa-bhat",
+    "category": "Main Course",
+    "prepTime": "5 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Steamed Rice",
+        "description": "Plain short-grain rice.",
+        "ingredients": [
+          "2 cups Rice",
+          "4 cups Water"
+        ],
+        "instructions": [
+          "Wash rice.",
+          "Boil until soft.",
+          "Drain starch (Maad)."
+        ],
+        "culturalSignificance": "The canvas for all Maithil food."
+      },
+      "hi": {
+        "title": "अरवा भात",
+        "description": "रोजाना खाया जाने वाला सादा उबला चावल।",
+        "ingredients": [
+          "चावल",
+          "पानी"
+        ],
+        "instructions": [
+          "चावल धोएं।",
+          "पानी में नरम होने तक उबालें।",
+          "मान्ड (पानी) निकाल दें।"
+        ],
+        "culturalSignificance": "चावल उपजाऊ मिथिला के मैदानों की मुख्य फसल है।"
+      },
+      "mai": {
+        "title": "अरवा भात",
+        "description": "सादा अरवा चाउर क भात।",
+        "ingredients": [
+          "चाउर",
+          "पानि"
+        ],
+        "instructions": [
+          "चाउर धो लिय।",
+          "पानी में सिझाउ।",
+          "पसा दिय (मांड निकालू)।"
+        ],
+        "culturalSignificance": "मिथिला में दुनु बेर भात खायल जायत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "ghee-khichdi",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Saturday Khichdi",
+        "description": "Rice and Dal cooked together, topped with ghee.",
+        "ingredients": [
+          "Rice",
+          "Dal (Moong/Rahar)",
+          "Vegetables (optional)",
+          "Ghee"
+        ],
+        "instructions": [
+          "Cook rice and dal together in one pot.",
+          "Add veggies like gobhi/matar.",
+          "Serve with Chokha, Papad, Ghee, Achar."
+        ],
+        "culturalSignificance": "Mandatory Saturday lunch (\"Khichdi ke chaar yaar - Dahi, Papad, Ghee, Achar\")."
+      },
+      "hi": {
+        "title": "घी-खिचड़ी",
+        "description": "चावल और दाल एक साथ पकाया हुआ, ऊपर से घी डालकर।",
+        "ingredients": [
+          "चावल",
+          "दाल (मूंग/रहर)",
+          "सब्जियां (वैकल्पिक)",
+          "घी"
+        ],
+        "instructions": [
+          "चावल और दाल को एक बर्तन में पकाएं।",
+          "गोभी/मटर जैसी सब्जियां डालें।",
+          "चोखा, पापड़, घी, अचार के साथ परोसें।"
+        ],
+        "culturalSignificance": "शनिवार का अनिवार्य दोपहर का भोजन (\"खिचड़ी के चार यार - दही, पापड़, घी, अचार\")।"
+      },
+      "mai": {
+        "title": "घी-खिचड़ी",
+        "description": "चाउर-दाल मिला क बनल खिचड़ी, घी क संग।",
+        "ingredients": [
+          "चाउर",
+          "दाल",
+          "सब्जी",
+          "घी"
+        ],
+        "instructions": [
+          "चाउर-दाल एकहि संग सिझाउ।",
+          "पापड़, घी, अचार, दही क संग खाउ।"
+        ],
+        "culturalSignificance": "शनिदिन क अनिवार्य भोजन (\"खिचड़ी के चार यार - दही, पापड़, घी, अचार\")।"
+      }
+    }
+  },
+  {
+    "slug": "makuni",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Makuni (Sattu Paratha)",
+        "description": "Whole wheat flatbread stuffed with spiced roasted gram flour.",
+        "ingredients": [
+          "Wheat dough",
+          "Sattu",
+          "Ajwain",
+          "Mangraila",
+          "Pickle masala",
+          "Onion"
+        ],
+        "instructions": [
+          "Prepare sattu stuffing with spices and pickle masala.",
+          "Stuff in dough balls.",
+          "Roll and roast with oil/ghee."
+        ],
+        "culturalSignificance": "A robust meal, good for travel."
+      },
+      "hi": {
+        "title": "मकुनी (सत्तू पराठा)",
+        "description": "भुना हुआ चना मसाला (सत्तू) भरकर बनाई गई गेहूं की रोटी।",
+        "ingredients": [
+          "गेहूं का आटा",
+          "सत्तू",
+          "अजवाइन",
+          "मंगरेल",
+          "अचार मसाला",
+          "प्याज"
+        ],
+        "instructions": [
+          "मसालों और अचार के साथ सत्तू का भरावन तैयार करें।",
+          "आटे की लोई में भरें।",
+          "बेलकर तेल/घी से सेंकें।"
+        ],
+        "culturalSignificance": "एक मजबूत भोजन, यात्रा के लिए अच्छा।"
+      },
+      "mai": {
+        "title": "मकुनी (सत्तू पराठा)",
+        "description": "सत्तू भरल रोटी (पराठा)।",
+        "ingredients": [
+          "आटा",
+          "सत्तू",
+          "जवाइन",
+          "मंगरैल",
+          "अचार क मसाला",
+          "प्याज"
+        ],
+        "instructions": [
+          "सत्तू सानू।",
+          "आटा क लोई में भरू।",
+          "बेल क तावा पर पकाउ।"
+        ],
+        "culturalSignificance": "यात्रा लेल सबस नीक भोजन।"
+      }
+    }
+  },
+  {
+    "slug": "dal-puri",
+    "category": "Festival Special",
+    "prepTime": "30 mins",
+    "cookTime": "30 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Dal Puri",
+        "description": "Puri stuffed with boiled and spiced chana dal.",
+        "ingredients": [
+          "Chana Dal",
+          "Wheat flour",
+          "Cumin",
+          "Oil"
+        ],
+        "instructions": [
+          "Boil chana dal with turmeric.",
+          "Drain and grind partially.",
+          "Stuff in puri dough.",
+          "Deep fry."
+        ],
+        "culturalSignificance": "Must for \"Adra Nakshatra\" and bride's welcome."
+      },
+      "hi": {
+        "title": "दाल पूरी",
+        "description": "मसालेदार चना दाल भरकर बनाई गई पूरी।",
+        "ingredients": [
+          "चना दाल",
+          "गेहूं का आटा",
+          "जीरा",
+          "तेल"
+        ],
+        "instructions": [
+          "हल्दी के साथ चना दाल उबालें।",
+          "छानकर दरदरा पीस लें।",
+          "पूरी के आटे में भरें।",
+          "तलें।"
+        ],
+        "culturalSignificance": "\"आद्रा नक्षत्र\" और नई दुल्हन के स्वागत के लिए अनिवार्य।"
+      },
+      "mai": {
+        "title": "दाल पूरी",
+        "description": "चना दाल भरल पूरी।",
+        "ingredients": [
+          "चना दाल",
+          "आटा",
+          "जीरा",
+          "तेल"
+        ],
+        "instructions": [
+          "दाल उसिन क पीस लिय।",
+          "आटा में भर क पूरी छानू।"
+        ],
+        "culturalSignificance": "आद्रा नक्षत्र आर पाहुन लेल विशेष।"
+      }
+    }
+  },
+  {
+    "slug": "kheer-puri",
+    "category": "Festival Special",
+    "prepTime": "10 mins",
+    "cookTime": "40 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Kheer Puri Platter",
+        "description": "Rice pudding served with puffy deep-fried bread.",
+        "ingredients": [
+          "Rice",
+          "Milk",
+          "Sugar",
+          "Wheat flour",
+          "Oil"
+        ],
+        "instructions": [
+          "Make thick Kheer.",
+          "Make plain Puris.",
+          "Serve together."
+        ],
+        "culturalSignificance": "The classic celebratory feast combo."
+      },
+      "hi": {
+        "title": "खीर-पूरी",
+        "description": "फूली हुई पुरी के साथ चावल की खीर।",
+        "ingredients": [
+          "चावल",
+          "दूध",
+          "चीनी",
+          "गेहूं का आटा",
+          "तेल"
+        ],
+        "instructions": [
+          "गाढ़ी खीर बनाएं।",
+          "सादी पूरी बनाएं।",
+          "एक साथ परोसें।"
+        ],
+        "culturalSignificance": "शास्त्रीय उत्सव की दावत का संयोजन।"
+      },
+      "mai": {
+        "title": "खीर-पूरी",
+        "description": "खीर आर पूरी क जोड़ी।",
+        "ingredients": [
+          "चाउर",
+          "दूध",
+          "चीनी",
+          "आटा",
+          "तेल"
+        ],
+        "instructions": [
+          "रसिया (खीर) बनाउ।",
+          "पूरी छानू।",
+          "संगहि खाउ।"
+        ],
+        "culturalSignificance": "कोनो भी शुभ काज में खीर-पूरी बनैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "alu-chokha",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "0 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Aloo Chokha (Mashed Potato)",
+        "description": "Mashed potatoes with roasted chili and mustard oil.",
+        "ingredients": [
+          "Boiled Potatoes",
+          "Roasted Red Chili",
+          "Salt",
+          "Raw Mustard Oil",
+          "Onion (optional)"
+        ],
+        "instructions": [
+          "Mash potatoes.",
+          "Crush roasted chili and salt.",
+          "Mix with oil.",
+          "Add onion if desired."
+        ],
+        "culturalSignificance": "Simplicity at its best."
+      },
+      "hi": {
+        "title": "आलू चोखा",
+        "description": "भुनी हुई मिर्च और सरसों के तेल के साथ मैश किए हुए आलू।",
+        "ingredients": [
+          "उबले आलू",
+          "भुनी सूखी लाल मिर्च",
+          "नमक",
+          "कच्चा सरसों का तेल",
+          "प्याज (वैकल्पिक)"
+        ],
+        "instructions": [
+          "आलू मैश करें।",
+          "भुनी मिर्च और नमक मिलाएं।",
+          "तेल मिलाएं।",
+          "इच्छा हो तो प्याज डालें।"
+        ],
+        "culturalSignificance": "सादगी अपने सर्वोत्तम रूप में।"
+      },
+      "mai": {
+        "title": "आलू चोखा",
+        "description": "आलू क चोखा (भरता)।",
+        "ingredients": [
+          "उसिनल आलू",
+          "पोड़ल मिर्च",
+          "नमक",
+          "कच्चा तेल",
+          "प्याज"
+        ],
+        "instructions": [
+          "आलू मैश करू।",
+          "मिर्च-नमक-तेल मिलाउ।"
+        ],
+        "culturalSignificance": "खिचड़ी आर लिट्टी संग अनिवार्य।"
+      }
+    }
+  },
+  {
+    "slug": "baigan-chokha",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Baigan Chokha",
+        "description": "Roasted eggplant mash.",
+        "ingredients": [
+          "Round Eggplant (roasted)",
+          "Green Chilies",
+          "Garlic",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Roast eggplant on fire.",
+          "Peel skin.",
+          "Mash with spices and oil."
+        ],
+        "culturalSignificance": "Pairs well with Litti and Khichdi."
+      },
+      "hi": {
+        "title": "बैगन चोखा",
+        "description": "भुना हुआ बैंगन का भर्ता।",
+        "ingredients": [
+          "गोल बैंगन (भुना हुआ)",
+          "हरी मिर्च",
+          "लहसुन",
+          "सरसों का तेल"
+        ],
+        "instructions": [
+          "बैंगन को आग पर भूनें।",
+          "छिलका उतारें।",
+          "मसालों और तेल के साथ मैश करें।"
+        ],
+        "culturalSignificance": "लिट्टी और खिचड़ी के साथ अच्छा लगता है।"
+      },
+      "mai": {
+        "title": "बैगन चोखा",
+        "description": "भांटा (बैंगन) क चोखा।",
+        "ingredients": [
+          "गोल भांटा",
+          "मिर्च",
+          "लहसुन",
+          "तेल"
+        ],
+        "instructions": [
+          "भांटा पकाउ।",
+          "छिलका हटा क सानू।"
+        ],
+        "culturalSignificance": "लिट्टी-चोखा क जान थिक।"
+      }
+    }
+  },
+  {
+    "slug": "tomato-chokha",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "5 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Tomato Chokha",
+        "description": "Fire-roasted tomato salsa/mash.",
+        "ingredients": [
+          "Tomatoes",
+          "Green Chili",
+          "Mustard Oil",
+          "Salt"
+        ],
+        "instructions": [
+          "Roast tomatoes.",
+          "Remove skin.",
+          "Mash with chili, oil, salt."
+        ],
+        "culturalSignificance": "Adds tanginess to any meal."
+      },
+      "hi": {
+        "title": "टमाटर चोखा",
+        "description": "आग पर भुने टमाटर का चोखा।",
+        "ingredients": [
+          "टमाटर",
+          "हरी मिर्च",
+          "सरसों का तेल",
+          "नमक"
+        ],
+        "instructions": [
+          "टमाटर भूनें।",
+          "छिलका निकालें।",
+          "मिर्ची, तेल, नमक के साथ मैश करें।"
+        ],
+        "culturalSignificance": "किसी भी भोजन में तीखापन जोड़ता है।"
+      },
+      "mai": {
+        "title": "टमाटर चोखा",
+        "description": "टमाटर क खट्टा-मीठ चोखा।",
+        "ingredients": [
+          "टमाटर",
+          "मिर्च",
+          "तेल",
+          "नमक"
+        ],
+        "instructions": [
+          "टमाटर पकाउ।",
+          "मैश क क मसाला मिलाउ।"
+        ],
+        "culturalSignificance": "खाना क स्वाद बढ़ा देइत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "nenua-chokha",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Ridge Gourd Mash",
+        "description": "Boiled ridge gourd mashed with chilies.",
+        "ingredients": [
+          "Nenua",
+          "Chili",
+          "Mustard Oil"
+        ],
+        "instructions": [
+          "Boil Nenua till soft.",
+          "Drain water.",
+          "Mash with tadka of garlic/chili."
+        ],
+        "culturalSignificance": "Sweet and spicy taste."
+      },
+      "hi": {
+        "title": "नेनुआ चोखा",
+        "description": "मिर्च के साथ मैश की हुई उबली तोरई (नेनुआ)।",
+        "ingredients": [
+          "नेनुआ",
+          "मिर्च",
+          "सरसों तेल"
+        ],
+        "instructions": [
+          "नेनुआ को नरम होने तक उबालें।",
+          "पानी निकाल दें।",
+          "लहसुन/मिर्च के तड़के के साथ मैश करें।"
+        ],
+        "culturalSignificance": "मीठा और तीखा स्वाद।"
+      },
+      "mai": {
+        "title": "नेनुआ चोखा",
+        "description": "नेनुआ (घिउरा) क चोखा।",
+        "ingredients": [
+          "नेनुआ",
+          "मिर्च",
+          "तेल"
+        ],
+        "instructions": [
+          "नेनुआ उसिन लिय।",
+          "लहसुन-मिर्च द क सानू।"
+        ],
+        "culturalSignificance": "मीठ-तीत स्वाद।"
+      }
+    }
+  },
+  {
+    "slug": "parwal-chokha",
+    "category": "Main Course",
+    "prepTime": "15 mins",
+    "cookTime": "5 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Parwal Mash",
+        "description": "Boiled pointed gourd mashed seeds and all.",
+        "ingredients": [
+          "Parwal",
+          "Green Chili",
+          "Garlic",
+          "Oil"
+        ],
+        "instructions": [
+          "Boil Parwal.",
+          "Mash well along with seeds (if tender).",
+          "Mix spices."
+        ],
+        "culturalSignificance": "Zero waste cooking."
+      },
+      "hi": {
+        "title": "परवल चोखा",
+        "description": "उबला हुआ परवल का चोखा, बीजों के साथ।",
+        "ingredients": [
+          "परवल",
+          "हरी मिर्च",
+          "लहसुन",
+          "तेल"
+        ],
+        "instructions": [
+          "परवल उबालें।",
+          "बीजों के साथ अच्छी तरह मैश करें (यदि नरम हों)।",
+          "मसाले मिलाएं।"
+        ],
+        "culturalSignificance": "शून्य अपशिष्ट खाना पकाने।"
+      },
+      "mai": {
+        "title": "परवल चोखा",
+        "description": "पटल (परवल) क चोखा।",
+        "ingredients": [
+          "परवल",
+          "मिर्च",
+          "लहसुन",
+          "तेल"
+        ],
+        "instructions": [
+          "परवल उसिन क सानू।"
+        ],
+        "culturalSignificance": "कोनो चीज बर्बाद नहि होय।"
+      }
+    }
+  },
+  {
+    "slug": "karhi-pakoda",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Kadhi Pakoda (North Indian)",
+        "description": "Yogurt curry with onion fritters (distinct from Kadhi Bari).",
+        "ingredients": [
+          "Besan",
+          "Sour Yogurt",
+          "Onion Pakodas",
+          "Curry Leaves"
+        ],
+        "instructions": [
+          "Make onion pakodas.",
+          "Prepare besan-yogurt kadhi.",
+          "Simmer pakodas in kadhi."
+        ],
+        "culturalSignificance": "Popular in urban Mithila."
+      },
+      "hi": {
+        "title": "कढ़ी पकौड़ा",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      },
+      "mai": {
+        "title": "कढ़ी पकौड़ा",
+        "description": "",
+        "ingredients": [],
+        "instructions": [],
+        "culturalSignificance": ""
+      }
+    }
+  },
+  {
+    "slug": "sakar-pala",
+    "category": "Sweets",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 8,
+    "locales": {
+      "en": {
+        "title": "Shakarpara",
+        "description": "Sweet diamond-shaped fried flour biscuits.",
+        "ingredients": [
+          "Maida",
+          "Sugar",
+          "Ghee"
+        ],
+        "instructions": [
+          "Knead stiff dough.",
+          "Roll thick.",
+          "Cut into diamonds.",
+          "Deep fry.",
+          "Coat in sugar syrup."
+        ],
+        "culturalSignificance": "Tea time snack."
+      },
+      "hi": {
+        "title": "शकरपाला",
+        "description": "मीठे हीरे के आकार के तले हुए आटे के बिस्कुट।",
+        "ingredients": [
+          "मैदा",
+          "चीनी",
+          "घी"
+        ],
+        "instructions": [
+          "सख्त आटा गूंथें।",
+          "मोटा बेलें।",
+          "हीरे के आकार में काटें।",
+          "तलें।",
+          "चाशनी में कोट करें।"
+        ],
+        "culturalSignificance": "चाय के समय का नाश्ता।"
+      },
+      "mai": {
+        "title": "शकरपाला",
+        "description": "मैदा आर चीनी क खस्ता।",
+        "ingredients": [
+          "मैदा",
+          "चीनी",
+          "घी"
+        ],
+        "instructions": [
+          "कड़ा आटा सानू।",
+          "काट क छानू।",
+          "पाग में मिलाउ।"
+        ],
+        "culturalSignificance": "चाय नाश्ता लेल।"
+      }
+    }
+  },
+  {
+    "slug": "litti-chokha",
+    "category": "Snacks",
+    "prepTime": "40 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Litti Chokha",
+        "description": "Roasted wheat balls stuffed with sattu, served with mashed aubergine.",
+        "ingredients": [
+          "Wheat Flour",
+          "Sattu",
+          "Brinjal",
+          "Tomato",
+          "Ghee"
+        ],
+        "instructions": [
+          "Make dough balls stuffed with spiced sattu.",
+          "Roast over coal/oven.",
+          "Dip in ghee.",
+          "Serve with Chokha."
+        ],
+        "culturalSignificance": "The global identity of Bihari/Maithil cuisine."
+      },
+      "hi": {
+        "title": "लिट्टी चोखा",
+        "description": "सत्तू भरकर बनाए गए गेहूं के गोले, बैंगन के भर्ते के साथ परोसे जाते हैं।",
+        "ingredients": [
+          "गेहूं का आटा",
+          "सत्तू",
+          "बैंगन",
+          "टमाटर",
+          "घी"
+        ],
+        "instructions": [
+          "मसालेदार सत्तू भरकर आटे की लोई बनाएं।",
+          "कोयले/ओवन पर भूनें।",
+          "घी में डुबोएं।",
+          "चोखा के साथ परोसें।"
+        ],
+        "culturalSignificance": "बिहारी/मैथिल व्यंजनों की वैश्विक पहचान।"
+      },
+      "mai": {
+        "title": "लिट्टी चोखा",
+        "description": "सत्तू भरल लिट्टी आर चोखा।",
+        "ingredients": [
+          "आटा",
+          "सत्तू",
+          "भांटा",
+          "टमाटर",
+          "घी"
+        ],
+        "instructions": [
+          "सत्तू भरल लिट्टी गोइठा पर पकाउ।",
+          "घी में बोरू।",
+          "चोखा संग खाउ।"
+        ],
+        "culturalSignificance": "बिहार आर मिथिला क पहचान।"
+      }
+    }
+  },
+  {
+    "slug": "kohda-tarua",
+    "category": "Snacks",
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Pumpkin Fritters",
+        "description": "Slices of sweet pumpkin dipped in rice flour batter and fried.",
+        "ingredients": [
+          "Pumpkin slices",
+          "Rice flour",
+          "Besan",
+          "Spices"
+        ],
+        "instructions": [
+          "Make batter with rice flour/besan.",
+          "Dip pumpkin slices.",
+          "Deep fry."
+        ],
+        "culturalSignificance": "Crispy exterior, soft sweet interior."
+      },
+      "hi": {
+        "title": "कोहड़ा तरुआ",
+        "description": "मीठे कद्दू (कोहड़ा) के टुकड़े चावल के आटे के घोल में डुबोकर तले हुए।",
+        "ingredients": [
+          "कद्दू के टुकड़े",
+          "चावल का आटा",
+          "बेसन",
+          "मसाले"
+        ],
+        "instructions": [
+          "चावल के आटे/बेसन का घोल बनाएं।",
+          "कद्दू के टुकड़े डुबोएं।",
+          "तलें।"
+        ],
+        "culturalSignificance": "बाहर से कुरकुरा, अंदर से नरम और मीठा।"
+      },
+      "mai": {
+        "title": "कोहड़ा तरुआ",
+        "description": "कोहड़ा (कद्दू) क बचका।",
+        "ingredients": [
+          "कोहड़ा",
+          "चाउर पिठार",
+          "बेसन",
+          "मसाला"
+        ],
+        "instructions": [
+          "कोहड़ा काटू।",
+          "पिठार में लपेट क छानू।"
+        ],
+        "culturalSignificance": "ऊपर स कुरकुरा, अंदर स मीठ।"
+      }
+    }
+  },
+  {
+    "slug": "alu-tarua",
+    "category": "Snacks",
+    "prepTime": "5 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Potato Fritters",
+        "description": "Round potato slices fried in batter.",
+        "ingredients": [
+          "Potato rounds",
+          "Batter (Rice flour+Besan)",
+          "Oil"
+        ],
+        "instructions": [
+          "Dip potato slices in spicy batter.",
+          "Fry till golden."
+        ],
+        "culturalSignificance": "Kids favorite."
+      },
+      "hi": {
+        "title": "आलू तरुआ (चक्का)",
+        "description": "घोल में तले हुए गोल आलू के टुकड़े।",
+        "ingredients": [
+          "आलू के गोल टुकड़े",
+          "घोल (चावल का आटा + बेसन)",
+          "तेल"
+        ],
+        "instructions": [
+          "आलू के टुकड़ों को मसालेदार घोल में डुबोएं।",
+          "सुनहरा होने तक तलें।"
+        ],
+        "culturalSignificance": "बच्चों का पसंदीदा।"
+      },
+      "mai": {
+        "title": "आलू तरुआ (चक्का)",
+        "description": "आलू क चक्का (तरुआ)।",
+        "ingredients": [
+          "आलू",
+          "पिठार",
+          "तेल"
+        ],
+        "instructions": [
+          "आलू गोल काटू।",
+          "पिठार लगा क छानू।"
+        ],
+        "culturalSignificance": "बच्चा सबहक प्रिय।"
+      }
+    }
+  },
+  {
+    "slug": "baigan-tarua",
+    "category": "Snacks",
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Eggplant Fritters",
+        "description": "Long or round eggplant slices fried crisp.",
+        "ingredients": [
+          "Eggplant",
+          "Besan",
+          "Rice flour"
+        ],
+        "instructions": [
+          "Slash eggplant.",
+          "Coat with batter.",
+          "Fry."
+        ],
+        "culturalSignificance": "Classic comfort food."
+      },
+      "hi": {
+        "title": "बैगन तरुआ (बेगनी)",
+        "description": "लंबे या गोल बैंगन के टुकड़े कुरकुरे तले हुए।",
+        "ingredients": [
+          "बैंगन",
+          "बेसन",
+          "चावल का आटा"
+        ],
+        "instructions": [
+          "बैंगन को चीरें।",
+          "घोल में लपेटें।",
+          "तलें।"
+        ],
+        "culturalSignificance": "दोपहर के भोजन का क्लासिक साइड डिश।"
+      },
+      "mai": {
+        "title": "बैगन तरुआ (बेगनी)",
+        "description": "बैंगन क बचका (तरुआ)।",
+        "ingredients": [
+          "बैंगन",
+          "बेसन",
+          "चाउर पिठार"
+        ],
+        "instructions": [
+          "बैंगन काटू।",
+          "पिठार लगा क छानू।"
+        ],
+        "culturalSignificance": "भात-दाल संग बहुत नीक लगैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "gobi-tarua",
+    "category": "Snacks",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Cauliflower Fritters",
+        "description": "Cauliflower florets marinated and fried.",
+        "ingredients": [
+          "Cauliflower",
+          "Spices",
+          "Rice flour"
+        ],
+        "instructions": [
+          "Parboil gobi.",
+          "Coat with spicy rice paste.",
+          "Fry."
+        ],
+        "culturalSignificance": "Winter delicacy."
+      },
+      "hi": {
+        "title": "गोभी तरुआ",
+        "description": "मैरीनेट किए हुए और तले हुए फूलगोभी के टुकड़े।",
+        "ingredients": [
+          "फूलगोभी",
+          "मसाले",
+          "चावल का आटा"
+        ],
+        "instructions": [
+          "गोभी को थोड़ा उबालें।",
+          "मसालेदार चावल के पेस्ट से कोट करें।",
+          "तलें।"
+        ],
+        "culturalSignificance": "सर्दियों का व्यंजन।"
+      },
+      "mai": {
+        "title": "गोभी तरुआ",
+        "description": "गोभी क तरुआ।",
+        "ingredients": [
+          "फूलगोभी",
+          "मसाला",
+          "चाउर पिठार"
+        ],
+        "instructions": [
+          "गोभी उसिन लिय।",
+          "पिठार लगा क छानू।"
+        ],
+        "culturalSignificance": "जाड़ क सौगात।"
+      }
+    }
+  },
+  {
+    "slug": "kanda-bachka",
+    "category": "Snacks",
+    "prepTime": "5 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Onion Fritters (Flat)",
+        "description": "Flat onion fritters, distinct from Pakoda.",
+        "ingredients": [
+          "Onion rings/slices",
+          "Besan",
+          "Rice flour"
+        ],
+        "instructions": [
+          "Make thick batter.",
+          "Coat onion slices.",
+          "Fry flat."
+        ],
+        "culturalSignificance": "Tea time staple."
+      },
+      "hi": {
+        "title": "कांदा (प्याज) बचका",
+        "description": "चपटे प्याज के पकौड़े, गोल पकौड़ों से अलग।",
+        "ingredients": [
+          "प्याज के छल्ले/टुकड़े",
+          "बेसन",
+          "चावल का आटा"
+        ],
+        "instructions": [
+          "गाढ़ा घोल बनाएं।",
+          "प्याज के टुकड़ों को कोट करें।",
+          "चपटा तलें।"
+        ],
+        "culturalSignificance": "चाय के समय का मुख्य नाश्ता।"
+      },
+      "mai": {
+        "title": "कांदा (प्याज) बचका",
+        "description": "प्याज क बचका (चपटा)।",
+        "ingredients": [
+          "प्याज",
+          "बेसन",
+          "पिठार"
+        ],
+        "instructions": [
+          "कड़ा घोल बनाउ।",
+          "प्याज साट क छानू।"
+        ],
+        "culturalSignificance": "चाय संग नाश्ता।"
+      }
+    }
+  },
+  {
+    "slug": "ol-tarua",
+    "category": "Snacks",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Yam Fritters",
+        "description": "Boiled yam slices fried crisp.",
+        "ingredients": [
+          "Boiled Ol (Yam)",
+          "Lemon",
+          "Batter"
+        ],
+        "instructions": [
+          "Marinate yam with lemon/salt.",
+          "Dip in batter.",
+          "Fry."
+        ],
+        "culturalSignificance": "Savory and meaty texture."
+      },
+      "hi": {
+        "title": "ओल तरुआ",
+        "description": "उबले हुए जिमीकंद (ओल) के टुकड़े कुरकुरे तले हुए।",
+        "ingredients": [
+          "उबला हुआ ओल (जिमीकंद)",
+          "नींबू",
+          "घोल"
+        ],
+        "instructions": [
+          "ओल को नींबू/नमक के साथ मैरीनेट करें।",
+          "घोल में डुबोएं।",
+          "तलें।"
+        ],
+        "culturalSignificance": "नमकीन और मांसल बनावट।"
+      },
+      "mai": {
+        "title": "ओल तरुआ",
+        "description": "ओल क तरुआ।",
+        "ingredients": [
+          "उसिनल ओल",
+          "नेबु",
+          "पिठार"
+        ],
+        "instructions": [
+          "ओल में नेबु-नमक लगाउ।",
+          "पिठार लगा क छानू।"
+        ],
+        "culturalSignificance": "स्वाद में जोरदार।"
+      }
+    }
+  },
+  {
+    "slug": "dhaniya-tarua",
+    "category": "Snacks",
+    "prepTime": "5 mins",
+    "cookTime": "5 mins",
+    "servings": 2,
+    "locales": {
+      "en": {
+        "title": "Coriander Leaf Fritters",
+        "description": "Clumps of fresh coriander leaves fried in batter.",
+        "ingredients": [
+          "Fresh Coriander bunch",
+          "Besan/Rice flour"
+        ],
+        "instructions": [
+          "Dip bunch in batter.",
+          "Fry until crisp."
+        ],
+        "culturalSignificance": "Aromatic and crunchy."
+      },
+      "hi": {
+        "title": "धनिया पत्ता तरुआ",
+        "description": "ताजे धनिये के पत्ते घोल में तले हुए।",
+        "ingredients": [
+          "ताजा धनिया गुच्छा",
+          "बेसन/चावल का आटा"
+        ],
+        "instructions": [
+          "गुच्छे को घोल में डुबोएं।",
+          "कुरकुरा होने तक तलें।"
+        ],
+        "culturalSignificance": "सुगंधित और कुरकुरा।"
+      },
+      "mai": {
+        "title": "धनिया पत्ता तरुआ",
+        "description": "धनिया पत्ता क तरुआ।",
+        "ingredients": [
+          "धनिया पत्ता",
+          "बेसन/पिठार"
+        ],
+        "instructions": [
+          "पत्ता के बेसन में डुबा क छानू।"
+        ],
+        "culturalSignificance": "सुगंधित आर कुरकुरा।"
+      }
+    }
+  },
+  {
+    "slug": "mirchi-tarua",
+    "category": "Snacks",
+    "prepTime": "10 mins",
+    "cookTime": "5 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Chili Fritters",
+        "description": "Green chilies stuffed or plain fried in batter.",
+        "ingredients": [
+          "Large Green Chilies",
+          "Amchur",
+          "Batter"
+        ],
+        "instructions": [
+          "Slit chilies.",
+          "Fill with amchur.",
+          "Dip and fry."
+        ],
+        "culturalSignificance": "For spice lovers."
+      },
+      "hi": {
+        "title": "मिर्ची तरुआ",
+        "description": "हरी मिर्च, भरवां या सादा, घोल में तली हुई।",
+        "ingredients": [
+          "बड़ी हरी मिर्च",
+          "अमचूर",
+          "घोल"
+        ],
+        "instructions": [
+          "मिर्च को चीरें।",
+          "अमचूर भरें।",
+          "डुबोकर तलें।"
+        ],
+        "culturalSignificance": "मसाला प्रेमियों के लिए।"
+      },
+      "mai": {
+        "title": "मिर्ची तरुआ",
+        "description": "मिर्च क तरुआ।",
+        "ingredients": [
+          "मोटका मिर्च",
+          "अमचूर",
+          "बेसन"
+        ],
+        "instructions": [
+          "मिर्च चीर क अमचूर भरू।",
+          "बेसन लगा क छानू।"
+        ],
+        "culturalSignificance": "चटपटा स्वाद।"
+      }
+    }
+  },
+  {
+    "slug": "chura-bhujja",
+    "category": "Snacks",
+    "prepTime": "5 mins",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Roasted Beaten Rice",
+        "description": "Crispy dry-roasted beaten rice with peas and peanuts.",
+        "ingredients": [
+          "Thick Chura",
+          "Peanuts",
+          "Green Peas",
+          "Oil",
+          "Green Chili"
+        ],
+        "instructions": [
+          "Roast Chura in little oil till crisp.",
+          "Mix with fried peanuts/peas.",
+          "Add salt/pepper."
+        ],
+        "culturalSignificance": "The most common evening snack."
+      },
+      "hi": {
+        "title": "चूड़ा भुज्जा",
+        "description": "मटर और मूंगफली के साथ कुरकुरा सूखा भुना हुआ पोहा (चूड़ा)।",
+        "ingredients": [
+          "मोटा चूड़ा",
+          "मूंगफली",
+          "हरी मटर",
+          "तेल",
+          "हरी मिर्च"
+        ],
+        "instructions": [
+          "चूड़ा को थोड़े तेल में कुरकुरा होने तक भूनें।",
+          "तली हुई मूंगफली/मटर मिलाएं।",
+          "नमक/काली मिर्च डालें।"
+        ],
+        "culturalSignificance": "सबसे आम शाम का नाश्ता।"
+      },
+      "mai": {
+        "title": "चूड़ा भुज्जा",
+        "description": "चूड़ा क भुज्जा।",
+        "ingredients": [
+          "चूड़ा",
+          "बादाम (मूंगफली)",
+          "मटर",
+          "तेल",
+          "मिर्च"
+        ],
+        "instructions": [
+          "चूड़ा के लाल क क भूनू।",
+          "बादाम-मटर मिलाउ।",
+          "नमक-मारीच दिय।"
+        ],
+        "culturalSignificance": "सांझ क नाश्ता।"
+      }
+    }
+  },
+  {
+    "slug": "chura-matar",
+    "category": "Snacks",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Chura Matar",
+        "description": "Soft poha cooked with fresh winter peas.",
+        "ingredients": [
+          "Soaked Chura",
+          "Fresh Peas",
+          "Onion",
+          "Spices"
+        ],
+        "instructions": [
+          "Sauté peas and onions.",
+          "Add soaked chura.",
+          "Mix well with spices."
+        ],
+        "culturalSignificance": "Winter breakfast."
+      },
+      "hi": {
+        "title": "चूड़ा-मटर (पोहा)",
+        "description": "ताजे सर्दियों के मटर के साथ पकाया गया नरम पोहा।",
+        "ingredients": [
+          "भीगा हुआ चूड़ा",
+          "ताजा मटर",
+          "प्याज",
+          "मसाले"
+        ],
+        "instructions": [
+          "मटर और प्याज भूनें।",
+          "भीगा हुआ चूड़ा डालें।",
+          "मसालों के साथ अच्छी तरह मिलाएं।"
+        ],
+        "culturalSignificance": "सर्दियों का नाश्ता।"
+      },
+      "mai": {
+        "title": "चूड़ा-मटर (पोहा)",
+        "description": "चूड़ा-मटर (पोहा)।",
+        "ingredients": [
+          "फूलल चूड़ा",
+          "मटर",
+          "प्याज",
+          "मसाला"
+        ],
+        "instructions": [
+          "मटर-प्याज भुजू।",
+          "चूड़ा मिला क पकाउ।"
+        ],
+        "culturalSignificance": "जाड़ क कलेवा।"
+      }
+    }
+  },
+  {
+    "slug": "nimki",
+    "category": "Snacks",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 8,
+    "locales": {
+      "en": {
+        "title": "Nimki (Namak Para)",
+        "description": "Savory fried flour diamonds.",
+        "ingredients": [
+          "Maida",
+          "Kaloji (Nigella)",
+          "Salt",
+          "Ghee"
+        ],
+        "instructions": [
+          "Knead stiff dough with spices.",
+          "Roll and cut.",
+          "Deep fry."
+        ],
+        "culturalSignificance": "Jar snack for guests."
+      },
+      "hi": {
+        "title": "निमकी",
+        "description": "नमकीन तले हुए आटे के डायमंड्स।",
+        "ingredients": [
+          "मैदा",
+          "कलौंजी (मंगरेल)",
+          "नमक",
+          "घी"
+        ],
+        "instructions": [
+          "मसालों के साथ सख्त आटा गूंथें।",
+          "बेलें और काटें।",
+          "तलें।"
+        ],
+        "culturalSignificance": "मेहमानों के लिए जार नाश्ता।"
+      },
+      "mai": {
+        "title": "निमकी",
+        "description": "नमकीन खस्ता (निमकी)।",
+        "ingredients": [
+          "मैदा",
+          "मंगरैल",
+          "नमक",
+          "घी"
+        ],
+        "instructions": [
+          "कड़ा सानू।",
+          "बेल क काटू।",
+          "छानू।"
+        ],
+        "culturalSignificance": "पाहुन लेल नाश्ता।"
+      }
+    }
+  },
+  {
+    "slug": "khurma",
+    "category": "Sweets",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": 8,
+    "locales": {
+      "en": {
+        "title": "Khurma (Sweet)",
+        "description": "Hard, sweet fried dough cubes coated in sugar.",
+        "ingredients": [
+          "Maida",
+          "Sugar",
+          "Ghee"
+        ],
+        "instructions": [
+          "Make thick dough cubes.",
+          "Fry hard.",
+          "Coat in sugar syrup."
+        ],
+        "culturalSignificance": "Long shelf life sweet."
+      },
+      "hi": {
+        "title": "खुरमा",
+        "description": "चीनी में लिपटे हुए सख्त और मीठे तले हुए आटे के क्यूब्स।",
+        "ingredients": [
+          "मैदा",
+          "चीनी",
+          "घी"
+        ],
+        "instructions": [
+          "मोटे आटे के क्यूब्स बनाएं।",
+          "सख्त होने तक तलें।",
+          "चाशनी में कोट करें।"
+        ],
+        "culturalSignificance": "लंबी शेल्फ लाइफ वाली मिठाई।"
+      },
+      "mai": {
+        "title": "खुरमा",
+        "description": "खुरमा (मीठ)।",
+        "ingredients": [
+          "मैदा",
+          "चीनी",
+          "घी"
+        ],
+        "instructions": [
+          "मोटा बेल क काटू।",
+          "छान क पाग में मिलाउ।"
+        ],
+        "culturalSignificance": "कतेको दिन धरि चलैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "laktho",
+    "category": "Sweets",
+    "prepTime": "15 mins",
+    "cookTime": "20 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Laktho",
+        "description": "Thick gram flour sticks coated in jaggery syrup.",
+        "ingredients": [
+          "Besan",
+          "Jaggery",
+          "Ghee"
+        ],
+        "instructions": [
+          "Make besan dough sticks (Sev).",
+          "Deep fry.",
+          "Toss in jaggery syrup."
+        ],
+        "culturalSignificance": "Traditional sweet for marriages."
+      },
+      "hi": {
+        "title": "लक्ठो",
+        "description": "गुड़ की चाशनी में लिपटी हुई बेसन की मोटी छड़ें।",
+        "ingredients": [
+          "बेसन",
+          "गुड़",
+          "घी"
+        ],
+        "instructions": [
+          "बेसन के आटे की छड़ें (सेव/लक्ठो) बनाएं।",
+          "तलें।",
+          "गुड़ की चाशनी में मिलाएं।"
+        ],
+        "culturalSignificance": "शादियों के लिए पारंपरिक मिठाई।"
+      },
+      "mai": {
+        "title": "लक्ठो",
+        "description": "लक्ठो (बेसन क सेव)।",
+        "ingredients": [
+          "बेसन",
+          "गुड़",
+          "घी"
+        ],
+        "instructions": [
+          "बेसन क मोट सेव बनाउ।",
+          "छानू।",
+          "गुड़ क पाग में मिलाउ।"
+        ],
+        "culturalSignificance": "बियाह में भार लेल जान थिक।"
+      }
+    }
+  },
+  {
+    "slug": "chandrakala",
+    "category": "Sweets",
+    "prepTime": "40 mins",
+    "cookTime": "30 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Chandrakala",
+        "description": "Round pastry stuffed with khoya and dipped in syrup.",
+        "ingredients": [
+          "Maida",
+          "Khoya",
+          "Sugar Syrup"
+        ],
+        "instructions": [
+          "Similar to Gujiya but round with pinch pattern in center.",
+          "Fry.",
+          "Dip in syrup."
+        ],
+        "culturalSignificance": "Rich festive dessert."
+      },
+      "hi": {
+        "title": "चंद्रकला",
+        "description": "खोया भरकर बनाई गई और चाशनी में डुबोई गई गोल पेस्ट्री।",
+        "ingredients": [
+          "मैदा",
+          "खोया",
+          "चीनी की चाशनी"
+        ],
+        "instructions": [
+          "गुजिया जैसा लेकिन गोल और बीच में डिजाइन के साथ।",
+          "तलें।",
+          "चाशनी में डुबोएं।"
+        ],
+        "culturalSignificance": "समृद्ध उत्सव मिठाई।"
+      },
+      "mai": {
+        "title": "चंद्रकला",
+        "description": "चंद्रकला मिठाई।",
+        "ingredients": [
+          "मैदा",
+          "खोया",
+          "चीनी क पाग"
+        ],
+        "instructions": [
+          "गोल पुरी में खोया भरू।",
+          "छान क पाग में बोरू।"
+        ],
+        "culturalSignificance": "तीज-त्योहार लेल।"
+      }
+    }
+  },
+  {
+    "slug": "balushahi-mithila",
+    "category": "Sweets",
+    "prepTime": "30 mins",
+    "cookTime": "30 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Balushahi",
+        "description": "Flaky doughnut-shaped pastry soaked in syrup.",
+        "ingredients": [
+          "Maida",
+          "Ghee",
+          "Yogurt",
+          "Sugar"
+        ],
+        "instructions": [
+          "Make soft dough.",
+          "Shape with dent in center.",
+          "Fry slow.",
+          "Soak in syrup."
+        ],
+        "culturalSignificance": "Originally from Harnaut/Bihar region."
+      },
+      "hi": {
+        "title": "बालूशाही",
+        "description": "परतदार डोनट के आकार की पेस्ट्री चाशनी में भिगोई हुई।",
+        "ingredients": [
+          "मैदा",
+          "घी",
+          "दही",
+          "चीनी"
+        ],
+        "instructions": [
+          "नरम आटा गूंथें।",
+          "बीच में गड्ढे के साथ आकार दें।",
+          "धीमी आंच पर तलें।",
+          "चाशनी में भिगोएं।"
+        ],
+        "culturalSignificance": "मूल रूप से हरनौत/बिहार क्षेत्र से।"
+      },
+      "mai": {
+        "title": "बालूशाही",
+        "description": "बालूशाही।",
+        "ingredients": [
+          "मैदा",
+          "घी",
+          "दही",
+          "चीनी"
+        ],
+        "instructions": [
+          "आटा सानू।",
+          "गोल क बीच में दबाउ।",
+          "कम ताव पर छानू।",
+          "पाग में बोरू।"
+        ],
+        "culturalSignificance": "मिथिला क प्रिय मिठाई।"
+      }
+    }
+  },
+  {
+    "slug": "rasgulla-maithil",
+    "category": "Sweets",
+    "prepTime": "30 mins",
+    "cookTime": "20 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Rasgulla (Spongy)",
+        "description": "Cottage cheese balls boiled in sugar syrup.",
+        "ingredients": [
+          "Chenna (Paneer)",
+          "Sugar",
+          "Water"
+        ],
+        "instructions": [
+          "Knead chenna till smooth.",
+          "Make balls.",
+          "Boil in syrup."
+        ],
+        "culturalSignificance": "While Bengali, it is equally native to Mithila culture."
+      },
+      "hi": {
+        "title": "रसगुल्ला",
+        "description": "छेना (पनीर) के गोले चीनी की चाशनी में उबले हुए।",
+        "ingredients": [
+          "छेना (पनीर)",
+          "चीनी",
+          "पानी"
+        ],
+        "instructions": [
+          "छेना को चिकना होने तक गूंथें।",
+          "गोले बनाएं।",
+          "चाशनी में उबालें।"
+        ],
+        "culturalSignificance": "हालांकि बंगाली है, लेकिन यह मिथिला संस्कृति के लिए समान रूप से देशी है।"
+      },
+      "mai": {
+        "title": "रसगुल्ला",
+        "description": "उज्जर (सादा) रसगुल्ला।",
+        "ingredients": [
+          "छेना",
+          "चीनी",
+          "पानी"
+        ],
+        "instructions": [
+          "छेना मसलू।",
+          "गोल क चाशनी में सिझाउ।"
+        ],
+        "culturalSignificance": "मिथिला क सबस प्रिय मिठाई।"
+      }
+    }
+  },
+  {
+    "slug": "pantua",
+    "category": "Sweets",
+    "prepTime": "30 mins",
+    "cookTime": "20 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Pantua",
+        "description": "Fried cottage cheese balls in syrup (darker than Gulab Jamun).",
+        "ingredients": [
+          "Chenna",
+          "Khoya",
+          "Sugar"
+        ],
+        "instructions": [
+          "Mix chenna and khoya.",
+          "Fry dark brown.",
+          "Soak in syrup."
+        ],
+        "culturalSignificance": "Rich dessert."
+      },
+      "hi": {
+        "title": "पंटुआ (काला जामुन)",
+        "description": "चाशनी में तले हुए छेना के गोले (गुलाब जामुन से गहरे रंग के)।",
+        "ingredients": [
+          "छेना",
+          "खोया",
+          "चीनी"
+        ],
+        "instructions": [
+          "छेना और खोया मिलाएं।",
+          "गहरा भूरा होने तक तलें।",
+          "चाशनी में भिगोएं।"
+        ],
+        "culturalSignificance": "समृद्ध मिठाई।"
+      },
+      "mai": {
+        "title": "पंटुआ (काला जामुन)",
+        "description": "पंटुआ (काला जामुन)।",
+        "ingredients": [
+          "छेना",
+          "खोया",
+          "चीनी"
+        ],
+        "instructions": [
+          "छेना-खोया मिलाउ।",
+          "लाल क छान क पाग में बोरू।"
+        ],
+        "culturalSignificance": "भोज क शान।"
+      }
+    }
+  },
+  {
+    "slug": "khajur-biscuit",
+    "category": "Snacks",
+    "prepTime": "15 mins",
+    "cookTime": "20 mins",
+    "servings": 8,
+    "locales": {
+      "en": {
+        "title": "Khajur Cookies",
+        "description": "Deep fried sweet wheat cookies (Thekua version).",
+        "ingredients": [
+          "Wheat flour",
+          "Sugar",
+          "Ghee"
+        ],
+        "instructions": [
+          "Make stiff dough.",
+          "Shape like dates.",
+          "Fry."
+        ],
+        "culturalSignificance": "Travel snack."
+      },
+      "hi": {
+        "title": "खजूर (बिस्कुट)",
+        "description": "तल कर बनाई गई मीठी आटे की कुकीज़ (ठेकुआ का संस्करण)।",
+        "ingredients": [
+          "गेहूं का आटा",
+          "चीनी",
+          "घी"
+        ],
+        "instructions": [
+          "सख्त आटा गूंथें।",
+          "खजूर की तरह आकार दें।",
+          "तलें।"
+        ],
+        "culturalSignificance": "यात्रा नाश्ता।"
+      },
+      "mai": {
+        "title": "खजूर (बिस्कुट)",
+        "description": "खजूर (बिस्कुट)।",
+        "ingredients": [
+          "आटा",
+          "चीनी",
+          "घी"
+        ],
+        "instructions": [
+          "कड़ा आटा सानू।",
+          "खजूर सन बना क छानू।"
+        ],
+        "culturalSignificance": "ठेकुआ जकां, मुदा छोट।"
+      }
+    }
+  },
+  {
+    "slug": "aam-achar",
+    "category": "Chutney/Pickle",
+    "prepTime": "2 days",
+    "cookTime": "Sun Dry",
+    "servings": 20,
+    "locales": {
+      "en": {
+        "title": "Mango Pickle",
+        "description": "Spicy raw mango pickle with mustard oil.",
+        "ingredients": [
+          "Raw Mango",
+          "Mustard seeds",
+          "Fennel",
+          "Oil"
+        ],
+        "instructions": [
+          "Cut mango.",
+          "Marinate with salt/turmeric.",
+          "Add spices and oil.",
+          "Sun dry."
+        ],
+        "culturalSignificance": "No meal is complete without this."
+      },
+      "hi": {
+        "title": "आम अचार",
+        "description": "मसालेदार कच्चे आम का अचार, सरसों तेल में।",
+        "ingredients": [
+          "कच्चा आम",
+          "सरसों के बीज (राई)",
+          "सौंफ",
+          "तेल"
+        ],
+        "instructions": [
+          "आम काटें।",
+          "नमक/हल्दी के साथ मैरीनेट करें।",
+          "मसाले और तेल मिलाएं।",
+          "धूप में सुखाएं।"
+        ],
+        "culturalSignificance": "इसके बिना कोई भी भोजन पूरा नहीं होता।"
+      },
+      "mai": {
+        "title": "आम अचार",
+        "description": "आम क अचार।",
+        "ingredients": [
+          "आम",
+          "सरिसो",
+          "सौंफ",
+          "तेल"
+        ],
+        "instructions": [
+          "आम काटू।",
+          "नमक-हल्दी लगा क सुखौ।",
+          "मसाला-तेल मिलाउ।"
+        ],
+        "culturalSignificance": "खाना क संग अनिवार्य।"
+      }
+    }
+  },
+  {
+    "slug": "aam-tikila",
+    "category": "Chutney/Pickle",
+    "prepTime": "1 day",
+    "cookTime": "Sun Dry",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Baby Mango Pickle",
+        "description": "Whole baby mangoes pickled.",
+        "ingredients": [
+          "Baby Mangoes",
+          "Salt",
+          "Vinegar/Oil"
+        ],
+        "instructions": [
+          "Pickle whole baby mangoes."
+        ],
+        "culturalSignificance": "Seasonal delight."
+      },
+      "hi": {
+        "title": "आम टिकिला",
+        "description": "पूरे छोटे आम (टिकिया) का अचार।",
+        "ingredients": [
+          "छोटे आम",
+          "नमक",
+          "सिरका/तेल"
+        ],
+        "instructions": [
+          "पूरे छोटे आमों को अचार बनाएं।"
+        ],
+        "culturalSignificance": "मौसमी आनंद।"
+      },
+      "mai": {
+        "title": "आम टिकिला",
+        "description": "आम क टिकुला (टिकिला) क अचार।",
+        "ingredients": [
+          "छोटका आम",
+          "नमक",
+          "सिरका"
+        ],
+        "instructions": [
+          "गोटा आम क अचार लगाउ।"
+        ],
+        "culturalSignificance": "शुरुआती गर्मी क स्वाद।"
+      }
+    }
+  },
+  {
+    "slug": "mirchi-achar",
+    "category": "Chutney/Pickle",
+    "prepTime": "2 days",
+    "cookTime": "Sun Dry",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Stuffed Red Chili Pickle",
+        "description": "Thick red chilies stuffed with spice mix.",
+        "ingredients": [
+          "Red Chilies",
+          "Mustard powder",
+          "Amchur",
+          "Oil"
+        ],
+        "instructions": [
+          "Hollow out chilies.",
+          "Stuff with masala.",
+          "Dip in oil."
+        ],
+        "culturalSignificance": "Spicy kick to any meal."
+      },
+      "hi": {
+        "title": "मिर्ची अचार (भरवा)",
+        "description": "मसाला मिश्रण से भरी हुई मोटी लाल मिर्च।",
+        "ingredients": [
+          "लाल मिर्च",
+          "सरसों पाउडर",
+          "अमचूर",
+          "तेल"
+        ],
+        "instructions": [
+          "मिर्च को खोखला करें।",
+          "मसाला भरें।",
+          "तेल में डुबोएं।"
+        ],
+        "culturalSignificance": "किसी भी भोजन में तीखापन।"
+      },
+      "mai": {
+        "title": "मिर्ची अचार (भरवा)",
+        "description": "मिर्च क भरुआ अचार।",
+        "ingredients": [
+          "लाल मिर्च",
+          "राई",
+          "अमचूर",
+          "तेल"
+        ],
+        "instructions": [
+          "मसाला तैयार करू।",
+          "मिर्च में भरू।",
+          "तेल में बोरू।"
+        ],
+        "culturalSignificance": "तीखा भोजन प्रिय लोग लेल।"
+      }
+    }
+  },
+  {
+    "slug": "kathal-achar",
+    "category": "Chutney/Pickle",
+    "prepTime": "1 day",
+    "cookTime": "Sun Dry",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Jackfruit Pickle",
+        "description": "Spicy pickle made from raw jackfruit.",
+        "ingredients": [
+          "Boiled Jackfruit",
+          "Mustard Oil",
+          "Spices"
+        ],
+        "instructions": [
+          "Marinate boiled jackfruit.",
+          "Sun dry.",
+          "Mix with oil/spices."
+        ],
+        "culturalSignificance": "Meat-like texture in pickle form."
+      },
+      "hi": {
+        "title": "कटहर अचार",
+        "description": "कच्चे कटहल से बना मसालेदार अचार।",
+        "ingredients": [
+          "उबला हुआ कटहल",
+          "सरसों का तेल",
+          "मसाले"
+        ],
+        "instructions": [
+          "उबले हुए कटहल को मैरीनेट करें।",
+          "धूप में सुखाएं।",
+          "तेल/मसाले मिलाएं।"
+        ],
+        "culturalSignificance": "अचार के रूप में मांस जैसी बनावट।"
+      },
+      "mai": {
+        "title": "कटहर अचार",
+        "description": "कटहर (कटहल) क अचार।",
+        "ingredients": [
+          "कटहर",
+          "तेल",
+          "मसाला"
+        ],
+        "instructions": [
+          "कटहर उसिन क सुखौ।",
+          "अचार लगाउ।"
+        ],
+        "culturalSignificance": "मांस जकां स्वाद।"
+      }
+    }
+  },
+  {
+    "slug": "nibbu-achar",
+    "category": "Chutney/Pickle",
+    "prepTime": "10 days",
+    "cookTime": "Sun Dry",
+    "servings": 20,
+    "locales": {
+      "en": {
+        "title": "Lemon Pickle",
+        "description": "Sweet and sour lemon pickle.",
+        "ingredients": [
+          "Lemons",
+          "Salt",
+          "Sugar (optional)"
+        ],
+        "instructions": [
+          "Cut lemons.",
+          "Mix salt.",
+          "Let it mature in sun."
+        ],
+        "culturalSignificance": "Good for digestion."
+      },
+      "hi": {
+        "title": "निम्बू अचार",
+        "description": "खट्टा-मीठा नींबू का अचार।",
+        "ingredients": [
+          "नींबू",
+          "नमक",
+          "चीनी (वैकल्पिक)"
+        ],
+        "instructions": [
+          "नींबू काटें।",
+          "नमक मिलाएं।",
+          "धूप में पकने दें।"
+        ],
+        "culturalSignificance": "पाचन के लिए अच्छा है।"
+      },
+      "mai": {
+        "title": "निम्बू अचार",
+        "description": "नेबु क अचार।",
+        "ingredients": [
+          "नेबु",
+          "नमक",
+          "चीनी"
+        ],
+        "instructions": [
+          "नेबु काट क नमक मिलाउ।",
+          "रौद में दिय।"
+        ],
+        "culturalSignificance": "पेट लेल बहुत नीक।"
+      }
+    }
+  },
+  {
+    "slug": "ol-achar",
+    "category": "Chutney/Pickle",
+    "prepTime": "2 days",
+    "cookTime": "Sun Dry",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Yam Pickle",
+        "description": "Grated elephant foot yam pickle.",
+        "ingredients": [
+          "Yam",
+          "Mustard Oil",
+          "Chili",
+          "Lemon"
+        ],
+        "instructions": [
+          "Grate yam.",
+          "Mix with ample lemon/oil/spices.",
+          "Sun dry."
+        ],
+        "culturalSignificance": "Winter special."
+      },
+      "hi": {
+        "title": "ओल अचार",
+        "description": "कद्दूकस किया हुआ जिमीकंद (ओल) का अचार।",
+        "ingredients": [
+          "ओल",
+          "सरसों का तेल",
+          "मिर्च",
+          "नींबू"
+        ],
+        "instructions": [
+          "ओल कद्दूकस करें।",
+          "पर्याप्त नींबू/तेल/मसालों के साथ मिलाएं।",
+          "धूप में सुखाएं।"
+        ],
+        "culturalSignificance": "सर्दियों का विशेष।"
+      },
+      "mai": {
+        "title": "ओल अचार",
+        "description": "ओल क अचार (बराबर)।",
+        "ingredients": [
+          "ओल",
+          "तेल",
+          "मिर्च",
+          "नेबु/आम"
+        ],
+        "instructions": [
+          "ओल घसू।",
+          "खूब खटाई आर तेल-मसाला मिलाउ।"
+        ],
+        "culturalSignificance": "ओलक बिना अचार अधूरा।"
+      }
+    }
+  },
+  {
+    "slug": "adrak-lahsun-achar",
+    "category": "Chutney/Pickle",
+    "prepTime": "1 day",
+    "cookTime": "Sun Dry",
+    "servings": 10,
+    "locales": {
+      "en": {
+        "title": "Ginger Garlic Pickle",
+        "description": "Pungent pickle for winters.",
+        "ingredients": [
+          "Ginger",
+          "Garlic",
+          "Green Chili",
+          "Lemon juice"
+        ],
+        "instructions": [
+          "Chop everything.",
+          "Soak in lemon juice and salt."
+        ],
+        "culturalSignificance": "Immunity booster."
+      },
+      "hi": {
+        "title": "अदरक लहसुन अचार",
+        "description": "सर्दियों के लिए तीखा अचार।",
+        "ingredients": [
+          "अदरक",
+          "लहसुन",
+          "हरी मिर्च",
+          "नींबू का रस"
+        ],
+        "instructions": [
+          "सब कुछ काट लें।",
+          "नींबू के रस और नमक में भिगोएं।"
+        ],
+        "culturalSignificance": "इम्युनिटी बूस्टर।"
+      },
+      "mai": {
+        "title": "अदरक लहसुन अचार",
+        "description": "अदी-लहसुन क अचार।",
+        "ingredients": [
+          "अदी",
+          "लहसुन",
+          "मिर्च",
+          "नेबु"
+        ],
+        "instructions": [
+          "सभ काट क नेबु-नमक में साट दी।"
+        ],
+        "culturalSignificance": "सर्दी-खाँसी में लाभदायक।"
+      }
+    }
+  },
+  {
+    "slug": "muli-mirchi",
+    "category": "Chutney/Pickle",
+    "prepTime": "10 mins",
+    "cookTime": "0 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Radish Chili Instant Pickle",
+        "description": "Instant pickle of radish and green chili.",
+        "ingredients": [
+          "Radish strips",
+          "Green Chili slit",
+          "Lemon",
+          "Salt"
+        ],
+        "instructions": [
+          "Mix all ingredients.",
+          "Let sit for 1 hour."
+        ],
+        "culturalSignificance": "Fresh side for parathas."
+      },
+      "hi": {
+        "title": "मूली मिर्ची",
+        "description": "मूली और हरी मिर्च का तत्काल अचार।",
+        "ingredients": [
+          "मूली की पट्टियां",
+          "हरी मिर्च",
+          "नींबू",
+          "नमक"
+        ],
+        "instructions": [
+          "सभी सामग्री मिलाएं।",
+          "1 घंटे के लिए छोड़ दें।"
+        ],
+        "culturalSignificance": "पराठों के लिए ताजा साइड डिश।"
+      },
+      "mai": {
+        "title": "मूली मिर्ची",
+        "description": "मुरई-मिर्च क तत्काल अचार।",
+        "ingredients": [
+          "मुरई",
+          "मिर्च",
+          "नेबु",
+          "नमक"
+        ],
+        "instructions": [
+          "काट क मिलाउ आर खाउ।"
+        ],
+        "culturalSignificance": "तुरंत बनय वाला अचार।"
+      }
+    }
+  },
+  {
+    "slug": "machh-mura",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Fish Head Curry (Mura)",
+        "description": "Spicy curry made with the head of the Rohu fish and Moong Dal.",
+        "ingredients": [
+          "1 Large Rohu Fish Head",
+          "1/2 cup Moong Dal (roasted)",
+          "Potatoes",
+          "Spices"
+        ],
+        "instructions": [
+          "Fry fish head pieces.",
+          "Cook with roasted moong dal and spices.",
+          "Simmer until thick."
+        ],
+        "culturalSignificance": "Special delicacy reserved for the head of the family or guests."
+      },
+      "hi": {
+        "title": "माछक मूड़ा",
+        "description": "रोहू मछली के सिर और मूंग दाल से बनी मसालेदार करी।",
+        "ingredients": [
+          "1 बड़ा रोहू मछली का सिर",
+          "1/2 कप मूंग दाल (भुनी हुई)",
+          "आलू",
+          "मसाले"
+        ],
+        "instructions": [
+          "मछली के सिर के टुकड़ों को तलें।",
+          "भुनी हुई मूंग दाल और मसालों के साथ पकाएं।",
+          "गाढ़ा होने तक उबालें।"
+        ],
+        "culturalSignificance": "परिवार के मुखिया या मेहमानों के लिए आरक्षित विशेष व्यंजन।"
+      },
+      "mai": {
+        "title": "माछक मूड़ा",
+        "description": "माछक मूड़ा आर मूंग दाल।",
+        "ingredients": [
+          "माछक मूड़ा",
+          "मूंग दाल",
+          "आलू",
+          "मसाला"
+        ],
+        "instructions": [
+          "मूड़ा छानू।",
+          "दाल संग राधूं।"
+        ],
+        "culturalSignificance": "मैथिल ब्राह्मण में ई विशिष्ट भोजन थिक।"
+      }
+    }
+  },
+  {
+    "slug": "jhinga-masala",
+    "category": "Main Course",
+    "prepTime": "20 mins",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Prawn Masala (River Prawns)",
+        "description": "Small river prawns stir-fried with onions and mustard.",
+        "ingredients": [
+          "River prawns",
+          "Onion",
+          "Mustard seeds",
+          "Garlic"
+        ],
+        "instructions": [
+          "Clean prawns.",
+          "Stir fry with onion-garlic masala."
+        ],
+        "culturalSignificance": "Seasonal monsoon delight."
+      },
+      "hi": {
+        "title": "झींगा मसाला",
+        "description": "प्याज और सरसों के साथ छोटी नदी के झींगे।",
+        "ingredients": [
+          "नदी के झींगे",
+          "प्याज",
+          "सरसों के बीज",
+          "लहसुन"
+        ],
+        "instructions": [
+          "झींगे साफ करें।",
+          "प्याज-लहसुन मसाला के साथ भूनें।"
+        ],
+        "culturalSignificance": "मौसमी मानसून का आनंद।"
+      },
+      "mai": {
+        "title": "झींगा मसाला",
+        "description": "इचरी (छोटका झींगा) माछ।",
+        "ingredients": [
+          "इचरी",
+          "प्याज",
+          "लहसुन",
+          "सरिसो"
+        ],
+        "instructions": [
+          "इचरी भूनू।",
+          "मसाला में लटपट बनाउ।"
+        ],
+        "culturalSignificance": "बाढ़ि क समय में बहुत भेटैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "kekda-curry",
+    "category": "Main Course",
+    "prepTime": "30 mins",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Crab Curry",
+        "description": "Spicy crab curry in mustard gravy.",
+        "ingredients": [
+          "Crabs",
+          "Mustard paste",
+          "Tomato",
+          "Spices"
+        ],
+        "instructions": [
+          "Clean crabs.",
+          "Cook in spicy mustard gravy."
+        ],
+        "culturalSignificance": "Enjoyed for its unique taste."
+      },
+      "hi": {
+        "title": "केकड़ा (कंकण) करी",
+        "description": "सरसों की ग्रेवी में मसालेदार केकड़ा करी।",
+        "ingredients": [
+          "केकड़े",
+          "सरसों का पेस्ट",
+          "टमाटर",
+          "मसाले"
+        ],
+        "instructions": [
+          "केकड़े साफ करें।",
+          "मसालेदार सरसों की ग्रेवी में पकाएं।"
+        ],
+        "culturalSignificance": "अपने अनोखे स्वाद के लिए आनंद लिया जाता है।"
+      },
+      "mai": {
+        "title": "केकड़ा (कंकण) करी",
+        "description": "कंकण (केकड़ा) क झोर।",
+        "ingredients": [
+          "कंकण",
+          "सरिसो",
+          "टमाटर",
+          "मसाला"
+        ],
+        "instructions": [
+          "कंकण साफ क मसाला में राधूं।"
+        ],
+        "culturalSignificance": "कमला नदी क कंकण प्रसिद्ध अछि।"
+      }
+    }
+  },
+  {
+    "slug": "ahuna-mutton",
+    "category": "Main Course",
+    "prepTime": "30 mins",
+    "cookTime": "1 hour",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Ahuna Mutton (Clay Pot)",
+        "description": "Mutton slow-cooked in a sealed clay pot over coal.",
+        "ingredients": [
+          "Mutton",
+          "Whole Garlic bulbs",
+          "Onions",
+          "Mustard Oil",
+          "Whole Spices"
+        ],
+        "instructions": [
+          "Marinate mutton with everything.",
+          "Put in clay pot.",
+          "Seal with dough.",
+          "Cook on slow coal fire."
+        ],
+        "culturalSignificance": "The most celebrated non-veg dish of the region."
+      },
+      "hi": {
+        "title": "अहुना मटन (हांडी)",
+        "description": "कोयले पर सील मिट्टी के बर्तन में धीमी आंच पर पकाया गया मटन।",
+        "ingredients": [
+          "मटन",
+          "साबुत लहसुन की कलियां",
+          "प्याज",
+          "सरसों का तेल",
+          "खड़े मसाले"
+        ],
+        "instructions": [
+          "मटन को सभी सामग्री के साथ मैरीनेट करें।",
+          "मिट्टी के बर्तन में डालें।",
+          "आटे से सील करें।",
+          "धीमी आंच पर पकाएं।"
+        ],
+        "culturalSignificance": "क्षेत्र का सबसे प्रसिद्ध मांसाहारी व्यंजन।"
+      },
+      "mai": {
+        "title": "अहुना मटन (हांडी)",
+        "description": "हांडी मटन (अहुना)।",
+        "ingredients": [
+          "मटन (खस्सी)",
+          "गोटा लहसुन",
+          "प्याज",
+          "तेल",
+          "गरम मसाला"
+        ],
+        "instructions": [
+          "मटन सानू।",
+          "हांडी में भरू।",
+          "सील क धीमा ताव पर चढ़ाउ।"
+        ],
+        "culturalSignificance": "चंपारण आर मिथिला क शान।"
+      }
+    }
+  },
+  {
+    "slug": "anda-curry",
+    "category": "Main Course",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "locales": {
+      "en": {
+        "title": "Egg Curry (Fried)",
+        "description": "Boiled eggs deep fried till blistered, then simmered in spicy gravy.",
+        "ingredients": [
+          "Eggs",
+          "Onion",
+          "Tomato",
+          "Garlic"
+        ],
+        "instructions": [
+          "Boil and fry eggs.",
+          "Make onion-tomato gravy.",
+          "Add eggs."
+        ],
+        "culturalSignificance": "Quick dinner fix."
+      },
+      "hi": {
+        "title": "अंडा करी (फ्राइड)",
+        "description": "उबले हुए अंडे सुनहरे होने तक तले हुए, फिर मसालेदार ग्रेवी में पकाए गए।",
+        "ingredients": [
+          "अंडे",
+          "प्याज",
+          "टमाटर",
+          "लहसुन"
+        ],
+        "instructions": [
+          "अंडे उबालें और तलें।",
+          "प्याज-टमाटर की ग्रेवी बनाएं।",
+          "अंडे डालें।"
+        ],
+        "culturalSignificance": "त्वरित रात का खाना।"
+      },
+      "mai": {
+        "title": "अंडा करी (फ्राइड)",
+        "description": "अंडा क सब्जी।",
+        "ingredients": [
+          "अंडा",
+          "प्याज",
+          "टमाटर",
+          "लहसुन"
+        ],
+        "instructions": [
+          "अंडा उसिन क छानू।",
+          "रसा बना क खदकाउ।"
+        ],
+        "culturalSignificance": "झटपट तैयार होय वाला भोजन।"
+      }
+    }
+  },
+  {
+    "slug": "perakiya",
+    "category": "Sweets",
+    "prepTime": "30 mins",
+    "cookTime": "20 mins",
+    "servings": 8,
+    "locales": {
+      "en": {
+        "title": "Perakiya (Coconut Gujiya)",
+        "description": "Deep fried dumplings stuffed with dedicated coconut.",
+        "ingredients": [
+          "Maida",
+          "Coconut",
+          "Sugar"
+        ],
+        "instructions": [
+          "Stuff dough with coconut-sugar mix.",
+          "Fry."
+        ],
+        "culturalSignificance": "Lighter version of Mawa Gujiya."
+      },
+      "hi": {
+        "title": "पेड़किया",
+        "description": "सूखे नारियल से भरी हुई तली हुई गुजिया।",
+        "ingredients": [
+          "मैदा",
+          "नारियल",
+          "चीनी"
+        ],
+        "instructions": [
+          "आटे में नारियल-चीनी का मिश्रण भरें।",
+          "तलें।"
+        ],
+        "culturalSignificance": "मावा गुजिया का हल्का संस्करण।"
+      },
+      "mai": {
+        "title": "पेड़किया",
+        "description": "पिडूकिया (पेड़किया)।",
+        "ingredients": [
+          "मैदा",
+          "गरी (नारियल)",
+          "चीनी"
+        ],
+        "instructions": [
+          "गोल पुरी में गरी-चीनी भरू।",
+          "हाथ स डिजाइन बना क छानू।"
+        ],
+        "culturalSignificance": "तीज में अनिवार्य।"
+      }
+    }
+  },
+  {
+    "slug": "bundia",
+    "category": "Sweets",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Bundia (Boondi)",
+        "description": "Small pearls of fried chickpea flour soaked in syrup.",
+        "ingredients": [
+          "Besan batter",
+          "Red/Green color",
+          "Sugar Syrup"
+        ],
+        "instructions": [
+          "Drop batter through slotted spoon into oil.",
+          "Fry pearls.",
+          "Soak in syrup."
+        ],
+        "culturalSignificance": "Indispensable part of Maithil festivities and weddings."
+      },
+      "hi": {
+        "title": "बुंदिया",
+        "description": "चाशनी में भिगोए हुए तले हुए बेसन के मोती।",
+        "ingredients": [
+          "बेसन का घोल",
+          "लाल/हरा रंग",
+          "चीनी की चाशनी"
+        ],
+        "instructions": [
+          "छलनी से तेल में घोल डालें।",
+          "मोती तलें।",
+          "चाशनी में भिगोएं।"
+        ],
+        "culturalSignificance": "शादियों में अक्सर दही (दही-बुंदिया) के साथ परोसा जाता है।"
+      },
+      "mai": {
+        "title": "बुंदिया",
+        "description": "महीन बुनिया (मीठ)।",
+        "ingredients": [
+          "बेसन",
+          "रंग",
+          "चीनी पाग"
+        ],
+        "instructions": [
+          "झंझरा स बुनिया झाड़ू।",
+          "चीनी क पाग में डुबाउ।"
+        ],
+        "culturalSignificance": "बियाह-भोज में दही-बुनिया अनिवार्य होइत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "lai-chura",
+    "category": "Sweets",
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Beaten Rice Laai",
+        "description": "Sweet balls made of roasted chura and jaggery.",
+        "ingredients": [
+          "Roasted Chura",
+          "Jaggery",
+          "Ginger"
+        ],
+        "instructions": [
+          "Mix hot jaggery syrup with roasted chura.",
+          "Shape into balls."
+        ],
+        "culturalSignificance": "Winter snack."
+      },
+      "hi": {
+        "title": "लाई (चूड़ा)",
+        "description": "भुने हुए चूड़े और गुड़ के लड्डू।",
+        "ingredients": [
+          "भुना हुआ चूड़ा",
+          "गुड़",
+          "अदरक"
+        ],
+        "instructions": [
+          "गरम गुड़ की चाशनी को भुने हुए चूड़े के साथ मिलाएं।",
+          "लड्डू बनाएं।"
+        ],
+        "culturalSignificance": "सर्दियों का नाश्ता।"
+      },
+      "mai": {
+        "title": "लाई (चूड़ा)",
+        "description": "चूड़ा क लाई।",
+        "ingredients": [
+          "भूनल चूड़ा",
+          "गुड़",
+          "अदी"
+        ],
+        "instructions": [
+          "गुड़ क पाग बनाउ।",
+          "चूड़ा मिला क लड्डू बान्हू।"
+        ],
+        "culturalSignificance": "खिचड़ी (मकर संक्रांति) लेल।"
+      }
+    }
+  },
+  {
+    "slug": "lai-mudhi",
+    "category": "Sweets",
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Puffed Rice Laai",
+        "description": "Sweet balls made of puffed rice.",
+        "ingredients": [
+          "Mudhi",
+          "Jaggery"
+        ],
+        "instructions": [
+          "Mix hot jaggery with mudhi.",
+          "Shape balls."
+        ],
+        "culturalSignificance": "Another Makar Sankranti staple."
+      },
+      "hi": {
+        "title": "लाई (मुढ़ी)",
+        "description": "मुरमुरा और गुड़ के लड्डू।",
+        "ingredients": [
+          "मुरमुरा (लईया)",
+          "गुड़",
+          "अदरक",
+          "सौंफ"
+        ],
+        "instructions": [
+          "गुड़ पिघलाएं और पकाएं।",
+          "मुरमुरा मिलाएं।",
+          "गर्म रहते हुए लड्डू बनाएं।"
+        ],
+        "culturalSignificance": "मकर संक्रांति का एक और मुख्य व्यंजन।"
+      },
+      "mai": {
+        "title": "लाई (मुढ़ी)",
+        "description": "मुढ़ी आर गुड़ क लड्डू।",
+        "ingredients": [
+          "मुढ़ी",
+          "गुड़",
+          "अदी",
+          "सौंफ"
+        ],
+        "instructions": [
+          "गुड़ क पाग बनाउ।",
+          "मुढ़ी मिलाउ।",
+          "गरम में लड्डू बान्हू।"
+        ],
+        "culturalSignificance": "तिल-सकरात में तिलकुट संग लाई सेहो खायल जायत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "tilkut",
+    "category": "Sweets",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Tilkut",
+        "description": "Crispy sesame and sugar bars/discs.",
+        "ingredients": [
+          "Sesame (Til)",
+          "Sugar/Jaggery"
+        ],
+        "instructions": [
+          "Pound hot sesame and sugar mixture.",
+          "Flatten into discs."
+        ],
+        "culturalSignificance": "Made specially during Makar Sankranti (Til Sankrat)."
+      },
+      "hi": {
+        "title": "तिलकुट",
+        "description": "भुने हुए तिल और गुड़ की पट्टी।",
+        "ingredients": [
+          "सफेद तिल",
+          "गुड़",
+          "पानी"
+        ],
+        "instructions": [
+          "तिल भूनें।",
+          "गुड़ की चाशनी बनाएं (सख्त गेंद वाली स्टेज)।",
+          "मिश्रण को बेलकर काटें या लड्डू बनाएं।"
+        ],
+        "culturalSignificance": "विशेष रूप से मकर संक्रांति (तिल सकरात) के दौरान बनाया जाता है।"
+      },
+      "mai": {
+        "title": "तिलकुट",
+        "description": "तिल आर गुड़ क मिठाई।",
+        "ingredients": [
+          "उज्जर तिल",
+          "गुड़",
+          "पानी"
+        ],
+        "instructions": [
+          "तिल भुजू।",
+          "गुड़ क पाग बनाउ।",
+          "तिल मिला क कुटू या लड्डू बनाउ।"
+        ],
+        "culturalSignificance": "तिल-सकरात (मकर संक्रांति) क विशेष मिठाई।"
+      }
+    }
+  },
+  {
+    "slug": "tilwa",
+    "category": "Sweets",
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Til Ladoo",
+        "description": "Sesame seed balls with jaggery.",
+        "ingredients": [
+          "Roasted Sesame",
+          "Jaggery"
+        ],
+        "instructions": [
+          "Mix sesame in melted jaggery.",
+          "Roll into balls."
+        ],
+        "culturalSignificance": "Winter immunity booster."
+      },
+      "hi": {
+        "title": "तिलवा (लड्डू)",
+        "description": "गुड़ के साथ तिल के लड्डू।",
+        "ingredients": [
+          "भुना हुआ तिल",
+          "गुड़"
+        ],
+        "instructions": [
+          "पिघले हुए गुड़ में तिल मिलाएं।",
+          "लड्डू बनाएं।"
+        ],
+        "culturalSignificance": "सर्दियों में इम्युनिटी बढ़ाने वाला।"
+      },
+      "mai": {
+        "title": "तिलवा (लड्डू)",
+        "description": "तिलवा (तिल क लड्डू)।",
+        "ingredients": [
+          "भूनल तिल",
+          "गुड़"
+        ],
+        "instructions": [
+          "गुड़ क पाग में तिल मिलाउ।",
+          "लड्डू बान्हू।"
+        ],
+        "culturalSignificance": "जाड़ में शरीर गरम रखैत अछि।"
+      }
+    }
+  },
+  {
+    "slug": "badam-patti",
+    "category": "Sweets",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 6,
+    "locales": {
+      "en": {
+        "title": "Peanut Chikki",
+        "description": "Peanut brittle with jaggery.",
+        "ingredients": [
+          "Peanuts",
+          "Jaggery"
+        ],
+        "instructions": [
+          "Melt jaggery.",
+          "Mix peanuts.",
+          "Set on tray and cut."
+        ],
+        "culturalSignificance": "Evening snack."
+      },
+      "hi": {
+        "title": "बादाम पट्टी",
+        "description": "गुड़ के साथ मूंगफली की चिक्की।",
+        "ingredients": [
+          "मूंगफली",
+          "गुड़"
+        ],
+        "instructions": [
+          "गुड़ पिघलाएं।",
+          "मूंगफली मिलाएं।",
+          "ट्रे पर सेट करें और काटें।"
+        ],
+        "culturalSignificance": "शाम का नाश्ता।"
+      },
+      "mai": {
+        "title": "बादाम पट्टी",
+        "description": "बादाम (मूंगफली) क पट्टी।",
+        "ingredients": [
+          "बादाम",
+          "गुड़"
+        ],
+        "instructions": [
+          "गुड़ क पाग में बादाम मिलाउ।",
+          "जमा क काटू।"
+        ],
+        "culturalSignificance": "सांझ क हल्का नाश्ता।"
+      }
+    }
+  },
+  {
+    "slug": "gur-chiura",
+    "category": "Snacks",
+    "prepTime": "1 min",
+    "cookTime": "0 min",
+    "servings": 1,
+    "locales": {
+      "en": {
+        "title": "Gur Chiura Mix",
+        "description": "Simple mix of dry chura and jaggery powder.",
+        "ingredients": [
+          "Chura",
+          "Gur (Jaggery)"
+        ],
+        "instructions": [
+          "Mix and eat."
+        ],
+        "culturalSignificance": "Instant breakfast for farmers."
+      },
+      "hi": {
+        "title": "गुड़-चूड़ा",
+        "description": "सूखे चूड़े और गुड़ के पाउडर का सरल मिश्रण।",
+        "ingredients": [
+          "चूड़ा",
+          "गुड़ (पाउडर/ढेला)"
+        ],
+        "instructions": [
+          "मिलाएं और खाएं।"
+        ],
+        "culturalSignificance": "किसानों के लिए तत्काल नाश्ता।"
+      },
+      "mai": {
+        "title": "गुड़-चूड़ा",
+        "description": "गुड़-चूड़ा।",
+        "ingredients": [
+          "चूड़ा",
+          "गुड़"
+        ],
+        "instructions": [
+          "फंक्की (फांकू) जकां खाउ।"
+        ],
+        "culturalSignificance": "किसान सबहक कलेवा (जलखै)।"
+      }
+    }
+  }
+]

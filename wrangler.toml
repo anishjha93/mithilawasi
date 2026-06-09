@@ -1,0 +1,10 @@
+name = "mithila-wasi"
+pages_build_output_dir = ".vercel/output/static"
+compatibility_date = "2024-11-18"
+compatibility_flags = [ "nodejs_compat" ]
+
+[[d1_databases]]
+binding = "mithila_db"
+database_name = "mithila-db"
+database_id = "743639dd-ffa5-4d31-a9df-bc6e42f5ec2c"
+migrations_dir = "migrations"

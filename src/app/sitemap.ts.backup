@@ -1,0 +1,184 @@
+import { MetadataRoute } from 'next';
+import { getDictionary } from '@/get-dictionary';
+import { getAllPlaceSlugs, getAllPersonalitySlugs, getAllFoodSlugs, getAllArtSlugs } from '@/utils/slugify';
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+    const baseUrl = 'https://mithilalegacy.com';
+    const langs = ['en', 'hi', 'mai'];
+
+    // Static pages using generic types
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const routes: any[] = [];
+
+    for (const lang of langs) {
+        routes.push({
+            url: `${baseUrl}/${lang}`,
+            lastModified: new Date(),
+            changeFrequency: 'yearly',
+            priority: 1,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/about`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/culture`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/places`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/art`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+
+        routes.push({
+            url: `${baseUrl}/${lang}/blog`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/history`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/food`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/calendar`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.7,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/personalities`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/folklore`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.7,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/philosophy`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.7,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/learning`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/agriculture`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/modern-mithila`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/mantras`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+        routes.push({
+            url: `${baseUrl}/${lang}/vrat-katha`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        });
+
+        const dict = await getDictionary(lang as 'en' | 'hi' | 'mai');
+
+        // Add blog posts
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        dict.blogPage.posts.forEach((post: any) => {
+            routes.push({
+                url: `${baseUrl}/${lang}/blog/${post.slug}`,
+                lastModified: (() => {
+                    try {
+                        const date = new Date(post.date);
+                        return isNaN(date.getTime()) ? new Date() : date;
+                    } catch {
+                        return new Date();
+                    }
+                })(),
+                changeFrequency: 'weekly',
+                priority: 0.7,
+            });
+        });
+
+        // Add place detail pages
+        const placeSlugs = getAllPlaceSlugs(dict.placesPage);
+        placeSlugs.forEach((slug: string) => {
+            routes.push({
+                url: `${baseUrl}/${lang}/places/${slug}`,
+                lastModified: new Date(),
+                changeFrequency: 'monthly',
+                priority: 0.75,
+            });
+        });
+
+        // Add personality detail pages
+        const personalitySlugs = getAllPersonalitySlugs(dict.personalitiesPage);
+        personalitySlugs.forEach((slug: string) => {
+            routes.push({
+                url: `${baseUrl}/${lang}/personalities/${slug}`,
+                lastModified: new Date(),
+                changeFrequency: 'monthly',
+                priority: 0.7,
+            });
+        });
+
+        // Add food detail pages
+        const foodSlugs = getAllFoodSlugs(dict.foodPage);
+        foodSlugs.forEach((slug: string) => {
+            routes.push({
+                url: `${baseUrl}/${lang}/food/${slug}`,
+                lastModified: new Date(),
+                changeFrequency: 'monthly',
+                priority: 0.65,
+            });
+        });
+
+        // Add art detail pages
+        const artSlugs = getAllArtSlugs(dict.artPage);
+        artSlugs.forEach((slug: string) => {
+            routes.push({
+                url: `${baseUrl}/${lang}/art/${slug}`,
+                lastModified: new Date(),
+                changeFrequency: 'monthly',
+                priority: 0.7,
+            });
+        });
+    }
+
+    return routes;
+}

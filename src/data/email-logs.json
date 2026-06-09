@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6c9f9c56-76b9-42c6-ab82-d353c694c293",
+    "sentAt": "2026-01-26T03:12:41.887Z",
+    "recipientCount": 4,
+    "subject": "Mithilawasi: बोनही महादेव (धरौरा)",
+    "status": "sent"
+  },
+  {
+    "id": "71e028ef-86ae-41f5-adc9-3f32d0c02329",
+    "sentAt": "2026-01-25T17:58:18.218Z",
+    "recipientCount": 3,
+    "subject": "Mithilawasi: बोनही महादेव (धरौरा)",
+    "status": "sent"
+  },
+  {
+    "id": "54a0d1a4-d773-4b95-9664-dcdd2f9104ba",
+    "sentAt": "2026-01-25T17:10:56.001Z",
+    "recipientCount": 3,
+    "subject": "New Story: जखन भाषा 'सभ्यता' बनि जाइत अछि",
+    "status": "sent"
+  },
+  {
+    "id": "33b0e81f-c759-4642-b5e7-13220a3d2591",
+    "sentAt": "2026-01-25T17:01:54.245Z",
+    "recipientCount": 2,
+    "subject": "New Story: जखन भाषा 'सभ्यता' बनि जाइत अछि",
+    "status": "sent"
+  },
+  {
+    "id": "393da60b-cf86-40a3-b4b9-c564286faf5e",
+    "sentAt": "2026-01-25T16:58:00.973Z",
+    "recipientCount": 2,
+    "subject": "New Story: जखन भाषा 'सभ्यता' बनि जाइत अछि",
+    "status": "sent"
+  }
+]

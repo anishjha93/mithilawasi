@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "jhijhiya-dance",
+    "locales": {
+      "en": {
+        "title": "Jhijhiya: The Dance of Faith and Protection",
+        "description": "Jhijhiya is a ritualistic folk dance of the Mithila region, performed during the Navratri festival. It is a unique expression of devotion to Goddess Durga and a symbolic plea for the protection of the community from evil spirits and the 'evil eye'.",
+        "origin": "Ancient Mithila ritual traditions",
+        "rituals": "Women balance earthen pots (ghailas) on their heads. These pots have numerous holes and a lit lamp (diya) inside. The dancers move in a circle, singing songs dedicated to Goddess Durga and 'Barham Baba'.",
+        "significance": "It is believed that if the number of holes in the pot remains uncounted by an evil spirit during the dance, the village remains safe from misfortune for the coming year."
+      },
+      "hi": {
+        "title": "झिझिया: विश्वास और संरक्षण का नृत्य",
+        "description": "झिझिया मिथिला क्षेत्र का एक अनुष्ठानिक लोक नृत्य है, जो नवरात्रि के दौरान किया जाता है। यह देवी दुर्गा के प्रति भक्ति और समुदाय को बुरी शक्तियों से बचाने की एक प्रतीकात्मक प्रार्थना है।",
+        "origin": "प्राचीन मिथिला सांस्कृतिक परंपरा",
+        "rituals": "महिलाएं अपने सिर पर मिट्टी के घड़े (घैला) संतुलित करती हैं। इन घड़ों में कई छेद होते हैं और अंदर एक जलता हुआ दीपक (दिया) होता है।",
+        "significance": "मान्यता है कि यह नृत्य बुरी नजर को दूर रखता है और समुदाय में सुख-शांति लाता है।"
+      },
+      "mai": {
+        "title": "झिझिया: विश्वास आ संरक्षणक नृत्य",
+        "description": "झिझिया मिथिला क्षेत्रक एकटा अनुष्ठानिक लोक नृत्य अछि, जे नवरात्रि केँ समय कएल जाइत अछि। ई भगवती दुर्गाक प्रति भक्ति आ गाम-घर केँ कुदृष्टि सँ बचेबाक एकटा माध्यम अछि।",
+        "origin": "प्राचीन मिथिलाक लोक परंपरा",
+        "rituals": "महिला सभ अपन माथ पर छिद्र वला माटिक घैला राखि क' नृत्य करैत छथि। घैला क' भीतर दीया जरैत रहैत अछि।",
+        "significance": "मानल जाइत अछि जे ई नृत्य डाइन-जोगिनक नजरि सँ गाम केँ रक्षा करैत अछि।"
+      }
+    },
+    "image": "https://images.unsplash.com/photo-1583089892943-e02e5b017b6a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "category": "Dance",
+    "featured": true
+  },
+  {
+    "slug": "domkach-theatre",
+    "locales": {
+      "en": {
+        "title": "Domkach: The Private Theatre of Mithila Women",
+        "description": "Domkach is a vibrant and humorous folk theatre and dance performed exclusively by women during weddings. It takes place at the groom's house after the men have left for the wedding procession (Baraat).",
+        "origin": "Mithila wedding customs",
+        "rituals": "Women dress up as various characters, including the bride and groom, and perform satirical skits. It is a night-long celebration filled with laughter, songs, and ribald humor, serving to keep the household awake and guarded.",
+        "significance": "Domkach is a rare space for women's uninhibited creative expression and community bonding, ensuring the house remains lively in the absence of men."
+      },
+      "hi": {
+        "title": "डोमकच: मिथिला महिलाओं का निजी रंगमंच",
+        "description": "डोमकच एक जीवंत और विनोदी लोक रंगमंच और नृत्य है जो शादियों के दौरान विशेष रूप से महिलाओं द्वारा किया जाता है।",
+        "origin": "मिथिला विवाह संस्कार",
+        "rituals": "महिलाएं दूल्हा-दुल्हन सहित विभिन्न पात्रों का रूप धारण करती हैं और हास्यपूर्ण नाटक प्रस्तुत करती हैं।",
+        "significance": "यह महिलाओं की अभिव्यक्ति और आपसी मेलजोल का एक महत्वपूर्ण माध्यम है।"
+      },
+      "mai": {
+        "title": "डोमकच: मिथिलाक महिला सभक निजी रंगमंच",
+        "description": "डोमकच शादिक समय मे कएल जाइ वाला एकटा हास्य-विनोद सँ भरल लोक नृत्य आ नाटक अछि। ई विशेष रूप सँ महिला सभ द्वारा कएल जाइत अछि।",
+        "origin": "मिथिलाक विवाह पद्धति",
+        "rituals": "महिला सभ दूल्हा-दुलहिन क' भेष धरि क' हँसी-ठिठोली करैत छथि। ई राति भरि चलय वाला उत्सव अछि।",
+        "significance": "डोमकच महिला सभक अभिव्यक्ति आ आपस मे जुड़बाक एकटा सशक्त माध्यम अछि।"
+      }
+    },
+    "image": "https://images.unsplash.com/photo-1514525253361-b83f859b73c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "category": "Theatre",
+    "featured": false
+  },
+  {
+    "slug": "jat-jatin",
+    "locales": {
+      "en": {
+        "title": "Jat-Jatin: The Ballad of Eternal Love",
+        "description": "Jat-Jatin is one of the most popular folk dances of Mithila, typically performed by a pair of dancers (usually women) during the monsoon months. It depicts the tender romance and humorous quarrels between a husband (Jat) and his wife (Jatin).",
+        "origin": "Medieval Mithila folk legends",
+        "rituals": "Dancers perform in an open space, often under the moonlight, singing rhythmic songs that narrate the couple's life. It involves graceful movements and expressive storytelling.",
+        "significance": "The dance is often performed as a prayer for rain during droughts and as a celebration of marital harmony and the joy of life."
+      },
+      "hi": {
+        "title": "जट-जटिन: शाश्वत प्रेम की गाथा",
+        "description": "जट-जटिन मिथिला का एक अत्यंत लोकप्रिय लोक नृत्य है, जो मानसून के दौरान किया जाता है। यह पति (जट) और पत्नी (जटिन) के बीच प्रेम और नोकझोंक को दर्शाता है।",
+        "origin": "मध्यकालीन मिथिला लोक कथाएं",
+        "rituals": "नर्तक खुले स्थान पर तालबद्ध गीतों के साथ प्रदर्शन करते हैं, जो दंपति के जीवन की कहानियों को सुनाते हैं।",
+        "significance": "यह नृत्य अक्सर सूखे के दौरान बारिश की प्रार्थना के रूप में और वैवाहिक सद्भाव के उत्सव के रूप में किया जाता है।"
+      },
+      "mai": {
+        "title": "जट-जटिन: शाश्वत प्रेम क' गाथा",
+        "description": "जट-जटिन मिथिलाक एकटा बड्ड लोकप्रिय लोक नृत्य अछि, जे वर्षा ऋतु मे कएल जाइत अछि। ई पति (जट) आ पत्नी (जटिन) क' बीचक प्रेम आ मधुर नोकझोंक केँ देखबैत अछि।",
+        "origin": "मध्यकालीन मिथिलाक लोक कथा सभ",
+        "rituals": "नर्तक सभ खुल्ला आकाशक नीचा तालबद्ध गीत गाबि क' नृत्य करैत छथि, जे जट-जटिनक जीवनक चित्रण करैत अछि।",
+        "significance": "ई नृत्य अक्सर सुखार मे बरखाक लेल प्रार्थना आ वैवाहिक सुख-शांतिक प्रतीक मानल जाइत अछि।"
+      }
+    },
+    "image": "https://images.unsplash.com/photo-1508807526345-15e9b5f4eaff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "category": "Dance",
+    "featured": true
+  },
+  {
+    "slug": "sama-chakeva",
+    "locales": {
+      "en": {
+        "title": "Sama Chakeva: Celebrating Brother-Sister Bond",
+        "description": "Sama Chakeva is a unique festival of Mithila celebrated in the month of Kartik. It centers around clay idols of birds and characters from the legend of Sama, the daughter of Lord Krishna.",
+        "origin": "Puranic legends and local folk traditions",
+        "rituals": "Women and girls make colorful clay idols, especially of Sama (the sister) and Chakeva (the brother). They sing traditional songs throughout the week and finally submerge the idols in local ponds or rivers.",
+        "significance": "The festival celebrates the pure and eternal bond between brothers and sisters, wishing for the longevity and prosperity of brothers."
+      },
+      "hi": {
+        "title": "सामा चकेवा: भाई-बहन के प्रेम का उत्सव",
+        "description": "सामा चकेवा कार्तिक माह में मनाया जाने वाला मिथिला का एक अनूठा त्योहार है, जो भाई-बहन के पवित्र रिश्ते पर आधारित है।",
+        "origin": "पौराणिक कथाएं और स्थानीय परंपराएं",
+        "rituals": "महिलाएं मिट्टी की रंगीन मूर्तियां (सामा, चकेवा और अन्य पात्र) बनाती हैं और पारंपरिक गीत गाती हैं।",
+        "significance": "यह त्योहार भाइयों की लंबी उम्र और समृद्धि की कामना के लिए मनाया जाता है।"
+      },
+      "mai": {
+        "title": "सामा चकेवा: भाय-बहिनक प्रेम क' उत्सव",
+        "description": "सामा चकेवा कार्तिक मास मे मनाओल जाइ वाला मिथिलाक एकटा विशिष्ट पाबनि अछि, जे भाय-बहिनक पवित्र संबंध पर आधारित अछि।",
+        "origin": "पौराणिक कथा आ स्थानीय लोक परंपरा",
+        "rituals": "महिला सभ माटिक रंग-बिरंग मूर्ति (सामा, चकेवा आ चुगला) बनाबैत छथि आ पारंपरिक गीत गाबैत छथि।",
+        "significance": "ई पाबनि भाय क' दीर्घायु आ सुख-समृद्धिक लेल मनाओल जाइत अछि।"
+      }
+    },
+    "image": "https://images.unsplash.com/photo-1533659828870-95ee305cee3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "category": "Festival",
+    "featured": true
+  }
+]

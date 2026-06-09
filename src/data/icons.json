@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "name": "Deep (Diya)",
+        "url": "https://img.icons8.com/color/96/diya.png",
+        "tags": [
+            "festival",
+            "light",
+            "diwali"
+        ],
+        "category": "Festivals"
+    },
+    {
+        "id": "2",
+        "name": "Namaste",
+        "url": "https://img.icons8.com/color/96/prayer.png",
+        "tags": [
+            "greeting",
+            "culture",
+            "respect"
+        ],
+        "category": "Culture"
+    }
+]

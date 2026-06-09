@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "saurath",
+    "name": {
+      "en": "Saurath",
+      "hi": "सौरठ",
+      "mai": "सौरठ"
+    },
+    "district": {
+      "en": "Madhubani",
+      "hi": "मधुबनी",
+      "mai": "मधुबनी"
+    },
+    "block": {
+      "en": "Rajnagar",
+      "hi": "राजनगर",
+      "mai": "राजनगर"
+    },
+    "famousFor": {
+      "en": "Saurath Sabha & Vedic Scholarship",
+      "hi": "सौरठ सभा और वैदिक विद्वता",
+      "mai": "सौरठ सभा आ वैदिक विद्वता"
+    },
+    "description": {
+      "en": "Saurath is historically famous for the annual 'Saurath Sabha', a massive gathering of Maithil Brahmins for matchmaking and matrimonial discussions based on the traditional Panji genealogical records. It is also home to the ancient Somnath Mahadev temple.",
+      "hi": "सौरठ ऐतिहासिक रूप से वार्षिक 'सौरठ सभा' के लिए प्रसिद्ध है, जो पारंपरिक पंजिकार अभिलेखों के आधार पर विवाह संबंधों की चर्चा के लिए मैथिल ब्राह्मणों का एक बड़ा जमावड़ा है। यहाँ प्राचीन सोमनाथ महादेव मंदिर भी स्थित है।",
+      "mai": "सौरठ ऐतिहासिक रूप से वार्षिक 'सौरठ सभा' कऽ लेल प्रसिद्ध अछि, जे पारंपरिक पंजिकार अभिलेखक आधार पर विवाह संबंधक चर्चा कऽ लेल मैथिल ब्राह्मण लोकनिक एक पैघ जमावड़ा अछि। एतय प्राचीन सोमनाथ महादेव मंदिर सेहो अवस्थित अछि।"
+    },
+    "highlights": [
+      { "en": "Somnath Mahadev Temple", "hi": "सोमनाथ महादेव मंदिर", "mai": "सोमनाथ महादेव मंदिर" },
+      { "en": "Panji Genealogy Center", "hi": "पंजी वंशावली केंद्र", "mai": "पंजी वंशावली केंद्र" },
+      { "en": "Traditional Saurath Sabha Gachhi", "hi": "पारंपरिक सौरठ सभा गाछी", "mai": "पारंपरिक सौरठ सभा गाछी" }
+    ]
+  },
+  {
+    "slug": "jitwarpur",
+    "name": {
+      "en": "Jitwarpur",
+      "hi": "जितवारपुर",
+      "mai": "जितवारपुर"
+    },
+    "district": {
+      "en": "Madhubani",
+      "hi": "मधुबनी",
+      "mai": "मधुबनी"
+    },
+    "block": {
+      "en": "Rahika",
+      "hi": "रहिका",
+      "mai": "रहिका"
+    },
+    "famousFor": {
+      "en": "Madhubani Art & National Laureates",
+      "hi": "मधुबनी चित्रकला और राष्ट्रीय पुरस्कार विजेता",
+      "mai": "मधुबनी चित्रकला आ राष्ट्रीय पुरस्कार विजेता"
+    },
+    "description": {
+      "en": "Jitwarpur is widely recognized as the birth hub of Madhubani Painting (Mithila Art). The village is home to multiple Padma Shri awardees, including Jagdamba Devi and Sita Devi. Almost every household here participates in creating beautiful handmade paintings on canvas, paper, and fabrics.",
+      "hi": "जितवारपुर को मधुबनी पेंटिंग (मिथिला कला) के मुख्य केंद्र के रूप में जाना जाता है। यह गाँव जगदम्बा देवी और सीता देवी सहित कई पद्म श्री पुरस्कार विजेताओं का घर रहा है। यहाँ लगभग हर घर में कैनवास, कागज और कपड़ों पर सुंदर हस्तनिर्मित चित्र बनाए जाते हैं।",
+      "mai": "जितवारपुर कऽ मधुबनी पेंटिंग (मिथिला कला) कऽ मुख्य केंद्रक रूप मे जानल जाएत अछि। ई गाम जगदम्बा देवी आ सीता देवी सहित कएक पद्म श्री पुरस्कार विजेता लोकनिक घर रहल अछि। एतय लगभग हर घर मे कैनवास, कागज आ कपड़ा पर सुंदर हस्तनिर्मित चित्र बनाओल जाएत अछि।"
+    },
+    "highlights": [
+      { "en": "Birthplace of Padma Shri Sita Devi", "hi": "पद्म श्री सीता देवी की जन्मस्थली", "mai": "पद्म श्री सीता देवी कऽ जन्मस्थली" },
+      { "en": "Mithila Painting Artisan Workshops", "hi": "मिथिला पेंटिंग कारीगर कार्यशालाएं", "mai": "मिथिला पेंटिंग कारीगर कार्यशाला सभ" },
+      { "en": "Natural Dye Extraction Units", "hi": "प्राकृतिक रंग निष्कर्षण इकाइयाँ", "mai": "प्राकृतिक रंग निष्कर्षण इकाइयाँ" }
+    ]
+  },
+  {
+    "slug": "ranti",
+    "name": {
+      "en": "Ranti",
+      "hi": "रन्ती",
+      "mai": "रन्ती"
+    },
+    "district": {
+      "en": "Madhubani",
+      "hi": "मधुबनी",
+      "mai": "मधुबनी"
+    },
+    "block": {
+      "en": "Rajnagar",
+      "hi": "राजनगर",
+      "mai": "राजनगर"
+    },
+    "famousFor": {
+      "en": "Mithila Art & Women Empowerment",
+      "hi": "मिथिला कला और महिला सशक्तिकरण",
+      "mai": "मिथिला कला आ महिला सशक्तिकरण"
+    },
+    "description": {
+      "en": "Ranti is another prominent art village adjacent to Madhubani town. It has produced legendary artists like Mahasundari Devi (Padma Shri) and Godavari Dutta. The village women have used the traditional art form as a powerful tool for social commentary, education, and financial independence.",
+      "hi": "रन्ती मधुबनी शहर से सटा एक और प्रमुख कला गाँव है। इसने महासुंदरी देवी (पद्म श्री) और गोदावरी दत्त जैसे दिग्गज कलाकारों को जन्म दिया है। गाँव की महिलाओं ने सामाजिक चेतना, शिक्षा और वित्तीय स्वतंत्रता के लिए एक शक्तिशाली उपकरण के रूप में इस पारंपरिक कला रूप का उपयोग किया है।",
+      "mai": "रन्ती मधुबनी शहर सँ सटल एक आउ प्रमुख कला गाम अछि। ई महासुंदरी देवी (पद्म श्री) आ गोदावरी दत्त सन दिग्गज कलाकार लोकनिक जन्म देलक अछि। गामक महिला सभ सामाजिक चेतना, शिक्षा आ वित्तीय स्वतंत्रताक लेल एक शक्तिशाली उपकरणक रूप मे ई पारंपरिक कला रूपक उपयोग कएल अछि।"
+    },
+    "highlights": [
+      { "en": "Mahasundari Devi Memorial Center", "hi": "महासुंदरी देवी मेमोरियल सेंटर", "mai": "महासुंदरी देवी मेमोरियल सेंटर" },
+      { "en": "Community Art Training Programs", "hi": "सामुदायिक कला प्रशिक्षण कार्यक्रम", "mai": "सामुदायिक कला प्रशिक्षण कार्यक्रम" },
+      { "en": "Traditional Wall Mural Walks", "hi": "पारंपरिक दीवार भित्तिचित्र दर्शन", "mai": "पारंपरिक दीवार भित्तिचित्र दर्शन" }
+    ]
+  },
+  {
+    "slug": "mangrauni",
+    "name": {
+      "en": "Mangrauni",
+      "hi": "मंगरौनी",
+      "mai": "मंगरौनी"
+    },
+    "district": {
+      "en": "Madhubani",
+      "hi": "मधुबनी",
+      "mai": "मधुबनी"
+    },
+    "block": {
+      "en": "Rahika",
+      "hi": "रहिका",
+      "mai": "रहिका"
+    },
+    "famousFor": {
+      "en": "Tantric Shrines & Budhanath Temple",
+      "hi": "तांत्रिक साधना स्थल और बुढ़नाथ मंदिर",
+      "mai": "तांत्रिक साधना स्थल आ बुढ़नाथ मंदिर"
+    },
+    "description": {
+      "en": "Mangrauni is historically revered as a major seat of Tantric and Vedic scholars in Mithila. It is highly famous for the temple of Budhanath Mahadev and ancient shrines dedicated to Goddess Kali, attracting spiritual seekers and hosting traditional Sanskrit academies.",
+      "hi": "मंगरौनी ऐतिहासिक रूप से मिथिला में तांत्रिक और वैदिक विद्वानों के एक प्रमुख केंद्र के रूप में प्रतिष्ठित है। यह बुढ़नाथ महादेव के मंदिर और देवी काली को समर्पित प्राचीन पूजा स्थलों के लिए अत्यधिक प्रसिद्ध है, जो आध्यात्मिक साधकों को आकर्षित करता है।",
+      "mai": "मंगरौनी ऐतिहासिक रूप से मिथिला मे तांत्रिक आ वैदिक विद्वान लोकनिक एक प्रमुख केंद्रक रूप मे प्रतिष्ठित अछि। ई बुढ़नाथ महादेव कऽ मंदिर आ देवी काली कऽ समर्पित प्राचीन पूजा स्थल सभक लेल अत्यधिक प्रसिद्ध अछि, जे आध्यात्मिक साधक लोकनिक आकर्षित करैत अछि।"
+    },
+    "highlights": [
+      { "en": "Budhanath Mahadev Temple", "hi": "बुढ़नाथ महादेव मंदिर", "mai": "बुढ़नाथ महादेव मंदिर" },
+      { "en": "Mangrauni Sanskrit Pathshala", "hi": "मंगरौनी संस्कृत पाठशाला", "mai": "मंगरौनी संस्कृत पाठशाला" },
+      { "en": "Ancient Kali Sthan", "hi": "प्राचीन काली स्थान", "mai": "प्राचीन काली स्थान" }
+    ]
+  },
+  {
+    "slug": "andhratharhi",
+    "name": {
+      "en": "Andhra Tharhi",
+      "hi": "आंध्र ठाढ़ी",
+      "mai": "आंध्र ठाढ़ी"
+    },
+    "district": {
+      "en": "Madhubani",
+      "hi": "मधुबनी",
+      "mai": "आंध्र ठाढ़ी"
+    },
+    "block": {
+      "en": "Andhratharhi",
+      "hi": "आंध्र ठाढ़ी",
+      "mai": "आंध्र ठाढ़ी"
+    },
+    "famousFor": {
+      "en": "Karnata Dynasty Archeology & Pottery",
+      "hi": "कर्नाटक राजवंश पुरातत्व और हस्तशिल्प",
+      "mai": "कर्नाटक राजवंश पुरातत्व आ हस्तशिल्प"
+    },
+    "description": {
+      "en": "Andhra Tharhi houses ruins and stone idols dating back to the medieval Karnata dynasty. Archaeological excavations have uncovered exquisite black basalt idols of Vishnu and Surya. The village is also known for traditional clay pottery and rural agricultural innovations.",
+      "hi": "आंध्र ठाढ़ी में मध्यकालीन कर्नाटक राजवंश के खंडहर और पत्थर की मूर्तियाँ स्थित हैं। पुरातात्विक उत्खनन में विष्णु और सूर्य की उत्कृष्ट काले बेसाल्ट की मूर्तियाँ मिली हैं। यह गाँव मिट्टी के बर्तनों के निर्माण के लिए भी जाना जाता है।",
+      "mai": "आंध्र ठाढ़ी मे मध्यकालीन कर्नाटक राजवंशक खंडहर आ पत्थरक मूर्ति सभ अवस्थित अछि। पुरातात्विक उत्खनन मे विष्णु आ सूर्यक उत्कृष्ट कारी बेसाल्टक मूर्ति सभ भेटल अछि। ई गाम माटिक बर्तनक निर्माणक लेल सेहो जानल जाएत अछि।"
+    },
+    "highlights": [
+      { "en": "Karnata Era Stone Sculptures", "hi": "कर्नाटक कालीन पाषाण मूर्तियां", "mai": "कर्नाटक कालीन पाषाण मूर्ति सभ" },
+      { "en": "Traditional Pottery Workshops", "hi": "पारंपरिक मिट्टी के बर्तन कार्यशाला", "mai": "पारंपरिक माटिक बर्तनक कार्यशाला" },
+      { "en": "Ancient Water Reservoirs", "hi": "प्राचीन जलाशय (पोखरि)", "mai": "प्राचीन जलाशय (पोखरि)" }
+    ]
+  },
+  {
+    "slug": "pilakhwar",
+    "name": {
+      "en": "Pilakhwar",
+      "hi": "पिलखवार",
+      "mai": "पिलखवार"
+    },
+    "district": {
+      "en": "Madhubani",
+      "hi": "मधुबनी",
+      "mai": "मधुबनी"
+    },
+    "block": {
+      "en": "Lohna",
+      "hi": "लोहना",
+      "mai": "लोहना"
+    },
+    "famousFor": {
+      "en": "Sanskrit Scholars & Handloom Weaving",
+      "hi": "संस्कृत विद्वान और हथकरघा बुनाई",
+      "mai": "संस्कृत विद्वान आ हथकरघा बुनाई"
+    },
+    "description": {
+      "en": "Pilakhwar has a long tradition of producing prominent Sanskrit scholars, poets, and educators. Along with its intellectual contributions, the village was historically famous for traditional handloom weaving, producing authentic Maithil khadi, dhotis, and sarees.",
+      "hi": "पिलखवार में प्रमुख संस्कृत विद्वानों, कवियों और शिक्षकों की एक लंबी परंपरा रही है। अपने बौद्धिक योगदान के साथ-साथ, यह गाँव ऐतिहासिक रूप से पारंपरिक हथकरघा बुनाई के लिए प्रसिद्ध था, जहाँ शुद्ध मैथिल खादी, धोती और साड़ियाँ बनाई जाती थीं।",
+      "mai": "पिलखवार मे प्रमुख संस्कृत विद्वान, कवि आ शिक्षक लोकनिक एक लंबी परंपरा रहल अछि। अपन बौद्धिक योगदानक संग-संग, ई गाम ऐतिहासिक रूप सँ पारंपरिक हथकरघा बुनाईक लेल प्रसिद्ध छल, जतय शुद्ध मैथिल खादी, धोती आ साड़ी बनाओल जाएत छल।"
+    },
+    "highlights": [
+      { "en": "Birthplace of Mahamahopadhyaya Scholars", "hi": "महामहोपाध्याय विद्वानों की जन्मस्थली", "mai": "महामहोपाध्याय विद्वान लोकनिक जन्मस्थली" },
+      { "en": "Maithil Khadi Weaving heritage", "hi": "मैथिल खादी बुनाई विरासत", "mai": "मैथिल खादी बुनाई विरासत" },
+      { "en": "Vedic Gurukul Foundations", "hi": "वैदिक गुरुकुल की नींव", "mai": "वैदिक गुरुकुल कऽ नींव" }
+    ]
+  }
+]

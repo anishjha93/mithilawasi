@@ -1,0 +1,468 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "..";
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Mithila Palette - Mapped to CSS Variables for Dynamic Switching */
+  --color-primary-red: var(--color-primary-red);
+  --color-primary-yellow: var(--color-primary-yellow);
+  --color-primary-green: var(--color-primary-green);
+  --color-mithila-indigo: var(--color-mithila-indigo);
+  --color-ink-black: var(--color-ink-black);
+
+  --color-paper-white: var(--color-paper-white);
+  --color-paper-texture: var(--color-paper-texture);
+  --color-terracotta: var(--color-terracotta);
+  --color-gray-soft: var(--color-gray-soft);
+
+  --color-text-main: var(--color-text-main);
+  --color-mithila-ink: var(--color-mithila-ink);
+  --color-text-muted: var(--color-text-muted);
+  --color-accent-gold: var(--color-accent-gold);
+
+  /* Typography */
+  --font-heading: 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Custom Mithila Spacing Scale */
+  --spacing-m-xs: 0.5rem;
+  --spacing-m-sm: 1rem;
+  --spacing-m-md: 2rem;
+  --spacing-m-lg: 4rem;
+  --spacing-m-xl: 8rem;
+
+  /* Layout */
+  --max-width: 1280px;
+  --header-height: 80px;
+
+  /* Semantic Theme Variables */
+  --color-background: var(--color-background);
+  --color-foreground: var(--color-foreground);
+  --color-card-bg: var(--color-card-bg);
+  --color-border-color: var(--color-border-color);
+  --hero-bg: border-box linear-gradient(135deg, var(--color-paper-white) 0%, var(--color-primary-yellow-light) 100%);
+
+  /* Mesh Gradients */
+  --mesh-gradient-1: radial-gradient(at 10% 20%, rgba(13, 148, 136, 0.04) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, rgba(16, 185, 129, 0.04) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, rgba(2, 132, 199, 0.04) 0px, transparent 50%);
+
+  /* Shadows */
+  --shadow-premium: 0 10px 30px -10px rgba(0, 0, 0, 0.05), 0 4px 10px -5px rgba(0, 0, 0, 0.03);
+  --shadow-glass: 0 8px 32px 0 rgba(15, 23, 42, 0.04);
+}
+
+/* Base Variables (Light Mode Refined - Modern Teal & Sky Blue) */
+:root {
+  --color-primary-red: #0d9488; /* Vibrant Teal */
+  --color-primary-yellow: #0284c7; /* Sky Blue */
+  --color-primary-yellow-light: #f0f9ff;
+  --color-primary-green: #10b981; /* Emerald Green */
+  --color-mithila-indigo: #312e81; /* Deep Indigo */
+  --color-ink-black: #0f172a; /* Slate 900 */
+
+  --color-paper-white: #ffffff;
+  --color-paper-texture: #f8fafc; /* Slate 50 */
+  --color-terracotta: #0d9488;
+  --color-gray-soft: #f1f5f9; /* Slate 100 */
+
+  --color-text-main: #1e293b; /* Slate 800 */
+  --color-mithila-ink: #1e293b;
+  --color-text-muted: #64748b; /* Slate 500 */
+  --color-accent-gold: #f59e0b; /* Amber */
+
+  /* Strategy Variables */
+  --color-background: #ffffff;
+  --color-foreground: #1e293b;
+  --color-card-bg: #ffffff;
+  --color-card-bg-rgb: 255, 255, 255;
+  --color-border-color: #e2e8f0; /* Slate 200 */
+
+  /* Fonts */
+  --font-heading: var(--font-body), sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-devanagari-heading: 'Hind', sans-serif;
+  --font-devanagari-body: 'Hind', sans-serif;
+}
+
+/* Dark Mode Variables - Deep Zinc & Soft Teal */
+.dark {
+  --color-primary-red: #2dd4bf; /* Teal 400 */
+  --color-primary-yellow: #38bdf8; /* Sky 400 */
+  --color-primary-yellow-light: #0c1a24;
+  --color-primary-green: #34d399; /* Emerald 400 */
+  --color-mithila-indigo: #818cf8; /* Indigo 400 */
+  --color-ink-black: #f8fafc;
+
+  --color-paper-white: #09090b; /* Zinc 950 */
+  --color-paper-texture: #09090b;
+  --color-terracotta: #2dd4bf;
+  --color-gray-soft: #18181b; /* Zinc 900 */
+
+  --color-text-main: #f4f4f5; /* Zinc 100 */
+  --color-mithila-ink: #f4f4f5;
+  --color-text-muted: #a1a1aa; /* Zinc 400 */
+  --color-accent-gold: #fbbf24;
+
+  --color-background: #09090b;
+  --color-foreground: #f4f4f5;
+  --color-card-bg: #09090b;
+  --color-card-bg-rgb: 9, 9, 11;
+  --color-border-color: #27272a; /* Zinc 800 */
+
+  --mesh-gradient-1: radial-gradient(at 10% 20%, rgba(45, 212, 191, 0.02) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, rgba(52, 211, 153, 0.02) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, rgba(56, 189, 248, 0.02) 0px, transparent 50%);
+}
+
+html,
+body {
+    background-color: var(--color-paper-white);
+    color: var(--color-mithila-ink);
+    font-family: var(--font-body);
+    line-height: 1.6;
+    overflow-x: hidden;
+    position: relative;
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Prevent grid children from overflowing on mobile */
+.grid > * {
+    min-width: 0;
+}
+
+body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: var(--mesh-gradient-1);
+    opacity: 0.15;
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Ensure empty paragraphs or breaks have height in blog content */
+.blog-content p:empty::before,
+.blog-content div:empty::before {
+  content: "\00a0";
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+@layer base {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    color: var(--color-ink-black);
+    margin-bottom: var(--spacing-m-sm);
+    line-height: 1.25;
+  }
+
+  h1 { font-size: 3rem; }
+  h2 { font-size: 2.25rem; }
+  h3 { font-size: 1.75rem; }
+  h4 { font-size: 1.5rem; }
+  h5 { font-size: 1.25rem; }
+  h6 { font-size: 1rem; }
+
+  @media (max-width: 768px) {
+    h1 { font-size: 2.25rem; }
+    h2 { font-size: 1.85rem; }
+    h3 { font-size: 1.5rem; }
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* --- Utilities --- */
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing-m-md);
+}
+
+.section-padding {
+  padding: var(--spacing-m-lg) 0;
+}
+
+.content-max-width {
+  max-width: 768px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Premium Utilities */
+.glass {
+  background: rgba(var(--color-card-bg-rgb), 0.7) !important;
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.glass-morphism {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: var(--shadow-glass);
+}
+
+.dark .glass-morphism {
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.shadow-premium {
+  box-shadow: var(--shadow-premium);
+}
+
+/* Gradient Text */
+.text-gradient {
+  background: linear-gradient(90deg, var(--color-primary-red), var(--color-primary-green));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.8rem 1.8rem;
+  border-radius: 50px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  font-family: var(--font-body);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  font-size: 0.85rem;
+}
+
+.btn-primary {
+  background-color: var(--color-primary-red);
+  color: white;
+  box-shadow: 0 4px 14px 0 rgba(13, 148, 136, 0.2);
+}
+
+.btn-primary:hover {
+  background-color: #0f766e; /* teal-700 */
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(13, 148, 136, 0.25);
+}
+
+.btn-outline {
+  border: 2px solid var(--color-ink-black);
+  color: var(--color-ink-black);
+  background: transparent;
+}
+
+.btn-outline:hover {
+  background: var(--color-ink-black);
+  color: var(--color-paper-white);
+  transform: translateY(-2px);
+}
+
+.dark .btn-outline {
+  border: 2px solid var(--color-text-main);
+  color: var(--color-text-main);
+}
+
+.dark .btn-outline:hover {
+  background: var(--color-text-main);
+  color: var(--color-background);
+}
+
+/* Cards & Hover Effects */
+.card-hover {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-hover:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: var(--shadow-premium);
+}
+
+/* Hero Overlay */
+.hero-overlay {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7));
+}
+
+/* Grid Layouts */
+.grid-auto {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+/* --- Heritage Textures --- */
+
+.border-madhubani {
+  position: relative;
+  border: 4px double var(--color-primary-red);
+  padding: 1rem;
+}
+
+.border-madhubani::after {
+  content: '';
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  right: -8px;
+  bottom: -8px;
+  border: 1px solid var(--color-accent-gold);
+  pointer-events: none;
+  opacity: 0.3;
+}
+
+.border-double-heritage {
+  border: 4px double var(--color-primary-red);
+  padding: 1.5rem;
+  border-radius: 4px;
+}
+
+.motif-bg {
+  position: relative;
+}
+
+.motif-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url('https://cdn.mithilalegacy.com/motif_fish.svg');
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  opacity: 0.05;
+  pointer-events: none;
+}
+
+.dark .motif-bg::before {
+  opacity: 0.08;
+  filter: invert(1);
+}
+
+.madhubani-pattern-bg {
+  background-image: radial-gradient(var(--color-terracotta) 1px, transparent 1px);
+  background-size: 20px 20px;
+  opacity: 0.05;
+}
+
+/* Section Header Decoration */
+.header-heritage {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 0.8rem;
+}
+
+.header-heritage.text-center {
+  display: block;
+}
+
+.header-heritage::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 80px;
+  height: 4px;
+  background: repeating-linear-gradient(45deg,
+      var(--color-primary-red),
+      var(--color-primary-red) 5px,
+      var(--color-primary-yellow) 5px,
+      var(--color-primary-yellow) 10px);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.header-heritage.text-center::after {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.header-heritage:hover::after {
+  width: 120px;
+}
+
+/* Mobile Adjustments */
+@media (max-width: 900px) {
+  :root {
+    --spacing-m-md: 1rem;
+    --spacing-m-lg: 3rem;
+    --spacing-m-xl: 5rem;
+    --header-height: 60px;
+  }
+
+  h1 {
+    font-size: 2.2rem !important;
+  }
+
+  h2 {
+    font-size: 1.8rem !important;
+  }
+
+  .container {
+    padding: 0 var(--spacing-m-sm);
+  }
+}
+
+/* --- Delight Animations --- */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  opacity: 0;
+  animation: fadeInUp 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+.delay-100 {
+  animation-delay: 0.1s;
+}
+
+.delay-200 {
+  animation-delay: 0.2s;
+}
+
+.delay-300 {
+  animation-delay: 0.3s;
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Hide scrollbars but keep functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
