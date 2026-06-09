@@ -13,20 +13,20 @@ import { ThemeProvider } from '@/components/ThemeProvider';
 export const runtime = 'edge';
 
 // Font configuration
-const inter = Inter({ 
-    subsets: ['latin'], 
+const inter = Inter({
+    subsets: ['latin'],
     variable: '--font-body',
     display: 'swap'
 });
-const crimsonPro = Crimson_Pro({ 
-    subsets: ['latin'], 
-    variable: '--font-heading', 
+const crimsonPro = Crimson_Pro({
+    subsets: ['latin'],
+    variable: '--font-heading',
     weight: ['200', '300', '400', '500', '600', '700', '800', '900'],
     display: 'swap'
 });
-const rozhaOne = Rozha_One({ 
-    subsets: ['devanagari', 'latin'], 
-    variable: '--font-devanagari-heading', 
+const rozhaOne = Rozha_One({
+    subsets: ['devanagari', 'latin'],
+    variable: '--font-devanagari-heading',
     weight: ['400'],
     display: 'swap'
 });
@@ -124,7 +124,7 @@ export default async function RootLayout({
                     crossOrigin="anonymous"
                     strategy="afterInteractive"
                 />
-                <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || 'G-6QQ9VGNP6C'} />
+                <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || 'G-4HYPX5QQGF'} />
                 <JsonLd />
                 <ThemeProvider
                     attribute="class"
