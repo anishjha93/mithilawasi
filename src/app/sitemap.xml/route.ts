@@ -57,6 +57,7 @@ export async function GET() {
             { path: 'vrat-katha', priority: 0.8, changeFrequency: 'monthly' },
             { path: 'search', priority: 0.5, changeFrequency: 'monthly' },
             { path: 'community/share', priority: 0.7, changeFrequency: 'monthly' },
+            { path: 'villages', priority: 0.8, changeFrequency: 'weekly' },
         ];
 
         staticPages.forEach(page => {

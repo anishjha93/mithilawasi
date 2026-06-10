@@ -44,3 +44,7 @@ next-env.d.ts
 serviceAccount.json
 .wrangler
 
+# Raw Government Downloads
+downloadDir2026_06_10_17_36_15_715/
+
+

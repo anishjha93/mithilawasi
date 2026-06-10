@@ -1,0 +1,6306 @@
+{
+  "displayName": "Sheohar",
+  "displayNameLocal": "शिवहर",
+  "villages": [
+    {
+      "code": "218768",
+      "census2011": "218768",
+      "census2001": "",
+      "name": {
+        "en": "Adauri",
+        "hi": "Adauri",
+        "mai": "Adauri"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100901",
+        "en": "Adouri",
+        "hi": "अदौरी",
+        "mai": "अदौरी"
+      },
+      "demographics": {
+        "population": 1592,
+        "male": 824,
+        "female": 768,
+        "households": 339,
+        "literacyRate": 64.1
+      }
+    },
+    {
+      "code": "959573",
+      "census2011": "959573",
+      "census2001": "",
+      "name": {
+        "en": "Amba Kala",
+        "hi": "Amba Kala",
+        "mai": "Amba Kala"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "Amba North",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 2387,
+        "male": 1226,
+        "female": 1161,
+        "households": 475,
+        "literacyRate": 55.6
+      }
+    },
+    {
+      "code": "959582",
+      "census2011": "959582",
+      "census2001": "",
+      "name": {
+        "en": "Amba Kala",
+        "hi": "Amba Kala",
+        "mai": "Amba Kala"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "Amba South",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 675,
+        "male": 352,
+        "female": 323,
+        "households": 125,
+        "literacyRate": 62.6
+      }
+    },
+    {
+      "code": "218806",
+      "census2011": "218806",
+      "census2001": "",
+      "name": {
+        "en": "Amwa Kalan",
+        "hi": "Amwa Kalan",
+        "mai": "Amwa Kalan"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100889",
+        "en": "Amba North",
+        "hi": "अम्बा उत्तरी",
+        "mai": "अम्बा उत्तरी"
+      },
+      "demographics": {
+        "population": 1973,
+        "male": 1000,
+        "female": 973,
+        "households": 408,
+        "literacyRate": 64.9
+      }
+    },
+    {
+      "code": "218806",
+      "census2011": "218806",
+      "census2001": "",
+      "name": {
+        "en": "Amwa Kalan",
+        "hi": "Amwa Kalan",
+        "mai": "Amwa Kalan"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100890",
+        "en": "Amba South",
+        "hi": "अम्बा दक्षिणी",
+        "mai": "अम्बा दक्षिणी"
+      },
+      "demographics": {
+        "population": 1973,
+        "male": 1000,
+        "female": 973,
+        "households": 408,
+        "literacyRate": 64.9
+      }
+    },
+    {
+      "code": "218927",
+      "census2011": "218927",
+      "census2001": "",
+      "name": {
+        "en": "Arazi Nankar",
+        "hi": "Arazi Nankar",
+        "mai": "Arazi Nankar"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100927",
+        "en": "Pojhiyan",
+        "hi": "पोझिया",
+        "mai": "पोझिया"
+      },
+      "demographics": {
+        "population": 3707,
+        "male": 1891,
+        "female": 1816,
+        "households": 677,
+        "literacyRate": 73
+      }
+    },
+    {
+      "code": "218952",
+      "census2011": "218952",
+      "census2001": "",
+      "name": {
+        "en": "Arazi Rakbe Narwara",
+        "hi": "Arazi Rakbe Narwara",
+        "mai": "Arazi Rakbe Narwara"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100926",
+        "en": "Narwara",
+        "hi": "नरवारा",
+        "mai": "नरवारा"
+      },
+      "demographics": {
+        "population": 2561,
+        "male": 1347,
+        "female": 1214,
+        "households": 515,
+        "literacyRate": 57.2
+      }
+    },
+    {
+      "code": "958162",
+      "census2011": "958162",
+      "census2001": "",
+      "name": {
+        "en": "Arazi Vanshi Pachra",
+        "hi": "Arazi Vanshi Pachra",
+        "mai": "Arazi Vanshi Pachra"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "Sonbarsa",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 5474,
+        "male": 2819,
+        "female": 2655,
+        "households": 950,
+        "literacyRate": 70.7
+      }
+    },
+    {
+      "code": "218774",
+      "census2011": "218774",
+      "census2001": "",
+      "name": {
+        "en": "Asogi Chhapra Dhani",
+        "hi": "Asogi Chhapra Dhani",
+        "mai": "Asogi Chhapra Dhani"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100904",
+        "en": "Basant Jagjiwan",
+        "hi": "बसंत जगजीवन",
+        "mai": "बसंत जगजीवन"
+      },
+      "demographics": {
+        "population": 3551,
+        "male": 1786,
+        "female": 1765,
+        "households": 680,
+        "literacyRate": 55.7
+      }
+    },
+    {
+      "code": "218790",
+      "census2011": "218790",
+      "census2001": "",
+      "name": {
+        "en": "Asopur",
+        "hi": "Asopur",
+        "mai": "Asopur"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100900",
+        "en": "Abhirajpur Bairiya",
+        "hi": "अभिराजपुर बैरिया",
+        "mai": "अभिराजपुर बैरिया"
+      },
+      "demographics": {
+        "population": 1985,
+        "male": 1013,
+        "female": 972,
+        "households": 428,
+        "literacyRate": 64.8
+      }
+    },
+    {
+      "code": "218931",
+      "census2011": "218931",
+      "census2001": "",
+      "name": {
+        "en": "Athkauni",
+        "hi": "Athkauni",
+        "mai": "Athkauni"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100918",
+        "en": "Athkoni",
+        "hi": "अठकोनी",
+        "mai": "अठकोनी"
+      },
+      "demographics": {
+        "population": 4404,
+        "male": 2234,
+        "female": 2170,
+        "households": 937,
+        "literacyRate": 70.7
+      }
+    },
+    {
+      "code": "218940",
+      "census2011": "218940",
+      "census2001": "",
+      "name": {
+        "en": "Aura",
+        "hi": "Aura",
+        "mai": "Aura"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100930",
+        "en": "Sonbarsa",
+        "hi": "सोनबर्षा",
+        "mai": "सोनबर्षा"
+      },
+      "demographics": {
+        "population": 3056,
+        "male": 1535,
+        "female": 1521,
+        "households": 596,
+        "literacyRate": 54.4
+      }
+    },
+    {
+      "code": "218820",
+      "census2011": "218820",
+      "census2001": "",
+      "name": {
+        "en": "Az Rakba Kursahar",
+        "hi": "Az Rakba Kursahar",
+        "mai": "Az Rakba Kursahar"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100911",
+        "en": "Kushahar",
+        "hi": "कुशहर",
+        "mai": "कुशहर"
+      },
+      "demographics": {
+        "population": 1968,
+        "male": 1011,
+        "female": 957,
+        "households": 370,
+        "literacyRate": 50.6
+      }
+    },
+    {
+      "code": "218933",
+      "census2011": "218933",
+      "census2001": "",
+      "name": {
+        "en": "Az Rakbe Athkauni Urf Benipur",
+        "hi": "Az Rakbe Athkauni Urf Benipur",
+        "mai": "Az Rakbe Athkauni Urf Benipur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100918",
+        "en": "Athkoni",
+        "hi": "अठकोनी",
+        "mai": "अठकोनी"
+      },
+      "demographics": {
+        "population": 1448,
+        "male": 743,
+        "female": 705,
+        "households": 297,
+        "literacyRate": 62.9
+      }
+    },
+    {
+      "code": "218945",
+      "census2011": "218945",
+      "census2001": "",
+      "name": {
+        "en": "Az Rakbe Pachra Bansi",
+        "hi": "Az Rakbe Pachra Bansi",
+        "mai": "Az Rakbe Pachra Bansi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100930",
+        "en": "Sonbarsa",
+        "hi": "सोनबर्षा",
+        "mai": "सोनबर्षा"
+      },
+      "demographics": {
+        "population": 1759,
+        "male": 921,
+        "female": 838,
+        "households": 331,
+        "literacyRate": 59.4
+      }
+    },
+    {
+      "code": "218934",
+      "census2011": "218934",
+      "census2001": "",
+      "name": {
+        "en": "Az Rakbe Raja Dih Barahi",
+        "hi": "Az Rakbe Raja Dih Barahi",
+        "mai": "Az Rakbe Raja Dih Barahi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100918",
+        "en": "Athkoni",
+        "hi": "अठकोनी",
+        "mai": "अठकोनी"
+      },
+      "demographics": {
+        "population": 789,
+        "male": 404,
+        "female": 385,
+        "households": 166,
+        "literacyRate": 68.2
+      }
+    },
+    {
+      "code": "218838",
+      "census2011": "218838",
+      "census2001": "",
+      "name": {
+        "en": "Azrakbe Pota",
+        "hi": "Azrakbe Pota",
+        "mai": "Azrakbe Pota"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100909",
+        "en": "Harnahi",
+        "hi": "हरनाही",
+        "mai": "हरनाही"
+      },
+      "demographics": {
+        "population": 2500,
+        "male": 1296,
+        "female": 1204,
+        "households": 467,
+        "literacyRate": 60.5
+      }
+    },
+    {
+      "code": "218892",
+      "census2011": "218892",
+      "census2001": "",
+      "name": {
+        "en": "Bahuara",
+        "hi": "Bahuara",
+        "mai": "Bahuara"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100887",
+        "en": "Rohua",
+        "hi": "रोहुआ",
+        "mai": "रोहुआ"
+      },
+      "demographics": {
+        "population": 2655,
+        "male": 1368,
+        "female": 1287,
+        "households": 557,
+        "literacyRate": 64.6
+      }
+    },
+    {
+      "code": "218912",
+      "census2011": "218912",
+      "census2001": "",
+      "name": {
+        "en": "Baijnathpur",
+        "hi": "Baijnathpur",
+        "mai": "Baijnathpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100919",
+        "en": "Belahiyan",
+        "hi": "बेलहिया",
+        "mai": "बेलहिया"
+      },
+      "demographics": {
+        "population": 4273,
+        "male": 2182,
+        "female": 2091,
+        "households": 767,
+        "literacyRate": 57.1
+      }
+    },
+    {
+      "code": "218913",
+      "census2011": "218913",
+      "census2001": "",
+      "name": {
+        "en": "Baijnathpur",
+        "hi": "Baijnathpur",
+        "mai": "Baijnathpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100919",
+        "en": "Belahiyan",
+        "hi": "बेलहिया",
+        "mai": "बेलहिया"
+      },
+      "demographics": {
+        "population": 4204,
+        "male": 2120,
+        "female": 2084,
+        "households": 758,
+        "literacyRate": 61.3
+      }
+    },
+    {
+      "code": "218787",
+      "census2011": "218787",
+      "census2001": "",
+      "name": {
+        "en": "Bairia",
+        "hi": "Bairia",
+        "mai": "Bairia"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100900",
+        "en": "Abhirajpur Bairiya",
+        "hi": "अभिराजपुर बैरिया",
+        "mai": "अभिराजपुर बैरिया"
+      },
+      "demographics": {
+        "population": 4397,
+        "male": 2316,
+        "female": 2081,
+        "households": 817,
+        "literacyRate": 72.1
+      }
+    },
+    {
+      "code": "218808",
+      "census2011": "218808",
+      "census2001": "",
+      "name": {
+        "en": "Bakatpur Banbira",
+        "hi": "Bakatpur Banbira",
+        "mai": "Bakatpur Banbira"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100895",
+        "en": "Kuama",
+        "hi": "कुअमा",
+        "mai": "कुअमा"
+      },
+      "demographics": {
+        "population": 1471,
+        "male": 763,
+        "female": 708,
+        "households": 302,
+        "literacyRate": 48.8
+      }
+    },
+    {
+      "code": "218788",
+      "census2011": "218788",
+      "census2001": "",
+      "name": {
+        "en": "Bakatpur Chaki",
+        "hi": "Bakatpur Chaki",
+        "mai": "Bakatpur Chaki"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100900",
+        "en": "Abhirajpur Bairiya",
+        "hi": "अभिराजपुर बैरिया",
+        "mai": "अभिराजपुर बैरिया"
+      },
+      "demographics": {
+        "population": 4082,
+        "male": 2147,
+        "female": 1935,
+        "households": 772,
+        "literacyRate": 62
+      }
+    },
+    {
+      "code": "218773",
+      "census2011": "218773",
+      "census2001": "",
+      "name": {
+        "en": "Bakhar Chandiha",
+        "hi": "Bakhar Chandiha",
+        "mai": "Bakhar Chandiha"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100902",
+        "en": "Bakhar Chandiha",
+        "hi": "बखार चंडीहा",
+        "mai": "बखार चंडीहा"
+      },
+      "demographics": {
+        "population": 3932,
+        "male": 1971,
+        "female": 1961,
+        "households": 691,
+        "literacyRate": 65.9
+      }
+    },
+    {
+      "code": "218769",
+      "census2011": "218769",
+      "census2001": "",
+      "name": {
+        "en": "Barahi Jagdish",
+        "hi": "Barahi Jagdish",
+        "mai": "Barahi Jagdish"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100903",
+        "en": "Barahi Jagdish",
+        "hi": "बराही जगदीश",
+        "mai": "बराही जगदीश"
+      },
+      "demographics": {
+        "population": 4488,
+        "male": 2298,
+        "female": 2190,
+        "households": 972,
+        "literacyRate": 70.8
+      }
+    },
+    {
+      "code": "218770",
+      "census2011": "218770",
+      "census2001": "",
+      "name": {
+        "en": "Barahi Mohan",
+        "hi": "Barahi Mohan",
+        "mai": "Barahi Mohan"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100903",
+        "en": "Barahi Jagdish",
+        "hi": "बराही जगदीश",
+        "mai": "बराही जगदीश"
+      },
+      "demographics": {
+        "population": 6146,
+        "male": 3104,
+        "female": 3042,
+        "households": 1152,
+        "literacyRate": 65.5
+      }
+    },
+    {
+      "code": "218956",
+      "census2011": "218956",
+      "census2001": "",
+      "name": {
+        "en": "Bariarpur",
+        "hi": "Bariarpur",
+        "mai": "Bariarpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 797,
+        "male": 408,
+        "female": 389,
+        "households": 150,
+        "literacyRate": 47.1
+      }
+    },
+    {
+      "code": "218840",
+      "census2011": "218840",
+      "census2001": "",
+      "name": {
+        "en": "Basahia Ram",
+        "hi": "Basahia Ram",
+        "mai": "Basahia Ram"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245368",
+        "en": "Mathurapur Kahtarwa",
+        "hi": "मथुरापुर कहतरवा",
+        "mai": "मथुरापुर कहतरवा"
+      },
+      "demographics": {
+        "population": 604,
+        "male": 313,
+        "female": 291,
+        "households": 106,
+        "literacyRate": 63.7
+      }
+    },
+    {
+      "code": "218807",
+      "census2011": "218807",
+      "census2001": "",
+      "name": {
+        "en": "Basahia Shekh",
+        "hi": "Basahia Shekh",
+        "mai": "Basahia Shekh"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100891",
+        "en": "Basahiya Shaikh",
+        "hi": "बसहिया शेख",
+        "mai": "बसहिया शेख"
+      },
+      "demographics": {
+        "population": 639,
+        "male": 322,
+        "female": 317,
+        "households": 138,
+        "literacyRate": 50.4
+      }
+    },
+    {
+      "code": "218779",
+      "census2011": "218779",
+      "census2001": "",
+      "name": {
+        "en": "Basant Jagjiwan",
+        "hi": "Basant Jagjiwan",
+        "mai": "Basant Jagjiwan"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100904",
+        "en": "Basant Jagjiwan",
+        "hi": "बसंत जगजीवन",
+        "mai": "बसंत जगजीवन"
+      },
+      "demographics": {
+        "population": 777,
+        "male": 394,
+        "female": 383,
+        "households": 150,
+        "literacyRate": 72.3
+      }
+    },
+    {
+      "code": "218935",
+      "census2011": "218935",
+      "census2001": "",
+      "name": {
+        "en": "Basant Param",
+        "hi": "Basant Param",
+        "mai": "Basant Param"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100920",
+        "en": "Vrindavan",
+        "hi": "वृन्दावन",
+        "mai": "वृन्दावन"
+      },
+      "demographics": {
+        "population": 3592,
+        "male": 1800,
+        "female": 1792,
+        "households": 625,
+        "literacyRate": 50.1
+      }
+    },
+    {
+      "code": "218780",
+      "census2011": "218780",
+      "census2001": "",
+      "name": {
+        "en": "Basant Patti",
+        "hi": "Basant Patti",
+        "mai": "Basant Patti"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100905",
+        "en": "Basantpatti",
+        "hi": "बसंत पट्टी",
+        "mai": "बसंत पट्टी"
+      },
+      "demographics": {
+        "population": 1681,
+        "male": 864,
+        "female": 817,
+        "households": 325,
+        "literacyRate": 53.3
+      }
+    },
+    {
+      "code": "218951",
+      "census2011": "218951",
+      "census2001": "",
+      "name": {
+        "en": "Basarpur Urf Nasirpur",
+        "hi": "Basarpur Urf Nasirpur",
+        "mai": "Basarpur Urf Nasirpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100921",
+        "en": "Chhatauni",
+        "hi": "छतौनी",
+        "mai": "छतौनी"
+      },
+      "demographics": {
+        "population": 851,
+        "male": 434,
+        "female": 417,
+        "households": 162,
+        "literacyRate": 72.1
+      }
+    },
+    {
+      "code": "218778",
+      "census2011": "218778",
+      "census2001": "",
+      "name": {
+        "en": "Bedaul Adam",
+        "hi": "Bedaul Adam",
+        "mai": "Bedaul Adam"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100905",
+        "en": "Basantpatti",
+        "hi": "बसंत पट्टी",
+        "mai": "बसंत पट्टी"
+      },
+      "demographics": {
+        "population": 2284,
+        "male": 1196,
+        "female": 1088,
+        "households": 396,
+        "literacyRate": 56.2
+      }
+    },
+    {
+      "code": "218776",
+      "census2011": "218776",
+      "census2001": "",
+      "name": {
+        "en": "Bedaul Baz",
+        "hi": "Bedaul Baz",
+        "mai": "Bedaul Baz"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100905",
+        "en": "Basantpatti",
+        "hi": "बसंत पट्टी",
+        "mai": "बसंत पट्टी"
+      },
+      "demographics": {
+        "population": 2200,
+        "male": 1107,
+        "female": 1093,
+        "households": 426,
+        "literacyRate": 70.9
+      }
+    },
+    {
+      "code": "218921",
+      "census2011": "218921",
+      "census2001": "",
+      "name": {
+        "en": "Belahi Dullah",
+        "hi": "Belahi Dullah",
+        "mai": "Belahi Dullah"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100928",
+        "en": "Salempur",
+        "hi": "सलेमपुर",
+        "mai": "सलेमपुर"
+      },
+      "demographics": {
+        "population": 4163,
+        "male": 2186,
+        "female": 1977,
+        "households": 900,
+        "literacyRate": 69.4
+      }
+    },
+    {
+      "code": "218906",
+      "census2011": "218906",
+      "census2001": "",
+      "name": {
+        "en": "Belahi Urf Balha Baijnathpur",
+        "hi": "Belahi Urf Balha Baijnathpur",
+        "mai": "Belahi Urf Balha Baijnathpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100919",
+        "en": "Belahiyan",
+        "hi": "बेलहिया",
+        "mai": "बेलहिया"
+      },
+      "demographics": {
+        "population": 2078,
+        "male": 1090,
+        "female": 988,
+        "households": 443,
+        "literacyRate": 59.5
+      }
+    },
+    {
+      "code": "218805",
+      "census2011": "218805",
+      "census2001": "",
+      "name": {
+        "en": "Belwa Narkatia Bandobasti",
+        "hi": "Belwa Narkatia Bandobasti",
+        "mai": "Belwa Narkatia Bandobasti"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100892",
+        "en": "Belwa",
+        "hi": "बेलवा",
+        "mai": "बेलवा"
+      },
+      "demographics": {
+        "population": 3438,
+        "male": 1745,
+        "female": 1693,
+        "households": 712,
+        "literacyRate": 59.5
+      }
+    },
+    {
+      "code": "218804",
+      "census2011": "218804",
+      "census2001": "",
+      "name": {
+        "en": "Belwa Narkatia Nizamat",
+        "hi": "Belwa Narkatia Nizamat",
+        "mai": "Belwa Narkatia Nizamat"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100892",
+        "en": "Belwa",
+        "hi": "बेलवा",
+        "mai": "बेलवा"
+      },
+      "demographics": {
+        "population": 4179,
+        "male": 2115,
+        "female": 2064,
+        "households": 870,
+        "literacyRate": 72.2
+      }
+    },
+    {
+      "code": "218844",
+      "census2011": "218844",
+      "census2001": "",
+      "name": {
+        "en": "Bhagwanpur Bheli",
+        "hi": "Bhagwanpur Bheli",
+        "mai": "Bhagwanpur Bheli"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100915",
+        "en": "Sarsaula Khurd",
+        "hi": "सरसौला खूर्द",
+        "mai": "सरसौला खूर्द"
+      },
+      "demographics": {
+        "population": 4405,
+        "male": 2205,
+        "female": 2200,
+        "households": 820,
+        "literacyRate": 51.3
+      }
+    },
+    {
+      "code": "218825",
+      "census2011": "218825",
+      "census2001": "",
+      "name": {
+        "en": "Bhagwanpur Bheli Nankar",
+        "hi": "Bhagwanpur Bheli Nankar",
+        "mai": "Bhagwanpur Bheli Nankar"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100912",
+        "en": "Malipokhar Bhinda",
+        "hi": "मालीपोखर भिंडा",
+        "mai": "मालीपोखर भिंडा"
+      },
+      "demographics": {
+        "population": 3634,
+        "male": 1825,
+        "female": 1809,
+        "households": 707,
+        "literacyRate": 50.7
+      }
+    },
+    {
+      "code": "218861",
+      "census2011": "218861",
+      "census2001": "",
+      "name": {
+        "en": "Bhaluahi",
+        "hi": "Bhaluahi",
+        "mai": "Bhaluahi"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 1469,
+        "male": 735,
+        "female": 734,
+        "households": 292,
+        "literacyRate": 45.5
+      }
+    },
+    {
+      "code": "218859",
+      "census2011": "218859",
+      "census2001": "",
+      "name": {
+        "en": "Bhaluahi Urf Pharuaha",
+        "hi": "Bhaluahi Urf Pharuaha",
+        "mai": "Bhaluahi Urf Pharuaha"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 3990,
+        "male": 2102,
+        "female": 1888,
+        "households": 842,
+        "literacyRate": 69.9
+      }
+    },
+    {
+      "code": "218910",
+      "census2011": "218910",
+      "census2001": "",
+      "name": {
+        "en": "Bhandiha",
+        "hi": "Bhandiha",
+        "mai": "Bhandiha"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100919",
+        "en": "Belahiyan",
+        "hi": "बेलहिया",
+        "mai": "बेलहिया"
+      },
+      "demographics": {
+        "population": 944,
+        "male": 492,
+        "female": 452,
+        "households": 190,
+        "literacyRate": 71.4
+      }
+    },
+    {
+      "code": "218876",
+      "census2011": "218876",
+      "census2001": "",
+      "name": {
+        "en": "Bhatha",
+        "hi": "Bhatha",
+        "mai": "Bhatha"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100888",
+        "en": "Shyampur",
+        "hi": "श्यामपुर",
+        "mai": "श्यामपुर"
+      },
+      "demographics": {
+        "population": 3961,
+        "male": 2066,
+        "female": 1895,
+        "households": 713,
+        "literacyRate": 56
+      }
+    },
+    {
+      "code": "218872",
+      "census2011": "218872",
+      "census2001": "",
+      "name": {
+        "en": "Bhorha Mohanpur",
+        "hi": "Bhorha Mohanpur",
+        "mai": "Bhorha Mohanpur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100885",
+        "en": "Nayagaon (W)",
+        "hi": "नयागॉव पश्चिमी",
+        "mai": "नयागॉव पश्चिमी"
+      },
+      "demographics": {
+        "population": 3824,
+        "male": 1923,
+        "female": 1901,
+        "households": 663,
+        "literacyRate": 70.8
+      }
+    },
+    {
+      "code": "218936",
+      "census2011": "218936",
+      "census2001": "",
+      "name": {
+        "en": "Bindraban",
+        "hi": "Bindraban",
+        "mai": "Bindraban"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100920",
+        "en": "Vrindavan",
+        "hi": "वृन्दावन",
+        "mai": "वृन्दावन"
+      },
+      "demographics": {
+        "population": 5297,
+        "male": 2658,
+        "female": 2639,
+        "households": 932,
+        "literacyRate": 66.5
+      }
+    },
+    {
+      "code": "218873",
+      "census2011": "218873",
+      "census2001": "",
+      "name": {
+        "en": "Bira Chhapra",
+        "hi": "Bira Chhapra",
+        "mai": "Bira Chhapra"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100885",
+        "en": "Nayagaon (W)",
+        "hi": "नयागॉव पश्चिमी",
+        "mai": "नयागॉव पश्चिमी"
+      },
+      "demographics": {
+        "population": 2800,
+        "male": 1451,
+        "female": 1349,
+        "households": 572,
+        "literacyRate": 72.5
+      }
+    },
+    {
+      "code": "218823",
+      "census2011": "218823",
+      "census2001": "",
+      "name": {
+        "en": "Bisahi",
+        "hi": "Bisahi",
+        "mai": "Bisahi"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100912",
+        "en": "Malipokhar Bhinda",
+        "hi": "मालीपोखर भिंडा",
+        "mai": "मालीपोखर भिंडा"
+      },
+      "demographics": {
+        "population": 2392,
+        "male": 1251,
+        "female": 1141,
+        "households": 465,
+        "literacyRate": 53.7
+      }
+    },
+    {
+      "code": "218911",
+      "census2011": "218911",
+      "census2001": "",
+      "name": {
+        "en": "Bisambharpur",
+        "hi": "Bisambharpur",
+        "mai": "Bisambharpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100933",
+        "en": "Vishwmbharpur",
+        "hi": "विश्वम्भरपुर",
+        "mai": "विश्वम्भरपुर"
+      },
+      "demographics": {
+        "population": 6025,
+        "male": 3079,
+        "female": 2946,
+        "households": 1303,
+        "literacyRate": 54.6
+      }
+    },
+    {
+      "code": "218942",
+      "census2011": "218942",
+      "census2001": "",
+      "name": {
+        "en": "Bishunpur Bindi",
+        "hi": "Bishunpur Bindi",
+        "mai": "Bishunpur Bindi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100921",
+        "en": "Chhatauni",
+        "hi": "छतौनी",
+        "mai": "छतौनी"
+      },
+      "demographics": {
+        "population": 4444,
+        "male": 2323,
+        "female": 2121,
+        "households": 911,
+        "literacyRate": 64.6
+      }
+    },
+    {
+      "code": "218939",
+      "census2011": "218939",
+      "census2001": "",
+      "name": {
+        "en": "Bishunpur Dharanand",
+        "hi": "Bishunpur Dharanand",
+        "mai": "Bishunpur Dharanand"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100921",
+        "en": "Chhatauni",
+        "hi": "छतौनी",
+        "mai": "छतौनी"
+      },
+      "demographics": {
+        "population": 5925,
+        "male": 2973,
+        "female": 2952,
+        "households": 1191,
+        "literacyRate": 47.8
+      }
+    },
+    {
+      "code": "218938",
+      "census2011": "218938",
+      "census2001": "",
+      "name": {
+        "en": "Bishunpur Fakira",
+        "hi": "Bishunpur Fakira",
+        "mai": "Bishunpur Fakira"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100921",
+        "en": "Chhatauni",
+        "hi": "छतौनी",
+        "mai": "छतौनी"
+      },
+      "demographics": {
+        "population": 3835,
+        "male": 1972,
+        "female": 1863,
+        "households": 675,
+        "literacyRate": 65.7
+      }
+    },
+    {
+      "code": "218843",
+      "census2011": "218843",
+      "census2001": "",
+      "name": {
+        "en": "Bishunpur Kishundeo",
+        "hi": "Bishunpur Kishundeo",
+        "mai": "Bishunpur Kishundeo"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100915",
+        "en": "Sarsaula Khurd",
+        "hi": "सरसौला खूर्द",
+        "mai": "सरसौला खूर्द"
+      },
+      "demographics": {
+        "population": 6739,
+        "male": 3449,
+        "female": 3290,
+        "households": 1322,
+        "literacyRate": 70.6
+      }
+    },
+    {
+      "code": "218857",
+      "census2011": "218857",
+      "census2001": "",
+      "name": {
+        "en": "Bishunpur Maniari",
+        "hi": "Bishunpur Maniari",
+        "mai": "Bishunpur Maniari"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 2752,
+        "male": 1432,
+        "female": 1320,
+        "households": 490,
+        "literacyRate": 46.8
+      }
+    },
+    {
+      "code": "218917",
+      "census2011": "218917",
+      "census2001": "",
+      "name": {
+        "en": "Bochhan Urf Az Rakbe Pojhian",
+        "hi": "Bochhan Urf Az Rakbe Pojhian",
+        "mai": "Bochhan Urf Az Rakbe Pojhian"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100927",
+        "en": "Pojhiyan",
+        "hi": "पोझिया",
+        "mai": "पोझिया"
+      },
+      "demographics": {
+        "population": 4066,
+        "male": 2039,
+        "female": 2027,
+        "households": 728,
+        "literacyRate": 65.9
+      }
+    },
+    {
+      "code": "218833",
+      "census2011": "218833",
+      "census2001": "",
+      "name": {
+        "en": "Chak Bishunpur",
+        "hi": "Chak Bishunpur",
+        "mai": "Chak Bishunpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100908",
+        "en": "Chamanpur",
+        "hi": "चमनपुर",
+        "mai": "चमनपुर"
+      },
+      "demographics": {
+        "population": 1409,
+        "male": 737,
+        "female": 672,
+        "households": 268,
+        "literacyRate": 56.1
+      }
+    },
+    {
+      "code": "218794",
+      "census2011": "218794",
+      "census2001": "",
+      "name": {
+        "en": "Chak Fateh",
+        "hi": "Chak Fateh",
+        "mai": "Chak Fateh"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100892",
+        "en": "Belwa",
+        "hi": "बेलवा",
+        "mai": "बेलवा"
+      },
+      "demographics": {
+        "population": 5476,
+        "male": 2743,
+        "female": 2733,
+        "households": 1135,
+        "literacyRate": 65.3
+      }
+    },
+    {
+      "code": "218775",
+      "census2011": "218775",
+      "census2001": "",
+      "name": {
+        "en": "Chak Sonaul",
+        "hi": "Chak Sonaul",
+        "mai": "Chak Sonaul"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100904",
+        "en": "Basant Jagjiwan",
+        "hi": "बसंत जगजीवन",
+        "mai": "बसंत जगजीवन"
+      },
+      "demographics": {
+        "population": 4412,
+        "male": 2241,
+        "female": 2171,
+        "households": 858,
+        "literacyRate": 63.8
+      }
+    },
+    {
+      "code": "218893",
+      "census2011": "218893",
+      "census2001": "",
+      "name": {
+        "en": "Chak Surgahi",
+        "hi": "Chak Surgahi",
+        "mai": "Chak Surgahi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100931",
+        "en": "Surgahi",
+        "hi": "सुरगाही",
+        "mai": "सुरगाही"
+      },
+      "demographics": {
+        "population": 4753,
+        "male": 2459,
+        "female": 2294,
+        "households": 956,
+        "literacyRate": 49
+      }
+    },
+    {
+      "code": "959574",
+      "census2011": "959574",
+      "census2001": "",
+      "name": {
+        "en": "Chakfateha",
+        "hi": "Chakfateha",
+        "mai": "Chakfateha"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "Barahi Jagdish",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 3028,
+        "male": 1591,
+        "female": 1437,
+        "households": 601,
+        "literacyRate": 68.4
+      }
+    },
+    {
+      "code": "218832",
+      "census2011": "218832",
+      "census2001": "",
+      "name": {
+        "en": "Chamanpur",
+        "hi": "Chamanpur",
+        "mai": "Chamanpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100908",
+        "en": "Chamanpur",
+        "hi": "चमनपुर",
+        "mai": "चमनपुर"
+      },
+      "demographics": {
+        "population": 1805,
+        "male": 931,
+        "female": 874,
+        "households": 315,
+        "literacyRate": 61.3
+      }
+    },
+    {
+      "code": "218797",
+      "census2011": "218797",
+      "census2001": "",
+      "name": {
+        "en": "Chatauna Urf Gopinathpur",
+        "hi": "Chatauna Urf Gopinathpur",
+        "mai": "Chatauna Urf Gopinathpur"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100898",
+        "en": "Mohanpur",
+        "hi": "मोहनपुर",
+        "mai": "मोहनपुर"
+      },
+      "demographics": {
+        "population": 3229,
+        "male": 1624,
+        "female": 1605,
+        "households": 685,
+        "literacyRate": 70.3
+      }
+    },
+    {
+      "code": "218969",
+      "census2011": "218969",
+      "census2001": "",
+      "name": {
+        "en": "Chhapra",
+        "hi": "Chhapra",
+        "mai": "Chhapra"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100932",
+        "en": "Tariyani Chhapra",
+        "hi": "तरियानी छपरा",
+        "mai": "तरियानी छपरा"
+      },
+      "demographics": {
+        "population": 2835,
+        "male": 1472,
+        "female": 1363,
+        "households": 604,
+        "literacyRate": 64
+      }
+    },
+    {
+      "code": "218858",
+      "census2011": "218858",
+      "census2001": "",
+      "name": {
+        "en": "Chhapra Gobindpur Urf Gopinathpur",
+        "hi": "Chhapra Gobindpur Urf Gopinathpur",
+        "mai": "Chhapra Gobindpur Urf Gopinathpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 2949,
+        "male": 1545,
+        "female": 1404,
+        "households": 615,
+        "literacyRate": 55.5
+      }
+    },
+    {
+      "code": "218771",
+      "census2011": "218771",
+      "census2001": "",
+      "name": {
+        "en": "Chhapra Jurawan",
+        "hi": "Chhapra Jurawan",
+        "mai": "Chhapra Jurawan"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100901",
+        "en": "Adouri",
+        "hi": "अदौरी",
+        "mai": "अदौरी"
+      },
+      "demographics": {
+        "population": 4370,
+        "male": 2192,
+        "female": 2178,
+        "households": 864,
+        "literacyRate": 45.4
+      }
+    },
+    {
+      "code": "218937",
+      "census2011": "218937",
+      "census2001": "",
+      "name": {
+        "en": "Chhatauni",
+        "hi": "Chhatauni",
+        "mai": "Chhatauni"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100921",
+        "en": "Chhatauni",
+        "hi": "छतौनी",
+        "mai": "छतौनी"
+      },
+      "demographics": {
+        "population": 3808,
+        "male": 1949,
+        "female": 1859,
+        "households": 825,
+        "literacyRate": 47.1
+      }
+    },
+    {
+      "code": "218836",
+      "census2011": "218836",
+      "census2001": "",
+      "name": {
+        "en": "Chiknauta",
+        "hi": "Chiknauta",
+        "mai": "Chiknauta"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100909",
+        "en": "Harnahi",
+        "hi": "हरनाही",
+        "mai": "हरनाही"
+      },
+      "demographics": {
+        "population": 3029,
+        "male": 1535,
+        "female": 1494,
+        "households": 653,
+        "literacyRate": 66.6
+      }
+    },
+    {
+      "code": "218772",
+      "census2011": "218772",
+      "census2001": "",
+      "name": {
+        "en": "Chiraiya",
+        "hi": "Chiraiya",
+        "mai": "Chiraiya"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100901",
+        "en": "Adouri",
+        "hi": "अदौरी",
+        "mai": "अदौरी"
+      },
+      "demographics": {
+        "population": 3211,
+        "male": 1621,
+        "female": 1590,
+        "households": 602,
+        "literacyRate": 56.5
+      }
+    },
+    {
+      "code": "218772",
+      "census2011": "218772",
+      "census2001": "",
+      "name": {
+        "en": "Chiraiya",
+        "hi": "Chiraiya",
+        "mai": "Chiraiya"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100902",
+        "en": "Bakhar Chandiha",
+        "hi": "बखार चंडीहा",
+        "mai": "बखार चंडीहा"
+      },
+      "demographics": {
+        "population": 3211,
+        "male": 1621,
+        "female": 1590,
+        "households": 602,
+        "literacyRate": 56.5
+      }
+    },
+    {
+      "code": "218852",
+      "census2011": "218852",
+      "census2001": "",
+      "name": {
+        "en": "Daud Chhapra",
+        "hi": "Daud Chhapra",
+        "mai": "Daud Chhapra"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100910",
+        "en": "Khairwadarp",
+        "hi": "खैरवा दर्प",
+        "mai": "खैरवा दर्प"
+      },
+      "demographics": {
+        "population": 2023,
+        "male": 1037,
+        "female": 986,
+        "households": 430,
+        "literacyRate": 66.7
+      }
+    },
+    {
+      "code": "950913",
+      "census2011": "950913",
+      "census2001": "",
+      "name": {
+        "en": "Daud Chhapra",
+        "hi": "Daud Chhapra",
+        "mai": "Daud Chhapra"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 2383,
+        "male": 1249,
+        "female": 1134,
+        "households": 419,
+        "literacyRate": 62.2
+      }
+    },
+    {
+      "code": "218869",
+      "census2011": "218869",
+      "census2001": "",
+      "name": {
+        "en": "Dhanhara Urf Dharampur",
+        "hi": "Dhanhara Urf Dharampur",
+        "mai": "Dhanhara Urf Dharampur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100884",
+        "en": "Nayagaon (E)",
+        "hi": "नयागॉव पूर्वी",
+        "mai": "नयागॉव पूर्वी"
+      },
+      "demographics": {
+        "population": 1031,
+        "male": 535,
+        "female": 496,
+        "households": 215,
+        "literacyRate": 45.3
+      }
+    },
+    {
+      "code": "218812",
+      "census2011": "218812",
+      "census2001": "",
+      "name": {
+        "en": "Dhankaul",
+        "hi": "Dhankaul",
+        "mai": "Dhankaul"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100893",
+        "en": "Dhankaul",
+        "hi": "धनकौल",
+        "mai": "धनकौल"
+      },
+      "demographics": {
+        "population": 1687,
+        "male": 871,
+        "female": 816,
+        "households": 326,
+        "literacyRate": 64.3
+      }
+    },
+    {
+      "code": "218814",
+      "census2011": "218814",
+      "census2001": "",
+      "name": {
+        "en": "Dharampur Dekuli",
+        "hi": "Dharampur Dekuli",
+        "mai": "Dharampur Dekuli"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100899",
+        "en": "Parsauni Baij",
+        "hi": "परसौनी बैज",
+        "mai": "परसौनी बैज"
+      },
+      "demographics": {
+        "population": 2736,
+        "male": 1400,
+        "female": 1336,
+        "households": 516,
+        "literacyRate": 61.9
+      }
+    },
+    {
+      "code": "218828",
+      "census2011": "218828",
+      "census2001": "",
+      "name": {
+        "en": "Dharampur Rajwan Bandobasti",
+        "hi": "Dharampur Rajwan Bandobasti",
+        "mai": "Dharampur Rajwan Bandobasti"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100915",
+        "en": "Sarsaula Khurd",
+        "hi": "सरसौला खूर्द",
+        "mai": "सरसौला खूर्द"
+      },
+      "demographics": {
+        "population": 2968,
+        "male": 1506,
+        "female": 1462,
+        "households": 624,
+        "literacyRate": 64
+      }
+    },
+    {
+      "code": "218829",
+      "census2011": "218829",
+      "census2001": "",
+      "name": {
+        "en": "Dharampur Rajwan Mal",
+        "hi": "Dharampur Rajwan Mal",
+        "mai": "Dharampur Rajwan Mal"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100915",
+        "en": "Sarsaula Khurd",
+        "hi": "सरसौला खूर्द",
+        "mai": "सरसौला खूर्द"
+      },
+      "demographics": {
+        "population": 5884,
+        "male": 2975,
+        "female": 2909,
+        "households": 1079,
+        "literacyRate": 52.5
+      }
+    },
+    {
+      "code": "218875",
+      "census2011": "218875",
+      "census2001": "",
+      "name": {
+        "en": "Diara Shampur",
+        "hi": "Diara Shampur",
+        "mai": "Diara Shampur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100888",
+        "en": "Shyampur",
+        "hi": "श्यामपुर",
+        "mai": "श्यामपुर"
+      },
+      "demographics": {
+        "population": 1818,
+        "male": 930,
+        "female": 888,
+        "households": 349,
+        "literacyRate": 60
+      }
+    },
+    {
+      "code": "218793",
+      "census2011": "218793",
+      "census2001": "",
+      "name": {
+        "en": "Dosti Mahamadpur",
+        "hi": "Dosti Mahamadpur",
+        "mai": "Dosti Mahamadpur"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100906",
+        "en": "Dostiya",
+        "hi": "दोस्तियाँ",
+        "mai": "दोस्तियाँ"
+      },
+      "demographics": {
+        "population": 3968,
+        "male": 2011,
+        "female": 1957,
+        "households": 827,
+        "literacyRate": 45.5
+      }
+    },
+    {
+      "code": "218883",
+      "census2011": "218883",
+      "census2001": "",
+      "name": {
+        "en": "Dumri",
+        "hi": "Dumri",
+        "mai": "Dumri"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100882",
+        "en": "Mahmadpur Katsari",
+        "hi": "महम्मदपुर कटसरी",
+        "mai": "महम्मदपुर कटसरी"
+      },
+      "demographics": {
+        "population": 1836,
+        "male": 929,
+        "female": 907,
+        "households": 339,
+        "literacyRate": 59
+      }
+    },
+    {
+      "code": "218943",
+      "census2011": "218943",
+      "census2001": "",
+      "name": {
+        "en": "Fakapur",
+        "hi": "Fakapur",
+        "mai": "Fakapur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100930",
+        "en": "Sonbarsa",
+        "hi": "सोनबर्षा",
+        "mai": "सोनबर्षा"
+      },
+      "demographics": {
+        "population": 913,
+        "male": 477,
+        "female": 436,
+        "households": 166,
+        "literacyRate": 52.2
+      }
+    },
+    {
+      "code": "218841",
+      "census2011": "218841",
+      "census2001": "",
+      "name": {
+        "en": "Fatehpur",
+        "hi": "Fatehpur",
+        "mai": "Fatehpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245368",
+        "en": "Mathurapur Kahtarwa",
+        "hi": "मथुरापुर कहतरवा",
+        "mai": "मथुरापुर कहतरवा"
+      },
+      "demographics": {
+        "population": 4516,
+        "male": 2381,
+        "female": 2135,
+        "households": 794,
+        "literacyRate": 59.1
+      }
+    },
+    {
+      "code": "931739",
+      "census2011": "931739",
+      "census2001": "",
+      "name": {
+        "en": "Fatehpur",
+        "hi": "Fatehpur",
+        "mai": "Fatehpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "Mathurapur Kahtarwa",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 4383,
+        "male": 2276,
+        "female": 2107,
+        "households": 802,
+        "literacyRate": 62.5
+      }
+    },
+    {
+      "code": "218915",
+      "census2011": "218915",
+      "census2001": "",
+      "name": {
+        "en": "Fatehpur Ghaus",
+        "hi": "Fatehpur Ghaus",
+        "mai": "Fatehpur Ghaus"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100919",
+        "en": "Belahiyan",
+        "hi": "बेलहिया",
+        "mai": "बेलहिया"
+      },
+      "demographics": {
+        "population": 3522,
+        "male": 1817,
+        "female": 1705,
+        "households": 646,
+        "literacyRate": 49.5
+      }
+    },
+    {
+      "code": "218918",
+      "census2011": "218918",
+      "census2001": "",
+      "name": {
+        "en": "Fatehpur Ghauspur",
+        "hi": "Fatehpur Ghauspur",
+        "mai": "Fatehpur Ghauspur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100927",
+        "en": "Pojhiyan",
+        "hi": "पोझिया",
+        "mai": "पोझिया"
+      },
+      "demographics": {
+        "population": 1148,
+        "male": 591,
+        "female": 557,
+        "households": 241,
+        "literacyRate": 59.5
+      }
+    },
+    {
+      "code": "931740",
+      "census2011": "931740",
+      "census2001": "",
+      "name": {
+        "en": "Fatma Chak",
+        "hi": "Fatma Chak",
+        "mai": "Fatma Chak"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "Mirzapur Dhobahi",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 1809,
+        "male": 928,
+        "female": 881,
+        "households": 390,
+        "literacyRate": 61
+      }
+    },
+    {
+      "code": "218880",
+      "census2011": "218880",
+      "census2001": "",
+      "name": {
+        "en": "Firozpur",
+        "hi": "Firozpur",
+        "mai": "Firozpur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100882",
+        "en": "Mahmadpur Katsari",
+        "hi": "महम्मदपुर कटसरी",
+        "mai": "महम्मदपुर कटसरी"
+      },
+      "demographics": {
+        "population": 3043,
+        "male": 1569,
+        "female": 1474,
+        "households": 614,
+        "literacyRate": 68.9
+      }
+    },
+    {
+      "code": "218965",
+      "census2011": "218965",
+      "census2001": "",
+      "name": {
+        "en": "Ganga Dharampur",
+        "hi": "Ganga Dharampur",
+        "mai": "Ganga Dharampur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100923",
+        "en": "Kumahrar",
+        "hi": "कुम्हरार",
+        "mai": "कुम्हरार"
+      },
+      "demographics": {
+        "population": 3673,
+        "male": 1905,
+        "female": 1768,
+        "households": 633,
+        "literacyRate": 48.9
+      }
+    },
+    {
+      "code": "218822",
+      "census2011": "218822",
+      "census2001": "",
+      "name": {
+        "en": "Garahia",
+        "hi": "Garahia",
+        "mai": "Garahia"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100912",
+        "en": "Malipokhar Bhinda",
+        "hi": "मालीपोखर भिंडा",
+        "mai": "मालीपोखर भिंडा"
+      },
+      "demographics": {
+        "population": 1904,
+        "male": 971,
+        "female": 933,
+        "households": 375,
+        "literacyRate": 45.9
+      }
+    },
+    {
+      "code": "218827",
+      "census2011": "218827",
+      "census2001": "",
+      "name": {
+        "en": "Garhwa",
+        "hi": "Garhwa",
+        "mai": "Garhwa"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100908",
+        "en": "Chamanpur",
+        "hi": "चमनपुर",
+        "mai": "चमनपुर"
+      },
+      "demographics": {
+        "population": 2357,
+        "male": 1223,
+        "female": 1134,
+        "households": 480,
+        "literacyRate": 71.3
+      }
+    },
+    {
+      "code": "218885",
+      "census2011": "218885",
+      "census2001": "",
+      "name": {
+        "en": "Gazipur Jaisinghpur",
+        "hi": "Gazipur Jaisinghpur",
+        "mai": "Gazipur Jaisinghpur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100882",
+        "en": "Mahmadpur Katsari",
+        "hi": "महम्मदपुर कटसरी",
+        "mai": "महम्मदपुर कटसरी"
+      },
+      "demographics": {
+        "population": 4332,
+        "male": 2245,
+        "female": 2087,
+        "households": 749,
+        "literacyRate": 55.6
+      }
+    },
+    {
+      "code": "218897",
+      "census2011": "218897",
+      "census2001": "",
+      "name": {
+        "en": "Ghorha",
+        "hi": "Ghorha",
+        "mai": "Ghorha"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100931",
+        "en": "Surgahi",
+        "hi": "सुरगाही",
+        "mai": "सुरगाही"
+      },
+      "demographics": {
+        "population": 1378,
+        "male": 701,
+        "female": 677,
+        "households": 251,
+        "literacyRate": 68.2
+      }
+    },
+    {
+      "code": "218860",
+      "census2011": "218860",
+      "census2001": "",
+      "name": {
+        "en": "Gopaia",
+        "hi": "Gopaia",
+        "mai": "Gopaia"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 2478,
+        "male": 1299,
+        "female": 1179,
+        "households": 536,
+        "literacyRate": 60
+      }
+    },
+    {
+      "code": "218865",
+      "census2011": "218865",
+      "census2001": "",
+      "name": {
+        "en": "Gosainpur Bandobasti",
+        "hi": "Gosainpur Bandobasti",
+        "mai": "Gosainpur Bandobasti"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100881",
+        "en": "Jahangirpur",
+        "hi": "जहाँगीरपुर",
+        "mai": "जहाँगीरपुर"
+      },
+      "demographics": {
+        "population": 5216,
+        "male": 2644,
+        "female": 2572,
+        "households": 998,
+        "literacyRate": 58.8
+      }
+    },
+    {
+      "code": "218867",
+      "census2011": "218867",
+      "census2001": "",
+      "name": {
+        "en": "Gosainpur Mal",
+        "hi": "Gosainpur Mal",
+        "mai": "Gosainpur Mal"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100881",
+        "en": "Jahangirpur",
+        "hi": "जहाँगीरपुर",
+        "mai": "जहाँगीरपुर"
+      },
+      "demographics": {
+        "population": 1617,
+        "male": 850,
+        "female": 767,
+        "households": 293,
+        "literacyRate": 59.5
+      }
+    },
+    {
+      "code": "218866",
+      "census2011": "218866",
+      "census2001": "",
+      "name": {
+        "en": "Gosainpur Nilami",
+        "hi": "Gosainpur Nilami",
+        "mai": "Gosainpur Nilami"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100881",
+        "en": "Jahangirpur",
+        "hi": "जहाँगीरपुर",
+        "mai": "जहाँगीरपुर"
+      },
+      "demographics": {
+        "population": 4536,
+        "male": 2274,
+        "female": 2262,
+        "households": 783,
+        "literacyRate": 47.8
+      }
+    },
+    {
+      "code": "218901",
+      "census2011": "218901",
+      "census2001": "",
+      "name": {
+        "en": "Gularia",
+        "hi": "Gularia",
+        "mai": "Gularia"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100931",
+        "en": "Surgahi",
+        "hi": "सुरगाही",
+        "mai": "सुरगाही"
+      },
+      "demographics": {
+        "population": 695,
+        "male": 359,
+        "female": 336,
+        "households": 134,
+        "literacyRate": 71.8
+      }
+    },
+    {
+      "code": "218853",
+      "census2011": "218853",
+      "census2001": "",
+      "name": {
+        "en": "Hanumannagar",
+        "hi": "Hanumannagar",
+        "mai": "Hanumannagar"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245368",
+        "en": "Mathurapur Kahtarwa",
+        "hi": "मथुरापुर कहतरवा",
+        "mai": "मथुरापुर कहतरवा"
+      },
+      "demographics": {
+        "population": 2112,
+        "male": 1117,
+        "female": 995,
+        "households": 379,
+        "literacyRate": 46
+      }
+    },
+    {
+      "code": "218818",
+      "census2011": "218818",
+      "census2001": "",
+      "name": {
+        "en": "Harkarwa",
+        "hi": "Harkarwa",
+        "mai": "Harkarwa"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100894",
+        "en": "Kamrauli",
+        "hi": "कमरौली",
+        "mai": "कमरौली"
+      },
+      "demographics": {
+        "population": 886,
+        "male": 451,
+        "female": 435,
+        "households": 158,
+        "literacyRate": 67.2
+      }
+    },
+    {
+      "code": "218837",
+      "census2011": "218837",
+      "census2001": "",
+      "name": {
+        "en": "Harnahi",
+        "hi": "Harnahi",
+        "mai": "Harnahi"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100909",
+        "en": "Harnahi",
+        "hi": "हरनाही",
+        "mai": "हरनाही"
+      },
+      "demographics": {
+        "population": 4111,
+        "male": 2077,
+        "female": 2034,
+        "households": 852,
+        "literacyRate": 65.1
+      }
+    },
+    {
+      "code": "218813",
+      "census2011": "218813",
+      "census2001": "",
+      "name": {
+        "en": "Harpur",
+        "hi": "Harpur",
+        "mai": "Harpur"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100893",
+        "en": "Dhankaul",
+        "hi": "धनकौल",
+        "mai": "धनकौल"
+      },
+      "demographics": {
+        "population": 3635,
+        "male": 1837,
+        "female": 1798,
+        "households": 628,
+        "literacyRate": 53.2
+      }
+    },
+    {
+      "code": "218783",
+      "census2011": "218783",
+      "census2001": "",
+      "name": {
+        "en": "Hathsar",
+        "hi": "Hathsar",
+        "mai": "Hathsar"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100907",
+        "en": "Kolhua Thikha",
+        "hi": "कोल्हुआ ठीकहाँ",
+        "mai": "कोल्हुआ ठीकहाँ"
+      },
+      "demographics": {
+        "population": 2421,
+        "male": 1216,
+        "female": 1205,
+        "households": 425,
+        "literacyRate": 68.1
+      }
+    },
+    {
+      "code": "218926",
+      "census2011": "218926",
+      "census2001": "",
+      "name": {
+        "en": "Hiramma",
+        "hi": "Hiramma",
+        "mai": "Hiramma"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100927",
+        "en": "Pojhiyan",
+        "hi": "पोझिया",
+        "mai": "पोझिया"
+      },
+      "demographics": {
+        "population": 6505,
+        "male": 3382,
+        "female": 3123,
+        "households": 1257,
+        "literacyRate": 54.6
+      }
+    },
+    {
+      "code": "218924",
+      "census2011": "218924",
+      "census2001": "",
+      "name": {
+        "en": "Hirauta Duma",
+        "hi": "Hirauta Duma",
+        "mai": "Hirauta Duma"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100922",
+        "en": "Hirauta Dumma",
+        "hi": "हिरौता दुम्मा",
+        "mai": "हिरौता दुम्मा"
+      },
+      "demographics": {
+        "population": 4570,
+        "male": 2328,
+        "female": 2242,
+        "households": 798,
+        "literacyRate": 72.2
+      }
+    },
+    {
+      "code": "218908",
+      "census2011": "218908",
+      "census2001": "",
+      "name": {
+        "en": "Hurraha",
+        "hi": "Hurraha",
+        "mai": "Hurraha"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100933",
+        "en": "Vishwmbharpur",
+        "hi": "विश्वम्भरपुर",
+        "mai": "विश्वम्भरपुर"
+      },
+      "demographics": {
+        "population": 3876,
+        "male": 2015,
+        "female": 1861,
+        "households": 803,
+        "literacyRate": 48.1
+      }
+    },
+    {
+      "code": "218803",
+      "census2011": "218803",
+      "census2001": "",
+      "name": {
+        "en": "Indarwa Khurd",
+        "hi": "Indarwa Khurd",
+        "mai": "Indarwa Khurd"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100892",
+        "en": "Belwa",
+        "hi": "बेलवा",
+        "mai": "बेलवा"
+      },
+      "demographics": {
+        "population": 2019,
+        "male": 1066,
+        "female": 953,
+        "households": 368,
+        "literacyRate": 60.6
+      }
+    },
+    {
+      "code": "218851",
+      "census2011": "218851",
+      "census2001": "",
+      "name": {
+        "en": "Jafarpur",
+        "hi": "Jafarpur",
+        "mai": "Jafarpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100910",
+        "en": "Khairwadarp",
+        "hi": "खैरवा दर्प",
+        "mai": "खैरवा दर्प"
+      },
+      "demographics": {
+        "population": 1800,
+        "male": 927,
+        "female": 873,
+        "households": 364,
+        "literacyRate": 66.8
+      }
+    },
+    {
+      "code": "218959",
+      "census2011": "218959",
+      "census2001": "",
+      "name": {
+        "en": "Jafarpur Urf Sharifnagar",
+        "hi": "Jafarpur Urf Sharifnagar",
+        "mai": "Jafarpur Urf Sharifnagar"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 601,
+        "male": 305,
+        "female": 296,
+        "households": 127,
+        "literacyRate": 45.9
+      }
+    },
+    {
+      "code": "218898",
+      "census2011": "218898",
+      "census2001": "",
+      "name": {
+        "en": "Jagdishpur",
+        "hi": "Jagdishpur",
+        "mai": "Jagdishpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100924",
+        "en": "Khurpatti",
+        "hi": "खुरपट्टी",
+        "mai": "खुरपट्टी"
+      },
+      "demographics": {
+        "population": 3130,
+        "male": 1606,
+        "female": 1524,
+        "households": 571,
+        "literacyRate": 72.9
+      }
+    },
+    {
+      "code": "218963",
+      "census2011": "218963",
+      "census2001": "",
+      "name": {
+        "en": "Jagdishpur",
+        "hi": "Jagdishpur",
+        "mai": "Jagdishpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 708,
+        "male": 366,
+        "female": 342,
+        "households": 122,
+        "literacyRate": 48.2
+      }
+    },
+    {
+      "code": "218864",
+      "census2011": "218864",
+      "census2001": "",
+      "name": {
+        "en": "Jahangirpur",
+        "hi": "Jahangirpur",
+        "mai": "Jahangirpur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100881",
+        "en": "Jahangirpur",
+        "hi": "जहाँगीरपुर",
+        "mai": "जहाँगीरपुर"
+      },
+      "demographics": {
+        "population": 3427,
+        "male": 1718,
+        "female": 1709,
+        "households": 686,
+        "literacyRate": 47
+      }
+    },
+    {
+      "code": "218881",
+      "census2011": "218881",
+      "census2001": "",
+      "name": {
+        "en": "Jhitkahi",
+        "hi": "Jhitkahi",
+        "mai": "Jhitkahi"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100882",
+        "en": "Mahmadpur Katsari",
+        "hi": "महम्मदपुर कटसरी",
+        "mai": "महम्मदपुर कटसरी"
+      },
+      "demographics": {
+        "population": 3591,
+        "male": 1903,
+        "female": 1688,
+        "households": 757,
+        "literacyRate": 70.2
+      }
+    },
+    {
+      "code": "218882",
+      "census2011": "218882",
+      "census2001": "",
+      "name": {
+        "en": "Jhitkahi Bazidpur Daulat",
+        "hi": "Jhitkahi Bazidpur Daulat",
+        "mai": "Jhitkahi Bazidpur Daulat"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100882",
+        "en": "Mahmadpur Katsari",
+        "hi": "महम्मदपुर कटसरी",
+        "mai": "महम्मदपुर कटसरी"
+      },
+      "demographics": {
+        "population": 3958,
+        "male": 2028,
+        "female": 1930,
+        "households": 733,
+        "literacyRate": 63.9
+      }
+    },
+    {
+      "code": "958163",
+      "census2011": "958163",
+      "census2001": "",
+      "name": {
+        "en": "Kalesho Khurd",
+        "hi": "Kalesho Khurd",
+        "mai": "Kalesho Khurd"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "Surgahi",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 867,
+        "male": 456,
+        "female": 411,
+        "households": 169,
+        "literacyRate": 48.5
+      }
+    },
+    {
+      "code": "218817",
+      "census2011": "218817",
+      "census2001": "",
+      "name": {
+        "en": "Kamrauli Jangali",
+        "hi": "Kamrauli Jangali",
+        "mai": "Kamrauli Jangali"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100894",
+        "en": "Kamrauli",
+        "hi": "कमरौली",
+        "mai": "कमरौली"
+      },
+      "demographics": {
+        "population": 3598,
+        "male": 1813,
+        "female": 1785,
+        "households": 715,
+        "literacyRate": 63.9
+      }
+    },
+    {
+      "code": "218856",
+      "census2011": "218856",
+      "census2001": "",
+      "name": {
+        "en": "Kanuani Kalyanpur",
+        "hi": "Kanuani Kalyanpur",
+        "mai": "Kanuani Kalyanpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 6814,
+        "male": 3435,
+        "female": 3379,
+        "households": 1233,
+        "literacyRate": 66.6
+      }
+    },
+    {
+      "code": "218786",
+      "census2011": "218786",
+      "census2001": "",
+      "name": {
+        "en": "Kashipur",
+        "hi": "Kashipur",
+        "mai": "Kashipur"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100900",
+        "en": "Abhirajpur Bairiya",
+        "hi": "अभिराजपुर बैरिया",
+        "mai": "अभिराजपुर बैरिया"
+      },
+      "demographics": {
+        "population": 5915,
+        "male": 3115,
+        "female": 2800,
+        "households": 1070,
+        "literacyRate": 45.4
+      }
+    },
+    {
+      "code": "218895",
+      "census2011": "218895",
+      "census2001": "",
+      "name": {
+        "en": "Kasturia",
+        "hi": "Kasturia",
+        "mai": "Kasturia"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100928",
+        "en": "Salempur",
+        "hi": "सलेमपुर",
+        "mai": "सलेमपुर"
+      },
+      "demographics": {
+        "population": 7336,
+        "male": 3754,
+        "female": 3582,
+        "households": 1408,
+        "literacyRate": 55.8
+      }
+    },
+    {
+      "code": "218791",
+      "census2011": "218791",
+      "census2001": "",
+      "name": {
+        "en": "Kataiya",
+        "hi": "Kataiya",
+        "mai": "Kataiya"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100906",
+        "en": "Dostiya",
+        "hi": "दोस्तियाँ",
+        "mai": "दोस्तियाँ"
+      },
+      "demographics": {
+        "population": 659,
+        "male": 336,
+        "female": 323,
+        "households": 127,
+        "literacyRate": 65.1
+      }
+    },
+    {
+      "code": "958156",
+      "census2011": "958156",
+      "census2001": "",
+      "name": {
+        "en": "Katsari Jagir",
+        "hi": "Katsari Jagir",
+        "mai": "Katsari Jagir"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "Sugia Katsari",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 4224,
+        "male": 2181,
+        "female": 2043,
+        "households": 780,
+        "literacyRate": 46.6
+      }
+    },
+    {
+      "code": "958157",
+      "census2011": "958157",
+      "census2001": "",
+      "name": {
+        "en": "Katuahi",
+        "hi": "Katuahi",
+        "mai": "Katuahi"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "Mirzapur Dhobahi",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 1402,
+        "male": 731,
+        "female": 671,
+        "households": 255,
+        "literacyRate": 51
+      }
+    },
+    {
+      "code": "218792",
+      "census2011": "218792",
+      "census2001": "",
+      "name": {
+        "en": "Khaira Pahari",
+        "hi": "Khaira Pahari",
+        "mai": "Khaira Pahari"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100906",
+        "en": "Dostiya",
+        "hi": "दोस्तियाँ",
+        "mai": "दोस्तियाँ"
+      },
+      "demographics": {
+        "population": 739,
+        "male": 376,
+        "female": 363,
+        "households": 131,
+        "literacyRate": 56.1
+      }
+    },
+    {
+      "code": "218842",
+      "census2011": "218842",
+      "census2001": "",
+      "name": {
+        "en": "Khairwa Darap",
+        "hi": "Khairwa Darap",
+        "mai": "Khairwa Darap"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100910",
+        "en": "Khairwadarp",
+        "hi": "खैरवा दर्प",
+        "mai": "खैरवा दर्प"
+      },
+      "demographics": {
+        "population": 4473,
+        "male": 2308,
+        "female": 2165,
+        "households": 921,
+        "literacyRate": 62.3
+      }
+    },
+    {
+      "code": "950914",
+      "census2011": "950914",
+      "census2001": "",
+      "name": {
+        "en": "Khairwa Darap",
+        "hi": "Khairwa Darap",
+        "mai": "Khairwa Darap"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 2583,
+        "male": 1333,
+        "female": 1250,
+        "households": 484,
+        "literacyRate": 46.7
+      }
+    },
+    {
+      "code": "218914",
+      "census2011": "218914",
+      "census2001": "",
+      "name": {
+        "en": "Khajepur",
+        "hi": "Khajepur",
+        "mai": "Khajepur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100919",
+        "en": "Belahiyan",
+        "hi": "बेलहिया",
+        "mai": "बेलहिया"
+      },
+      "demographics": {
+        "population": 4121,
+        "male": 2120,
+        "female": 2001,
+        "households": 733,
+        "literacyRate": 58.8
+      }
+    },
+    {
+      "code": "218904",
+      "census2011": "218904",
+      "census2001": "",
+      "name": {
+        "en": "Khurpatti",
+        "hi": "Khurpatti",
+        "mai": "Khurpatti"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100924",
+        "en": "Khurpatti",
+        "hi": "खुरपट्टी",
+        "mai": "खुरपट्टी"
+      },
+      "demographics": {
+        "population": 4451,
+        "male": 2303,
+        "female": 2148,
+        "households": 830,
+        "literacyRate": 50.2
+      }
+    },
+    {
+      "code": "218953",
+      "census2011": "218953",
+      "census2001": "",
+      "name": {
+        "en": "Kishunpur Narwara",
+        "hi": "Kishunpur Narwara",
+        "mai": "Kishunpur Narwara"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100926",
+        "en": "Narwara",
+        "hi": "नरवारा",
+        "mai": "नरवारा"
+      },
+      "demographics": {
+        "population": 3974,
+        "male": 2031,
+        "female": 1943,
+        "households": 760,
+        "literacyRate": 51.1
+      }
+    },
+    {
+      "code": "218960",
+      "census2011": "218960",
+      "census2001": "",
+      "name": {
+        "en": "Kishunpur Narwara Tolaramnagar",
+        "hi": "Kishunpur Narwara Tolaramnagar",
+        "mai": "Kishunpur Narwara Tolaramnagar"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 1598,
+        "male": 819,
+        "female": 779,
+        "households": 280,
+        "literacyRate": 69
+      }
+    },
+    {
+      "code": "218954",
+      "census2011": "218954",
+      "census2001": "",
+      "name": {
+        "en": "Kishunpur Urf Narwara",
+        "hi": "Kishunpur Urf Narwara",
+        "mai": "Kishunpur Urf Narwara"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100926",
+        "en": "Narwara",
+        "hi": "नरवारा",
+        "mai": "नरवारा"
+      },
+      "demographics": {
+        "population": 3142,
+        "male": 1571,
+        "female": 1571,
+        "households": 579,
+        "literacyRate": 55.7
+      }
+    },
+    {
+      "code": "218784",
+      "census2011": "218784",
+      "census2001": "",
+      "name": {
+        "en": "Kolhua Thikaha",
+        "hi": "Kolhua Thikaha",
+        "mai": "Kolhua Thikaha"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100907",
+        "en": "Kolhua Thikha",
+        "hi": "कोल्हुआ ठीकहाँ",
+        "mai": "कोल्हुआ ठीकहाँ"
+      },
+      "demographics": {
+        "population": 2823,
+        "male": 1469,
+        "female": 1354,
+        "households": 585,
+        "literacyRate": 47.8
+      }
+    },
+    {
+      "code": "218902",
+      "census2011": "218902",
+      "census2001": "",
+      "name": {
+        "en": "Kolson Kalan",
+        "hi": "Kolson Kalan",
+        "mai": "Kolson Kalan"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100931",
+        "en": "Surgahi",
+        "hi": "सुरगाही",
+        "mai": "सुरगाही"
+      },
+      "demographics": {
+        "population": 6718,
+        "male": 3447,
+        "female": 3271,
+        "households": 1341,
+        "literacyRate": 72.6
+      }
+    },
+    {
+      "code": "218903",
+      "census2011": "218903",
+      "census2001": "",
+      "name": {
+        "en": "Kop Garh",
+        "hi": "Kop Garh",
+        "mai": "Kop Garh"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100931",
+        "en": "Surgahi",
+        "hi": "सुरगाही",
+        "mai": "सुरगाही"
+      },
+      "demographics": {
+        "population": 1711,
+        "male": 892,
+        "female": 819,
+        "households": 312,
+        "literacyRate": 47.9
+      }
+    },
+    {
+      "code": "218899",
+      "census2011": "218899",
+      "census2001": "",
+      "name": {
+        "en": "Kothia",
+        "hi": "Kothia",
+        "mai": "Kothia"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100924",
+        "en": "Khurpatti",
+        "hi": "खुरपट्टी",
+        "mai": "खुरपट्टी"
+      },
+      "demographics": {
+        "population": 2276,
+        "male": 1150,
+        "female": 1126,
+        "households": 395,
+        "literacyRate": 62
+      }
+    },
+    {
+      "code": "218830",
+      "census2011": "218830",
+      "census2001": "",
+      "name": {
+        "en": "Kothia Dharampur Dharamaghat",
+        "hi": "Kothia Dharampur Dharamaghat",
+        "mai": "Kothia Dharampur Dharamaghat"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100915",
+        "en": "Sarsaula Khurd",
+        "hi": "सरसौला खूर्द",
+        "mai": "सरसौला खूर्द"
+      },
+      "demographics": {
+        "population": 2306,
+        "male": 1210,
+        "female": 1096,
+        "households": 478,
+        "literacyRate": 51.9
+      }
+    },
+    {
+      "code": "950917",
+      "census2011": "950917",
+      "census2001": "",
+      "name": {
+        "en": "Kothia Dharampur Dharmagat",
+        "hi": "Kothia Dharampur Dharmagat",
+        "mai": "Kothia Dharampur Dharmagat"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 3607,
+        "male": 1819,
+        "female": 1788,
+        "households": 767,
+        "literacyRate": 47.4
+      }
+    },
+    {
+      "code": "218809",
+      "census2011": "218809",
+      "census2001": "",
+      "name": {
+        "en": "Kuanwan",
+        "hi": "Kuanwan",
+        "mai": "Kuanwan"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100895",
+        "en": "Kuama",
+        "hi": "कुअमा",
+        "mai": "कुअमा"
+      },
+      "demographics": {
+        "population": 1460,
+        "male": 739,
+        "female": 721,
+        "households": 296,
+        "literacyRate": 48.4
+      }
+    },
+    {
+      "code": "218966",
+      "census2011": "218966",
+      "census2001": "",
+      "name": {
+        "en": "Kumhrar",
+        "hi": "Kumhrar",
+        "mai": "Kumhrar"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100923",
+        "en": "Kumahrar",
+        "hi": "कुम्हरार",
+        "mai": "कुम्हरार"
+      },
+      "demographics": {
+        "population": 4221,
+        "male": 2217,
+        "female": 2004,
+        "households": 747,
+        "literacyRate": 48.8
+      }
+    },
+    {
+      "code": "218925",
+      "census2011": "218925",
+      "census2001": "",
+      "name": {
+        "en": "Kurhani",
+        "hi": "Kurhani",
+        "mai": "Kurhani"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100922",
+        "en": "Hirauta Dumma",
+        "hi": "हिरौता दुम्मा",
+        "mai": "हिरौता दुम्मा"
+      },
+      "demographics": {
+        "population": 1845,
+        "male": 923,
+        "female": 922,
+        "households": 343,
+        "literacyRate": 69.8
+      }
+    },
+    {
+      "code": "218819",
+      "census2011": "218819",
+      "census2001": "",
+      "name": {
+        "en": "Kursahar",
+        "hi": "Kursahar",
+        "mai": "Kursahar"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100911",
+        "en": "Kushahar",
+        "hi": "कुशहर",
+        "mai": "कुशहर"
+      },
+      "demographics": {
+        "population": 4578,
+        "male": 2378,
+        "female": 2200,
+        "households": 887,
+        "literacyRate": 51.5
+      }
+    },
+    {
+      "code": "218968",
+      "census2011": "218968",
+      "census2001": "",
+      "name": {
+        "en": "Ladaura",
+        "hi": "Ladaura",
+        "mai": "Ladaura"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100923",
+        "en": "Kumahrar",
+        "hi": "कुम्हरार",
+        "mai": "कुम्हरार"
+      },
+      "demographics": {
+        "population": 1812,
+        "male": 909,
+        "female": 903,
+        "households": 377,
+        "literacyRate": 68.1
+      }
+    },
+    {
+      "code": "218941",
+      "census2011": "218941",
+      "census2001": "",
+      "name": {
+        "en": "Lalpur",
+        "hi": "Lalpur",
+        "mai": "Lalpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100930",
+        "en": "Sonbarsa",
+        "hi": "सोनबर्षा",
+        "mai": "सोनबर्षा"
+      },
+      "demographics": {
+        "population": 1487,
+        "male": 773,
+        "female": 714,
+        "households": 320,
+        "literacyRate": 58.7
+      }
+    },
+    {
+      "code": "218964",
+      "census2011": "218964",
+      "census2001": "",
+      "name": {
+        "en": "Lohsurka Urf Hamidpur",
+        "hi": "Lohsurka Urf Hamidpur",
+        "mai": "Lohsurka Urf Hamidpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100923",
+        "en": "Kumahrar",
+        "hi": "कुम्हरार",
+        "mai": "कुम्हरार"
+      },
+      "demographics": {
+        "population": 1119,
+        "male": 570,
+        "female": 549,
+        "households": 196,
+        "literacyRate": 45.3
+      }
+    },
+    {
+      "code": "218777",
+      "census2011": "218777",
+      "census2001": "",
+      "name": {
+        "en": "Madan Chhapra",
+        "hi": "Madan Chhapra",
+        "mai": "Madan Chhapra"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100904",
+        "en": "Basant Jagjiwan",
+        "hi": "बसंत जगजीवन",
+        "mai": "बसंत जगजीवन"
+      },
+      "demographics": {
+        "population": 2985,
+        "male": 1517,
+        "female": 1468,
+        "households": 598,
+        "literacyRate": 64.1
+      }
+    },
+    {
+      "code": "218845",
+      "census2011": "218845",
+      "census2001": "",
+      "name": {
+        "en": "Madhopur Anant",
+        "hi": "Madhopur Anant",
+        "mai": "Madhopur Anant"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100910",
+        "en": "Khairwadarp",
+        "hi": "खैरवा दर्प",
+        "mai": "खैरवा दर्प"
+      },
+      "demographics": {
+        "population": 4206,
+        "male": 2166,
+        "female": 2040,
+        "households": 891,
+        "literacyRate": 57.8
+      }
+    },
+    {
+      "code": "218920",
+      "census2011": "218920",
+      "census2001": "",
+      "name": {
+        "en": "Madhopur Chhata",
+        "hi": "Madhopur Chhata",
+        "mai": "Madhopur Chhata"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100925",
+        "en": "Madhopur Chhata",
+        "hi": "माधोपुर छाता",
+        "mai": "माधोपुर छाता"
+      },
+      "demographics": {
+        "population": 1604,
+        "male": 835,
+        "female": 769,
+        "households": 288,
+        "literacyRate": 72.8
+      }
+    },
+    {
+      "code": "218887",
+      "census2011": "218887",
+      "census2001": "",
+      "name": {
+        "en": "Madhopur Sundar",
+        "hi": "Madhopur Sundar",
+        "mai": "Madhopur Sundar"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100886",
+        "en": "Phulkahan",
+        "hi": "फूलकाहॅा",
+        "mai": "फूलकाहॅा"
+      },
+      "demographics": {
+        "population": 6843,
+        "male": 3546,
+        "female": 3297,
+        "households": 1269,
+        "literacyRate": 46.2
+      }
+    },
+    {
+      "code": "218884",
+      "census2011": "218884",
+      "census2001": "",
+      "name": {
+        "en": "Mahamadpur Katesri",
+        "hi": "Mahamadpur Katesri",
+        "mai": "Mahamadpur Katesri"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100882",
+        "en": "Mahmadpur Katsari",
+        "hi": "महम्मदपुर कटसरी",
+        "mai": "महम्मदपुर कटसरी"
+      },
+      "demographics": {
+        "population": 2130,
+        "male": 1123,
+        "female": 1007,
+        "households": 446,
+        "literacyRate": 53.4
+      }
+    },
+    {
+      "code": "218879",
+      "census2011": "218879",
+      "census2001": "",
+      "name": {
+        "en": "Mahamadpur Katesri",
+        "hi": "Mahamadpur Katesri",
+        "mai": "Mahamadpur Katesri"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100882",
+        "en": "Mahmadpur Katsari",
+        "hi": "महम्मदपुर कटसरी",
+        "mai": "महम्मदपुर कटसरी"
+      },
+      "demographics": {
+        "population": 4079,
+        "male": 2127,
+        "female": 1952,
+        "households": 718,
+        "literacyRate": 68.4
+      }
+    },
+    {
+      "code": "218900",
+      "census2011": "218900",
+      "census2001": "",
+      "name": {
+        "en": "Mahdewa",
+        "hi": "Mahdewa",
+        "mai": "Mahdewa"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100924",
+        "en": "Khurpatti",
+        "hi": "खुरपट्टी",
+        "mai": "खुरपट्टी"
+      },
+      "demographics": {
+        "population": 5145,
+        "male": 2634,
+        "female": 2511,
+        "households": 922,
+        "literacyRate": 63.9
+      }
+    },
+    {
+      "code": "218834",
+      "census2011": "218834",
+      "census2001": "",
+      "name": {
+        "en": "Mahuaria",
+        "hi": "Mahuaria",
+        "mai": "Mahuaria"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100909",
+        "en": "Harnahi",
+        "hi": "हरनाही",
+        "mai": "हरनाही"
+      },
+      "demographics": {
+        "population": 1440,
+        "male": 751,
+        "female": 689,
+        "households": 299,
+        "literacyRate": 46.2
+      }
+    },
+    {
+      "code": "218810",
+      "census2011": "218810",
+      "census2001": "",
+      "name": {
+        "en": "Majhaura",
+        "hi": "Majhaura",
+        "mai": "Majhaura"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100899",
+        "en": "Parsauni Baij",
+        "hi": "परसौनी बैज",
+        "mai": "परसौनी बैज"
+      },
+      "demographics": {
+        "population": 669,
+        "male": 347,
+        "female": 322,
+        "households": 120,
+        "literacyRate": 72.7
+      }
+    },
+    {
+      "code": "218878",
+      "census2011": "218878",
+      "census2001": "",
+      "name": {
+        "en": "Maksudpur Kararia",
+        "hi": "Maksudpur Kararia",
+        "mai": "Maksudpur Kararia"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100883",
+        "en": "Maksudpur Kararia",
+        "hi": "मकसुदपुर कररिया",
+        "mai": "मकसुदपुर कररिया"
+      },
+      "demographics": {
+        "population": 3587,
+        "male": 1865,
+        "female": 1722,
+        "households": 664,
+        "literacyRate": 52.3
+      }
+    },
+    {
+      "code": "218824",
+      "census2011": "218824",
+      "census2001": "",
+      "name": {
+        "en": "Mali Pokhar Bhinda",
+        "hi": "Mali Pokhar Bhinda",
+        "mai": "Mali Pokhar Bhinda"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100912",
+        "en": "Malipokhar Bhinda",
+        "hi": "मालीपोखर भिंडा",
+        "mai": "मालीपोखर भिंडा"
+      },
+      "demographics": {
+        "population": 4500,
+        "male": 2376,
+        "female": 2124,
+        "households": 939,
+        "literacyRate": 51.9
+      }
+    },
+    {
+      "code": "218961",
+      "census2011": "218961",
+      "census2001": "",
+      "name": {
+        "en": "Manguraha",
+        "hi": "Manguraha",
+        "mai": "Manguraha"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 1517,
+        "male": 761,
+        "female": 756,
+        "households": 301,
+        "literacyRate": 72.9
+      }
+    },
+    {
+      "code": "218800",
+      "census2011": "218800",
+      "census2001": "",
+      "name": {
+        "en": "Masaura",
+        "hi": "Masaura",
+        "mai": "Masaura"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "245367",
+        "en": "Mesaudha",
+        "hi": "मेसौढा",
+        "mai": "मेसौढा"
+      },
+      "demographics": {
+        "population": 3453,
+        "male": 1800,
+        "female": 1653,
+        "households": 623,
+        "literacyRate": 52.6
+      }
+    },
+    {
+      "code": "218886",
+      "census2011": "218886",
+      "census2001": "",
+      "name": {
+        "en": "Masha",
+        "hi": "Masha",
+        "mai": "Masha"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100887",
+        "en": "Rohua",
+        "hi": "रोहुआ",
+        "mai": "रोहुआ"
+      },
+      "demographics": {
+        "population": 3077,
+        "male": 1555,
+        "female": 1522,
+        "households": 633,
+        "literacyRate": 45.5
+      }
+    },
+    {
+      "code": "218854",
+      "census2011": "218854",
+      "census2001": "",
+      "name": {
+        "en": "Mathurapur Kahtarwa",
+        "hi": "Mathurapur Kahtarwa",
+        "mai": "Mathurapur Kahtarwa"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245368",
+        "en": "Mathurapur Kahtarwa",
+        "hi": "मथुरापुर कहतरवा",
+        "mai": "मथुरापुर कहतरवा"
+      },
+      "demographics": {
+        "population": 4090,
+        "male": 2088,
+        "female": 2002,
+        "households": 709,
+        "literacyRate": 58.3
+      }
+    },
+    {
+      "code": "218811",
+      "census2011": "218811",
+      "census2001": "",
+      "name": {
+        "en": "Minapur Balha",
+        "hi": "Minapur Balha",
+        "mai": "Minapur Balha"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100897",
+        "en": "Minapur Balha",
+        "hi": "मीनापुर बलहा",
+        "mai": "मीनापुर बलहा"
+      },
+      "demographics": {
+        "population": 1038,
+        "male": 519,
+        "female": 519,
+        "households": 189,
+        "literacyRate": 45.3
+      }
+    },
+    {
+      "code": "218855",
+      "census2011": "218855",
+      "census2001": "",
+      "name": {
+        "en": "Mirzapur Dhobahi",
+        "hi": "Mirzapur Dhobahi",
+        "mai": "Mirzapur Dhobahi"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 4533,
+        "male": 2319,
+        "female": 2214,
+        "households": 844,
+        "literacyRate": 48.1
+      }
+    },
+    {
+      "code": "218795",
+      "census2011": "218795",
+      "census2001": "",
+      "name": {
+        "en": "Mohanpur",
+        "hi": "Mohanpur",
+        "mai": "Mohanpur"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100898",
+        "en": "Mohanpur",
+        "hi": "मोहनपुर",
+        "mai": "मोहनपुर"
+      },
+      "demographics": {
+        "population": 821,
+        "male": 417,
+        "female": 404,
+        "households": 149,
+        "literacyRate": 57.2
+      }
+    },
+    {
+      "code": "218821",
+      "census2011": "218821",
+      "census2001": "",
+      "name": {
+        "en": "Mohari",
+        "hi": "Mohari",
+        "mai": "Mohari"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100911",
+        "en": "Kushahar",
+        "hi": "कुशहर",
+        "mai": "कुशहर"
+      },
+      "demographics": {
+        "population": 4278,
+        "male": 2153,
+        "female": 2125,
+        "households": 842,
+        "literacyRate": 52.2
+      }
+    },
+    {
+      "code": "958158",
+      "census2011": "958158",
+      "census2001": "",
+      "name": {
+        "en": "Nagar Panchayat Sheohar",
+        "hi": "Nagar Panchayat Sheohar",
+        "mai": "Nagar Panchayat Sheohar"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 2492,
+        "male": 1276,
+        "female": 1216,
+        "households": 491,
+        "literacyRate": 67.1
+      }
+    },
+    {
+      "code": "218967",
+      "census2011": "218967",
+      "census2001": "",
+      "name": {
+        "en": "Nandna",
+        "hi": "Nandna",
+        "mai": "Nandna"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100923",
+        "en": "Kumahrar",
+        "hi": "कुम्हरार",
+        "mai": "कुम्हरार"
+      },
+      "demographics": {
+        "population": 2902,
+        "male": 1457,
+        "female": 1445,
+        "households": 521,
+        "literacyRate": 58.2
+      }
+    },
+    {
+      "code": "218798",
+      "census2011": "218798",
+      "census2001": "",
+      "name": {
+        "en": "Narayanpur",
+        "hi": "Narayanpur",
+        "mai": "Narayanpur"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100895",
+        "en": "Kuama",
+        "hi": "कुअमा",
+        "mai": "कुअमा"
+      },
+      "demographics": {
+        "population": 3182,
+        "male": 1673,
+        "female": 1509,
+        "households": 688,
+        "literacyRate": 58.5
+      }
+    },
+    {
+      "code": "218871",
+      "census2011": "218871",
+      "census2001": "",
+      "name": {
+        "en": "Naya Gaon",
+        "hi": "Naya Gaon",
+        "mai": "Naya Gaon"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100884",
+        "en": "Nayagaon (E)",
+        "hi": "नयागॉव पूर्वी",
+        "mai": "नयागॉव पूर्वी"
+      },
+      "demographics": {
+        "population": 1173,
+        "male": 593,
+        "female": 580,
+        "households": 251,
+        "literacyRate": 70.3
+      }
+    },
+    {
+      "code": "218871",
+      "census2011": "218871",
+      "census2001": "",
+      "name": {
+        "en": "Naya Gaon",
+        "hi": "Naya Gaon",
+        "mai": "Naya Gaon"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100885",
+        "en": "Nayagaon (W)",
+        "hi": "नयागॉव पश्चिमी",
+        "mai": "नयागॉव पश्चिमी"
+      },
+      "demographics": {
+        "population": 1173,
+        "male": 593,
+        "female": 580,
+        "households": 251,
+        "literacyRate": 70.3
+      }
+    },
+    {
+      "code": "218922",
+      "census2011": "218922",
+      "census2001": "",
+      "name": {
+        "en": "Nimahi",
+        "hi": "Nimahi",
+        "mai": "Nimahi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100925",
+        "en": "Madhopur Chhata",
+        "hi": "माधोपुर छाता",
+        "mai": "माधोपुर छाता"
+      },
+      "demographics": {
+        "population": 1530,
+        "male": 801,
+        "female": 729,
+        "households": 325,
+        "literacyRate": 50
+      }
+    },
+    {
+      "code": "218930",
+      "census2011": "218930",
+      "census2001": "",
+      "name": {
+        "en": "Pachra",
+        "hi": "Pachra",
+        "mai": "Pachra"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100927",
+        "en": "Pojhiyan",
+        "hi": "पोझिया",
+        "mai": "पोझिया"
+      },
+      "demographics": {
+        "population": 1129,
+        "male": 586,
+        "female": 543,
+        "households": 227,
+        "literacyRate": 70.8
+      }
+    },
+    {
+      "code": "218946",
+      "census2011": "218946",
+      "census2001": "",
+      "name": {
+        "en": "Pachra Bansi",
+        "hi": "Pachra Bansi",
+        "mai": "Pachra Bansi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100921",
+        "en": "Chhatauni",
+        "hi": "छतौनी",
+        "mai": "छतौनी"
+      },
+      "demographics": {
+        "population": 1646,
+        "male": 847,
+        "female": 799,
+        "households": 350,
+        "literacyRate": 58.8
+      }
+    },
+    {
+      "code": "218949",
+      "census2011": "218949",
+      "census2001": "",
+      "name": {
+        "en": "Pachra Bansi",
+        "hi": "Pachra Bansi",
+        "mai": "Pachra Bansi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100930",
+        "en": "Sonbarsa",
+        "hi": "सोनबर्षा",
+        "mai": "सोनबर्षा"
+      },
+      "demographics": {
+        "population": 1685,
+        "male": 888,
+        "female": 797,
+        "households": 324,
+        "literacyRate": 62.7
+      }
+    },
+    {
+      "code": "218948",
+      "census2011": "218948",
+      "census2001": "",
+      "name": {
+        "en": "Pachra Bansi Arazi",
+        "hi": "Pachra Bansi Arazi",
+        "mai": "Pachra Bansi Arazi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100930",
+        "en": "Sonbarsa",
+        "hi": "सोनबर्षा",
+        "mai": "सोनबर्षा"
+      },
+      "demographics": {
+        "population": 2471,
+        "male": 1282,
+        "female": 1189,
+        "households": 438,
+        "literacyRate": 53
+      }
+    },
+    {
+      "code": "218868",
+      "census2011": "218868",
+      "census2001": "",
+      "name": {
+        "en": "Paharpur",
+        "hi": "Paharpur",
+        "mai": "Paharpur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100881",
+        "en": "Jahangirpur",
+        "hi": "जहाँगीरपुर",
+        "mai": "जहाँगीरपुर"
+      },
+      "demographics": {
+        "population": 3371,
+        "male": 1701,
+        "female": 1670,
+        "households": 686,
+        "literacyRate": 66.8
+      }
+    },
+    {
+      "code": "218962",
+      "census2011": "218962",
+      "census2001": "",
+      "name": {
+        "en": "Paharpur",
+        "hi": "Paharpur",
+        "mai": "Paharpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 7225,
+        "male": 3786,
+        "female": 3439,
+        "households": 1302,
+        "literacyRate": 66.6
+      }
+    },
+    {
+      "code": "218789",
+      "census2011": "218789",
+      "census2001": "",
+      "name": {
+        "en": "Pakri",
+        "hi": "Pakri",
+        "mai": "Pakri"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100900",
+        "en": "Abhirajpur Bairiya",
+        "hi": "अभिराजपुर बैरिया",
+        "mai": "अभिराजपुर बैरिया"
+      },
+      "demographics": {
+        "population": 2793,
+        "male": 1438,
+        "female": 1355,
+        "households": 572,
+        "literacyRate": 59.7
+      }
+    },
+    {
+      "code": "218848",
+      "census2011": "218848",
+      "census2001": "",
+      "name": {
+        "en": "Pardesia Urf Madhubani",
+        "hi": "Pardesia Urf Madhubani",
+        "mai": "Pardesia Urf Madhubani"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100917",
+        "en": "Taj Pur",
+        "hi": "ताजपुर",
+        "mai": "ताजपुर"
+      },
+      "demographics": {
+        "population": 4400,
+        "male": 2299,
+        "female": 2101,
+        "households": 871,
+        "literacyRate": 53.2
+      }
+    },
+    {
+      "code": "218816",
+      "census2011": "218816",
+      "census2001": "",
+      "name": {
+        "en": "Parihara",
+        "hi": "Parihara",
+        "mai": "Parihara"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100899",
+        "en": "Parsauni Baij",
+        "hi": "परसौनी बैज",
+        "mai": "परसौनी बैज"
+      },
+      "demographics": {
+        "population": 7715,
+        "male": 3964,
+        "female": 3751,
+        "households": 1343,
+        "literacyRate": 63.4
+      }
+    },
+    {
+      "code": "218863",
+      "census2011": "218863",
+      "census2001": "",
+      "name": {
+        "en": "Parrahi",
+        "hi": "Parrahi",
+        "mai": "Parrahi"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 4118,
+        "male": 2114,
+        "female": 2004,
+        "households": 819,
+        "literacyRate": 64.5
+      }
+    },
+    {
+      "code": "218815",
+      "census2011": "218815",
+      "census2001": "",
+      "name": {
+        "en": "Parsauni",
+        "hi": "Parsauni",
+        "mai": "Parsauni"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100899",
+        "en": "Parsauni Baij",
+        "hi": "परसौनी बैज",
+        "mai": "परसौनी बैज"
+      },
+      "demographics": {
+        "population": 1657,
+        "male": 866,
+        "female": 791,
+        "households": 339,
+        "literacyRate": 58.2
+      }
+    },
+    {
+      "code": "218826",
+      "census2011": "218826",
+      "census2001": "",
+      "name": {
+        "en": "Parsauni Taiyab",
+        "hi": "Parsauni Taiyab",
+        "mai": "Parsauni Taiyab"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100915",
+        "en": "Sarsaula Khurd",
+        "hi": "सरसौला खूर्द",
+        "mai": "सरसौला खूर्द"
+      },
+      "demographics": {
+        "population": 3770,
+        "male": 1955,
+        "female": 1815,
+        "households": 655,
+        "literacyRate": 55.3
+      }
+    },
+    {
+      "code": "218889",
+      "census2011": "218889",
+      "census2001": "",
+      "name": {
+        "en": "Phulkaha",
+        "hi": "Phulkaha",
+        "mai": "Phulkaha"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100886",
+        "en": "Phulkahan",
+        "hi": "फूलकाहॅा",
+        "mai": "फूलकाहॅा"
+      },
+      "demographics": {
+        "population": 1675,
+        "male": 857,
+        "female": 818,
+        "households": 357,
+        "literacyRate": 65.6
+      }
+    },
+    {
+      "code": "931741",
+      "census2011": "931741",
+      "census2001": "",
+      "name": {
+        "en": "Piprahi",
+        "hi": "Piprahi",
+        "mai": "Piprahi"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "Mesaudha",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 2339,
+        "male": 1201,
+        "female": 1138,
+        "households": 420,
+        "literacyRate": 69.1
+      }
+    },
+    {
+      "code": "950933",
+      "census2011": "950933",
+      "census2001": "",
+      "name": {
+        "en": "Piprahi Sultanapur",
+        "hi": "Piprahi Sultanapur",
+        "mai": "Piprahi Sultanapur"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 4242,
+        "male": 2149,
+        "female": 2093,
+        "households": 782,
+        "literacyRate": 69.6
+      }
+    },
+    {
+      "code": "218801",
+      "census2011": "218801",
+      "census2001": "",
+      "name": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "245367",
+        "en": "Mesaudha",
+        "hi": "मेसौढा",
+        "mai": "मेसौढा"
+      },
+      "demographics": {
+        "population": 1987,
+        "male": 1021,
+        "female": 966,
+        "households": 362,
+        "literacyRate": 67
+      }
+    },
+    {
+      "code": "218916",
+      "census2011": "218916",
+      "census2001": "",
+      "name": {
+        "en": "Pojhian",
+        "hi": "Pojhian",
+        "mai": "Pojhian"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100927",
+        "en": "Pojhiyan",
+        "hi": "पोझिया",
+        "mai": "पोझिया"
+      },
+      "demographics": {
+        "population": 950,
+        "male": 498,
+        "female": 452,
+        "households": 180,
+        "literacyRate": 67.1
+      }
+    },
+    {
+      "code": "218839",
+      "census2011": "218839",
+      "census2001": "",
+      "name": {
+        "en": "Pota",
+        "hi": "Pota",
+        "mai": "Pota"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100909",
+        "en": "Harnahi",
+        "hi": "हरनाही",
+        "mai": "हरनाही"
+      },
+      "demographics": {
+        "population": 2922,
+        "male": 1511,
+        "female": 1411,
+        "households": 535,
+        "literacyRate": 60.6
+      }
+    },
+    {
+      "code": "218781",
+      "census2011": "218781",
+      "census2001": "",
+      "name": {
+        "en": "Purnahia Chandandih",
+        "hi": "Purnahia Chandandih",
+        "mai": "Purnahia Chandandih"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100905",
+        "en": "Basantpatti",
+        "hi": "बसंत पट्टी",
+        "mai": "बसंत पट्टी"
+      },
+      "demographics": {
+        "population": 2531,
+        "male": 1318,
+        "female": 1213,
+        "households": 493,
+        "literacyRate": 71.1
+      }
+    },
+    {
+      "code": "218785",
+      "census2011": "218785",
+      "census2001": "",
+      "name": {
+        "en": "Pursauni Gope",
+        "hi": "Pursauni Gope",
+        "mai": "Pursauni Gope"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100907",
+        "en": "Kolhua Thikha",
+        "hi": "कोल्हुआ ठीकहाँ",
+        "mai": "कोल्हुआ ठीकहाँ"
+      },
+      "demographics": {
+        "population": 2004,
+        "male": 1037,
+        "female": 967,
+        "households": 411,
+        "literacyRate": 47.4
+      }
+    },
+    {
+      "code": "218932",
+      "census2011": "218932",
+      "census2001": "",
+      "name": {
+        "en": "Raja Dih",
+        "hi": "Raja Dih",
+        "mai": "Raja Dih"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100918",
+        "en": "Athkoni",
+        "hi": "अठकोनी",
+        "mai": "अठकोनी"
+      },
+      "demographics": {
+        "population": 2199,
+        "male": 1104,
+        "female": 1095,
+        "households": 438,
+        "literacyRate": 57.8
+      }
+    },
+    {
+      "code": "218891",
+      "census2011": "218891",
+      "census2001": "",
+      "name": {
+        "en": "Ramban",
+        "hi": "Ramban",
+        "mai": "Ramban"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100887",
+        "en": "Rohua",
+        "hi": "रोहुआ",
+        "mai": "रोहुआ"
+      },
+      "demographics": {
+        "population": 2875,
+        "male": 1508,
+        "female": 1367,
+        "households": 516,
+        "literacyRate": 50.1
+      }
+    },
+    {
+      "code": "218862",
+      "census2011": "218862",
+      "census2001": "",
+      "name": {
+        "en": "Rampur Jadu",
+        "hi": "Rampur Jadu",
+        "mai": "Rampur Jadu"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "245369",
+        "en": "Mirzapur Dhobahi",
+        "hi": "मिर्ज़ापुर धोबाहीं",
+        "mai": "मिर्ज़ापुर धोबाहीं"
+      },
+      "demographics": {
+        "population": 2605,
+        "male": 1342,
+        "female": 1263,
+        "households": 484,
+        "literacyRate": 64.4
+      }
+    },
+    {
+      "code": "218888",
+      "census2011": "218888",
+      "census2001": "",
+      "name": {
+        "en": "Rampur Kesho",
+        "hi": "Rampur Kesho",
+        "mai": "Rampur Kesho"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100886",
+        "en": "Phulkahan",
+        "hi": "फूलकाहॅा",
+        "mai": "फूलकाहॅा"
+      },
+      "demographics": {
+        "population": 3205,
+        "male": 1666,
+        "female": 1539,
+        "households": 574,
+        "literacyRate": 49.2
+      }
+    },
+    {
+      "code": "218928",
+      "census2011": "218928",
+      "census2001": "",
+      "name": {
+        "en": "Rampur Khas",
+        "hi": "Rampur Khas",
+        "mai": "Rampur Khas"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100927",
+        "en": "Pojhiyan",
+        "hi": "पोझिया",
+        "mai": "पोझिया"
+      },
+      "demographics": {
+        "population": 3829,
+        "male": 1987,
+        "female": 1842,
+        "households": 662,
+        "literacyRate": 62.4
+      }
+    },
+    {
+      "code": "958159",
+      "census2011": "958159",
+      "census2001": "",
+      "name": {
+        "en": "Rasidpur Nagar Panchayat Sheohar",
+        "hi": "Rasidpur Nagar Panchayat Sheohar",
+        "mai": "Rasidpur Nagar Panchayat Sheohar"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 1471,
+        "male": 750,
+        "female": 721,
+        "households": 275,
+        "literacyRate": 52.8
+      }
+    },
+    {
+      "code": "218799",
+      "census2011": "218799",
+      "census2001": "",
+      "name": {
+        "en": "Ratanpur Bishunpur Jagarnath",
+        "hi": "Ratanpur Bishunpur Jagarnath",
+        "mai": "Ratanpur Bishunpur Jagarnath"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "245367",
+        "en": "Mesaudha",
+        "hi": "मेसौढा",
+        "mai": "मेसौढा"
+      },
+      "demographics": {
+        "population": 2989,
+        "male": 1584,
+        "female": 1405,
+        "households": 531,
+        "literacyRate": 50.6
+      }
+    },
+    {
+      "code": "218929",
+      "census2011": "218929",
+      "census2001": "",
+      "name": {
+        "en": "Rewasi",
+        "hi": "Rewasi",
+        "mai": "Rewasi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100925",
+        "en": "Madhopur Chhata",
+        "hi": "माधोपुर छाता",
+        "mai": "माधोपुर छाता"
+      },
+      "demographics": {
+        "population": 1283,
+        "male": 667,
+        "female": 616,
+        "households": 257,
+        "literacyRate": 52.7
+      }
+    },
+    {
+      "code": "218890",
+      "census2011": "218890",
+      "census2001": "",
+      "name": {
+        "en": "Rohua",
+        "hi": "Rohua",
+        "mai": "Rohua"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100887",
+        "en": "Rohua",
+        "hi": "रोहुआ",
+        "mai": "रोहुआ"
+      },
+      "demographics": {
+        "population": 4519,
+        "male": 2280,
+        "female": 2239,
+        "households": 926,
+        "literacyRate": 69.3
+      }
+    },
+    {
+      "code": "218923",
+      "census2011": "218923",
+      "census2001": "",
+      "name": {
+        "en": "Rupwara",
+        "hi": "Rupwara",
+        "mai": "Rupwara"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100925",
+        "en": "Madhopur Chhata",
+        "hi": "माधोपुर छाता",
+        "mai": "माधोपुर छाता"
+      },
+      "demographics": {
+        "population": 2254,
+        "male": 1149,
+        "female": 1105,
+        "households": 485,
+        "literacyRate": 70
+      }
+    },
+    {
+      "code": "958161",
+      "census2011": "958161",
+      "census2001": "",
+      "name": {
+        "en": "Sahwajpur Nagar Panchayat Sheohar",
+        "hi": "Sahwajpur Nagar Panchayat Sheohar",
+        "mai": "Sahwajpur Nagar Panchayat Sheohar"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 1278,
+        "male": 669,
+        "female": 609,
+        "households": 237,
+        "literacyRate": 65.1
+      }
+    },
+    {
+      "code": "218896",
+      "census2011": "218896",
+      "census2001": "",
+      "name": {
+        "en": "Salempur",
+        "hi": "Salempur",
+        "mai": "Salempur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100928",
+        "en": "Salempur",
+        "hi": "सलेमपुर",
+        "mai": "सलेमपुर"
+      },
+      "demographics": {
+        "population": 2100,
+        "male": 1083,
+        "female": 1017,
+        "households": 421,
+        "literacyRate": 68.8
+      }
+    },
+    {
+      "code": "218919",
+      "census2011": "218919",
+      "census2001": "",
+      "name": {
+        "en": "Samhuti",
+        "hi": "Samhuti",
+        "mai": "Samhuti"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100928",
+        "en": "Salempur",
+        "hi": "सलेमपुर",
+        "mai": "सलेमपुर"
+      },
+      "demographics": {
+        "population": 2213,
+        "male": 1168,
+        "female": 1045,
+        "households": 453,
+        "literacyRate": 52.1
+      }
+    },
+    {
+      "code": "218905",
+      "census2011": "218905",
+      "census2001": "",
+      "name": {
+        "en": "Sarwarpur",
+        "hi": "Sarwarpur",
+        "mai": "Sarwarpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100919",
+        "en": "Belahiyan",
+        "hi": "बेलहिया",
+        "mai": "बेलहिया"
+      },
+      "demographics": {
+        "population": 2351,
+        "male": 1245,
+        "female": 1106,
+        "households": 445,
+        "literacyRate": 49.5
+      }
+    },
+    {
+      "code": "218802",
+      "census2011": "218802",
+      "census2001": "",
+      "name": {
+        "en": "Sengahi Indarwa",
+        "hi": "Sengahi Indarwa",
+        "mai": "Sengahi Indarwa"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100892",
+        "en": "Belwa",
+        "hi": "बेलवा",
+        "mai": "बेलवा"
+      },
+      "demographics": {
+        "population": 2756,
+        "male": 1391,
+        "female": 1365,
+        "households": 578,
+        "literacyRate": 63.5
+      }
+    },
+    {
+      "code": "218870",
+      "census2011": "218870",
+      "census2001": "",
+      "name": {
+        "en": "Shahbazpur",
+        "hi": "Shahbazpur",
+        "mai": "Shahbazpur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100884",
+        "en": "Nayagaon (E)",
+        "hi": "नयागॉव पूर्वी",
+        "mai": "नयागॉव पूर्वी"
+      },
+      "demographics": {
+        "population": 4087,
+        "male": 2142,
+        "female": 1945,
+        "households": 713,
+        "literacyRate": 57.9
+      }
+    },
+    {
+      "code": "218850",
+      "census2011": "218850",
+      "census2001": "",
+      "name": {
+        "en": "Shahpur",
+        "hi": "Shahpur",
+        "mai": "Shahpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100910",
+        "en": "Khairwadarp",
+        "hi": "खैरवा दर्प",
+        "mai": "खैरवा दर्प"
+      },
+      "demographics": {
+        "population": 7535,
+        "male": 3939,
+        "female": 3596,
+        "households": 1447,
+        "literacyRate": 49.4
+      }
+    },
+    {
+      "code": "218874",
+      "census2011": "218874",
+      "census2001": "",
+      "name": {
+        "en": "Shampur",
+        "hi": "Shampur",
+        "mai": "Shampur"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100888",
+        "en": "Shyampur",
+        "hi": "श्यामपुर",
+        "mai": "श्यामपुर"
+      },
+      "demographics": {
+        "population": 7667,
+        "male": 3976,
+        "female": 3691,
+        "households": 1402,
+        "literacyRate": 54.2
+      }
+    },
+    {
+      "code": "218796",
+      "census2011": "218796",
+      "census2001": "",
+      "name": {
+        "en": "Shankarpur Bindi",
+        "hi": "Shankarpur Bindi",
+        "mai": "Shankarpur Bindi"
+      },
+      "block": {
+        "en": "Piprarhi",
+        "hi": "Piprarhi",
+        "mai": "Piprarhi"
+      },
+      "panchayat": {
+        "code": "100898",
+        "en": "Mohanpur",
+        "hi": "मोहनपुर",
+        "mai": "मोहनपुर"
+      },
+      "demographics": {
+        "population": 2270,
+        "male": 1173,
+        "female": 1097,
+        "households": 460,
+        "literacyRate": 61.6
+      }
+    },
+    {
+      "code": "218958",
+      "census2011": "218958",
+      "census2001": "",
+      "name": {
+        "en": "Sharifnagar Urf Ghauspur",
+        "hi": "Sharifnagar Urf Ghauspur",
+        "mai": "Sharifnagar Urf Ghauspur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 3847,
+        "male": 1987,
+        "female": 1860,
+        "households": 797,
+        "literacyRate": 46.9
+      }
+    },
+    {
+      "code": "218955",
+      "census2011": "218955",
+      "census2001": "",
+      "name": {
+        "en": "Sirsian",
+        "hi": "Sirsian",
+        "mai": "Sirsian"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 5929,
+        "male": 3089,
+        "female": 2840,
+        "households": 1284,
+        "literacyRate": 65.6
+      }
+    },
+    {
+      "code": "218831",
+      "census2011": "218831",
+      "census2001": "",
+      "name": {
+        "en": "Sisaula",
+        "hi": "Sisaula",
+        "mai": "Sisaula"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100915",
+        "en": "Sarsaula Khurd",
+        "hi": "सरसौला खूर्द",
+        "mai": "सरसौला खूर्द"
+      },
+      "demographics": {
+        "population": 2540,
+        "male": 1315,
+        "female": 1225,
+        "households": 440,
+        "literacyRate": 64.1
+      }
+    },
+    {
+      "code": "218907",
+      "census2011": "218907",
+      "census2001": "",
+      "name": {
+        "en": "Soghra Adalpur Kundol",
+        "hi": "Soghra Adalpur Kundol",
+        "mai": "Soghra Adalpur Kundol"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100933",
+        "en": "Vishwmbharpur",
+        "hi": "विश्वम्भरपुर",
+        "mai": "विश्वम्भरपुर"
+      },
+      "demographics": {
+        "population": 2480,
+        "male": 1256,
+        "female": 1224,
+        "households": 534,
+        "literacyRate": 60.1
+      }
+    },
+    {
+      "code": "218782",
+      "census2011": "218782",
+      "census2001": "",
+      "name": {
+        "en": "Sonaul Sultan",
+        "hi": "Sonaul Sultan",
+        "mai": "Sonaul Sultan"
+      },
+      "block": {
+        "en": "Purnahiya",
+        "hi": "पुरनहिया",
+        "mai": "पुरनहिया"
+      },
+      "panchayat": {
+        "code": "100907",
+        "en": "Kolhua Thikha",
+        "hi": "कोल्हुआ ठीकहाँ",
+        "mai": "कोल्हुआ ठीकहाँ"
+      },
+      "demographics": {
+        "population": 1974,
+        "male": 1013,
+        "female": 961,
+        "households": 387,
+        "literacyRate": 65.7
+      }
+    },
+    {
+      "code": "218944",
+      "census2011": "218944",
+      "census2001": "",
+      "name": {
+        "en": "Sonbarsa",
+        "hi": "Sonbarsa",
+        "mai": "Sonbarsa"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100930",
+        "en": "Sonbarsa",
+        "hi": "सोनबर्षा",
+        "mai": "सोनबर्षा"
+      },
+      "demographics": {
+        "population": 2335,
+        "male": 1196,
+        "female": 1139,
+        "households": 505,
+        "literacyRate": 58.8
+      }
+    },
+    {
+      "code": "218847",
+      "census2011": "218847",
+      "census2001": "",
+      "name": {
+        "en": "Sugia Karesri",
+        "hi": "Sugia Karesri",
+        "mai": "Sugia Karesri"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100916",
+        "en": "Sugia Katsari",
+        "hi": "सुगिया कटसरी",
+        "mai": "सुगिया कटसरी"
+      },
+      "demographics": {
+        "population": 3644,
+        "male": 1825,
+        "female": 1819,
+        "households": 642,
+        "literacyRate": 69.8
+      }
+    },
+    {
+      "code": "218846",
+      "census2011": "218846",
+      "census2001": "",
+      "name": {
+        "en": "Sugia Katesri Jagir",
+        "hi": "Sugia Katesri Jagir",
+        "mai": "Sugia Katesri Jagir"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100916",
+        "en": "Sugia Katsari",
+        "hi": "सुगिया कटसरी",
+        "mai": "सुगिया कटसरी"
+      },
+      "demographics": {
+        "population": 5490,
+        "male": 2887,
+        "female": 2603,
+        "households": 953,
+        "literacyRate": 58.9
+      }
+    },
+    {
+      "code": "218909",
+      "census2011": "218909",
+      "census2001": "",
+      "name": {
+        "en": "Sultanpur Bhim",
+        "hi": "Sultanpur Bhim",
+        "mai": "Sultanpur Bhim"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100933",
+        "en": "Vishwmbharpur",
+        "hi": "विश्वम्भरपुर",
+        "mai": "विश्वम्भरपुर"
+      },
+      "demographics": {
+        "population": 4513,
+        "male": 2348,
+        "female": 2165,
+        "households": 905,
+        "literacyRate": 50.1
+      }
+    },
+    {
+      "code": "218835",
+      "census2011": "218835",
+      "census2001": "",
+      "name": {
+        "en": "Sundarpur Kharauna",
+        "hi": "Sundarpur Kharauna",
+        "mai": "Sundarpur Kharauna"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100909",
+        "en": "Harnahi",
+        "hi": "हरनाही",
+        "mai": "हरनाही"
+      },
+      "demographics": {
+        "population": 1900,
+        "male": 984,
+        "female": 916,
+        "households": 406,
+        "literacyRate": 61.7
+      }
+    },
+    {
+      "code": "950928",
+      "census2011": "950928",
+      "census2001": "",
+      "name": {
+        "en": "Sundarpur Kharauna",
+        "hi": "Sundarpur Kharauna",
+        "mai": "Sundarpur Kharauna"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 4442,
+        "male": 2345,
+        "female": 2097,
+        "households": 800,
+        "literacyRate": 66.3
+      }
+    },
+    {
+      "code": "218894",
+      "census2011": "218894",
+      "census2001": "",
+      "name": {
+        "en": "Surgahi",
+        "hi": "Surgahi",
+        "mai": "Surgahi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100931",
+        "en": "Surgahi",
+        "hi": "सुरगाही",
+        "mai": "सुरगाही"
+      },
+      "demographics": {
+        "population": 1040,
+        "male": 528,
+        "female": 512,
+        "households": 222,
+        "literacyRate": 46.1
+      }
+    },
+    {
+      "code": "218849",
+      "census2011": "218849",
+      "census2001": "",
+      "name": {
+        "en": "Tajpur",
+        "hi": "Tajpur",
+        "mai": "Tajpur"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "100917",
+        "en": "Taj Pur",
+        "hi": "ताजपुर",
+        "mai": "ताजपुर"
+      },
+      "demographics": {
+        "population": 1563,
+        "male": 827,
+        "female": 736,
+        "households": 274,
+        "literacyRate": 70
+      }
+    },
+    {
+      "code": "218970",
+      "census2011": "218970",
+      "census2001": "",
+      "name": {
+        "en": "Tajpur",
+        "hi": "Tajpur",
+        "mai": "Tajpur"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100923",
+        "en": "Kumahrar",
+        "hi": "कुम्हरार",
+        "mai": "कुम्हरार"
+      },
+      "demographics": {
+        "population": 719,
+        "male": 365,
+        "female": 354,
+        "households": 143,
+        "literacyRate": 55.9
+      }
+    },
+    {
+      "code": "218950",
+      "census2011": "218950",
+      "census2001": "",
+      "name": {
+        "en": "Tola Tulsinagar",
+        "hi": "Tola Tulsinagar",
+        "mai": "Tola Tulsinagar"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100920",
+        "en": "Vrindavan",
+        "hi": "वृन्दावन",
+        "mai": "वृन्दावन"
+      },
+      "demographics": {
+        "population": 3420,
+        "male": 1788,
+        "female": 1632,
+        "households": 719,
+        "literacyRate": 70.7
+      }
+    },
+    {
+      "code": "218957",
+      "census2011": "218957",
+      "census2001": "",
+      "name": {
+        "en": "Toniahi Chak Bhagwati",
+        "hi": "Toniahi Chak Bhagwati",
+        "mai": "Toniahi Chak Bhagwati"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100929",
+        "en": "Sharifnagar",
+        "hi": "शरीफनगर",
+        "mai": "शरीफनगर"
+      },
+      "demographics": {
+        "population": 630,
+        "male": 322,
+        "female": 308,
+        "households": 136,
+        "literacyRate": 54.2
+      }
+    },
+    {
+      "code": "218877",
+      "census2011": "218877",
+      "census2001": "",
+      "name": {
+        "en": "Umed Chhapra",
+        "hi": "Umed Chhapra",
+        "mai": "Umed Chhapra"
+      },
+      "block": {
+        "en": "Dumri Katsari",
+        "hi": "Dumri Katsari",
+        "mai": "Dumri Katsari"
+      },
+      "panchayat": {
+        "code": "100888",
+        "en": "Shyampur",
+        "hi": "श्यामपुर",
+        "mai": "श्यामपुर"
+      },
+      "demographics": {
+        "population": 2222,
+        "male": 1116,
+        "female": 1106,
+        "households": 395,
+        "literacyRate": 50.5
+      }
+    },
+    {
+      "code": "958160",
+      "census2011": "958160",
+      "census2001": "",
+      "name": {
+        "en": "Vishunpur Man Singh",
+        "hi": "Vishunpur Man Singh",
+        "mai": "Vishunpur Man Singh"
+      },
+      "block": {
+        "en": "Sheohar",
+        "hi": "शिवहर",
+        "mai": "शिवहर"
+      },
+      "panchayat": {
+        "code": "",
+        "en": "",
+        "hi": "",
+        "mai": ""
+      },
+      "demographics": {
+        "population": 4148,
+        "male": 2131,
+        "female": 2017,
+        "households": 893,
+        "literacyRate": 49.8
+      }
+    },
+    {
+      "code": "218947",
+      "census2011": "218947",
+      "census2001": "",
+      "name": {
+        "en": "Wake Rakbe Pachra Bansi",
+        "hi": "Wake Rakbe Pachra Bansi",
+        "mai": "Wake Rakbe Pachra Bansi"
+      },
+      "block": {
+        "en": "Tariani Chowk",
+        "hi": "Tariani Chowk",
+        "mai": "Tariani Chowk"
+      },
+      "panchayat": {
+        "code": "100930",
+        "en": "Sonbarsa",
+        "hi": "सोनबर्षा",
+        "mai": "सोनबर्षा"
+      },
+      "demographics": {
+        "population": 2585,
+        "male": 1349,
+        "female": 1236,
+        "households": 482,
+        "literacyRate": 56
+      }
+    }
+  ]
+}
