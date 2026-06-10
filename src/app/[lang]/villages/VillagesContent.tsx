@@ -562,7 +562,8 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
             {filteredCurated.map((village) => (
               <MithilaCard
                 key={village.slug}
-                className="p-8 group flex flex-col justify-between h-full hover:shadow-lg border border-border-color dark:border-zinc-800"
+                padding="none"
+                className="p-5 sm:p-8 group flex flex-col justify-between h-full hover:shadow-lg border border-border-color dark:border-zinc-800"
               >
                 <div>
                   <div className="flex justify-between items-start mb-6">
@@ -624,7 +625,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
       </section>
 
       {/* ================= SECTION 2: BIHAR ENTIRE LGD DIRECTORY ================= */}
-      <section className="bg-gray-50/50 dark:bg-zinc-900/10 border border-border-color dark:border-zinc-800/80 rounded-3xl p-6 md:p-10 shadow-xs relative">
+      <section className="bg-gray-50/50 dark:bg-zinc-900/10 border border-border-color dark:border-zinc-800/80 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-10 shadow-xs relative">
         <div className="absolute inset-0 madhubani-pattern-bg opacity-[0.015] pointer-events-none rounded-3xl" />
         
         <header className="mb-10 text-center md:text-left relative z-10">
@@ -640,7 +641,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
         <div className="flex border-b border-border-color dark:border-zinc-800 mb-8 relative z-10 gap-1 overflow-x-auto pb-2">
           <button
             onClick={() => setDirectoryView('villages')}
-            className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 ${
+            className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 shrink-0 ${
               directoryView === 'villages'
                 ? 'bg-primary-red text-white shadow-md'
                 : 'bg-white dark:bg-zinc-900/40 text-text-muted hover:text-foreground border border-border-color dark:border-zinc-800'
@@ -650,7 +651,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
           </button>
           <button
             onClick={() => setDirectoryView('panchayats')}
-            className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 ${
+            className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 shrink-0 ${
               directoryView === 'panchayats'
                 ? 'bg-primary-red text-white shadow-md'
                 : 'bg-white dark:bg-zinc-900/40 text-text-muted hover:text-foreground border border-border-color dark:border-zinc-800'
@@ -660,7 +661,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
           </button>
           <button
             onClick={() => setDirectoryView('blocks')}
-            className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 ${
+            className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 shrink-0 ${
               directoryView === 'blocks'
                 ? 'bg-primary-red text-white shadow-md'
                 : 'bg-white dark:bg-zinc-900/40 text-text-muted hover:text-foreground border border-border-color dark:border-zinc-800'
@@ -759,31 +760,31 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
             <table className="w-full text-left border-collapse">
               <thead>
                 <tr className="bg-gray-100/50 dark:bg-zinc-900/50 border-b border-border-color dark:border-zinc-800">
-                  <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">#</th>
+                  <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">#</th>
                   {directoryView === 'villages' && (
                     <>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.tableVillage}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.tablePanchayat}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.tableBlock}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right">{t.tableLgdCode}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.tableVillage}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.tablePanchayat}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider hidden md:table-cell">{t.tableBlock}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right hidden sm:table-cell">{t.tableLgdCode}</th>
                     </>
                   )}
                   {directoryView === 'panchayats' && (
                     <>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.viewPanchayats}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.tableBlock}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-center">{t.colMemberVillages}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right">{t.colTotalPopulation}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right">{t.colAction}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.viewPanchayats}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider hidden md:table-cell">{t.tableBlock}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-center hidden sm:table-cell">{t.colMemberVillages}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right">{t.colTotalPopulation}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right">{t.colAction}</th>
                     </>
                   )}
                   {directoryView === 'blocks' && (
                     <>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.viewBlocks}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-center">{t.colTotalPanchayats}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-center">{t.colTotalVillages}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right">{t.colTotalPopulation}</th>
-                      <th className="px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right">{t.colAvgLiteracy}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider">{t.viewBlocks}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-center hidden sm:table-cell">{t.colTotalPanchayats}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-center hidden sm:table-cell">{t.colTotalVillages}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right">{t.colTotalPopulation}</th>
+                      <th className="px-3 sm:px-6 py-4 text-xs font-bold text-text-muted uppercase tracking-wider text-right hidden sm:table-cell">{t.colAvgLiteracy}</th>
                     </>
                   )}
                 </tr>
@@ -805,10 +806,10 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                           key={v.code} 
                           className="hover:bg-primary-red/5 dark:hover:bg-primary-red/5 transition-colors duration-150 group"
                         >
-                          <td className="px-6 py-3.5 text-sm font-medium text-text-muted">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-medium text-text-muted">
                             {rowNum}
                           </td>
-                          <td className="px-6 py-3.5">
+                          <td className="px-3 sm:px-6 py-3.5">
                             <Link
                               href={`/${lang}/villages/village/${selectedDistrict}/${v.code}`}
                               className="text-sm font-bold text-foreground block hover:text-primary-red hover:underline transition-colors"
@@ -819,38 +820,36 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                               LGD: {v.code} {v.census2011 && `| Census 2011: ${v.census2011}`} {v.census2001 && `| Census 2001: ${v.census2001}`}
                             </span>
                             {v.demographics && (
-                              <span className="flex flex-wrap items-center gap-x-2 gap-y-0.5 mt-1 text-[10px] font-semibold text-text-muted">
-                                <span className="inline-flex items-center gap-0.5 text-foreground/75">
+                              <span className="flex flex-wrap items-center gap-x-2 gap-y-1 mt-1.5 text-[9px] sm:text-[10px] font-semibold text-text-muted">
+                                <span className="inline-flex items-center gap-0.5 text-foreground/75 px-1.5 py-0.5 bg-gray-100/60 dark:bg-zinc-900 rounded-sm">
                                   👥 {v.demographics.population.toLocaleString()}
                                 </span>
-                                <span className="text-gray-300 dark:text-zinc-700">|</span>
-                                <span className="inline-flex items-center gap-0.5">
+                                <span className="inline-flex items-center gap-0.5 px-1.5 py-0.5 bg-gray-100/60 dark:bg-zinc-900 rounded-sm">
                                   ♂️ {v.demographics.male.toLocaleString()} / ♀️ {v.demographics.female.toLocaleString()}
                                 </span>
-                                <span className="text-gray-300 dark:text-zinc-700">|</span>
-                                <span className="inline-flex items-center gap-0.5">
+                                <span className="inline-flex items-center gap-0.5 px-1.5 py-0.5 bg-gray-100/60 dark:bg-zinc-900 rounded-sm">
                                   📖 {t.literacyLabel.split(' ')[0]}: {v.demographics.literacyRate}%
                                 </span>
                               </span>
                             )}
                           </td>
-                          <td className="px-6 py-3.5">
+                          <td className="px-3 sm:px-6 py-3.5">
                             {v.panchayat.en ? (
                               <Link
                                 href={`/${lang}/villages/panchayat/${selectedDistrict}/${v.panchayat.code}`}
-                                className="inline-flex items-center gap-1.5 text-sm text-primary-red hover:text-red-800 font-semibold cursor-pointer border-b border-dashed border-primary-red/30 hover:border-primary-red transition-all no-underline"
+                                className="inline-flex items-center gap-1.5 text-xs sm:text-sm text-primary-red hover:text-red-800 font-semibold cursor-pointer border-b border-dashed border-primary-red/30 hover:border-primary-red transition-all no-underline break-words"
                               >
-                                <Building2 size={13} className="text-primary-yellow" />
-                                {v.panchayat[lang] || v.panchayat.en}
+                                <Building2 size={13} className="text-primary-yellow shrink-0" />
+                                <span className="break-words">{v.panchayat[lang] || v.panchayat.en}</span>
                               </Link>
                             ) : (
                               <span className="text-xs italic text-text-muted">Urban/Unmapped</span>
                             )}
                           </td>
-                          <td className="px-6 py-3.5 text-sm text-foreground/80 font-medium">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm text-foreground/80 font-medium hidden md:table-cell">
                             {blockText}
                           </td>
-                          <td className="px-6 py-3.5 text-right">
+                          <td className="px-3 sm:px-6 py-3.5 text-right hidden sm:table-cell">
                             <span className="inline-flex items-center gap-0.5 px-2 py-0.5 rounded-sm bg-gray-100 dark:bg-zinc-900 border border-gray-200/50 dark:border-zinc-800/80 text-xs font-mono text-text-muted">
                               <Hash size={10} />
                               {v.code}
@@ -871,10 +870,10 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                           key={p.code} 
                           className="hover:bg-primary-red/5 dark:hover:bg-primary-red/5 transition-colors duration-150"
                         >
-                          <td className="px-6 py-3.5 text-sm font-medium text-text-muted">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-medium text-text-muted">
                             {rowNum}
                           </td>
-                          <td className="px-6 py-3.5">
+                          <td className="px-3 sm:px-6 py-3.5">
                             <span className="text-sm font-bold text-foreground block">
                               {p.name[lang] || p.name.en}
                             </span>
@@ -882,13 +881,13 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                               LGD Code: {p.code}
                             </span>
                           </td>
-                          <td className="px-6 py-3.5 text-sm text-foreground/80 font-medium">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm text-foreground/80 font-medium hidden md:table-cell">
                             {p.block.en} ({blockLocal})
                           </td>
-                          <td className="px-6 py-3.5 text-sm font-semibold text-center text-foreground/80">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-semibold text-center text-foreground/80 hidden sm:table-cell">
                             {p.villagesCount}
                           </td>
-                          <td className="px-6 py-3.5 text-sm font-bold text-right text-foreground font-mono">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-bold text-right text-foreground font-mono">
                             {p.population > 0 ? p.population.toLocaleString() : 'N/A'}
                             {p.population > 0 && avgLit > 0 && (
                               <span className="block text-[9px] font-semibold text-text-muted font-sans mt-0.5">
@@ -896,10 +895,10 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                               </span>
                             )}
                           </td>
-                          <td className="px-6 py-3.5 text-right">
+                          <td className="px-3 sm:px-6 py-3.5 text-right">
                             <Link
                               href={`/${lang}/villages/panchayat/${selectedDistrict}/${p.code}`}
-                              className="inline-flex items-center gap-1 px-3 py-1 bg-primary-red hover:bg-red-800 text-white rounded-full text-[10px] font-extrabold uppercase tracking-wider transition-all shadow-xs cursor-pointer no-underline"
+                              className="inline-flex items-center gap-1 px-3 py-1 bg-primary-red hover:bg-red-800 text-white rounded-full text-[10px] font-extrabold uppercase tracking-wider transition-all shadow-xs cursor-pointer no-underline whitespace-nowrap shrink-0"
                             >
                               {t.viewDetails} →
                             </Link>
@@ -918,10 +917,10 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                           key={b.key} 
                           className="hover:bg-primary-red/5 dark:hover:bg-primary-red/5 transition-colors duration-150"
                         >
-                          <td className="px-6 py-3.5 text-sm font-medium text-text-muted">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-medium text-text-muted">
                             {rowNum}
                           </td>
-                          <td className="px-6 py-3.5 text-sm font-bold text-foreground">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-bold text-foreground">
                             {b.name[lang] || b.name.en}
                             {b.name.en !== (b.name[lang] || b.name.en) && (
                               <span className="block text-[10px] text-text-muted font-normal mt-0.5">
@@ -929,16 +928,16 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                               </span>
                             )}
                           </td>
-                          <td className="px-6 py-3.5 text-sm font-semibold text-center text-foreground/80">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-semibold text-center text-foreground/80 hidden sm:table-cell">
                             {b.panchayatsCount}
                           </td>
-                          <td className="px-6 py-3.5 text-sm font-semibold text-center text-foreground/80">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-semibold text-center text-foreground/80 hidden sm:table-cell">
                             {b.villagesCount}
                           </td>
-                          <td className="px-6 py-3.5 text-sm font-bold text-right text-foreground font-mono">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-bold text-right text-foreground font-mono">
                             {b.population > 0 ? b.population.toLocaleString() : 'N/A'}
                           </td>
-                          <td className="px-6 py-3.5 text-sm font-semibold text-right text-foreground/80">
+                          <td className="px-3 sm:px-6 py-3.5 text-sm font-semibold text-right text-foreground/80 hidden sm:table-cell">
                             {avgLit > 0 ? `${avgLit}%` : 'N/A'}
                           </td>
                         </tr>

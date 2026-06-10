@@ -490,7 +490,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
       <div className="flex border-b border-border-color dark:border-zinc-800 mb-10 gap-1 overflow-x-auto pb-2 z-10 relative">
         <button
           onClick={() => setDetailView('panchayat')}
-          className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 ${
+          className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 shrink-0 ${
             detailView === 'panchayat'
               ? 'bg-primary-red text-white shadow-md'
               : 'bg-white dark:bg-zinc-900/40 text-text-muted hover:text-foreground border border-border-color dark:border-zinc-800'
@@ -500,7 +500,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
         </button>
         <button
           onClick={() => setDetailView('villages')}
-          className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 ${
+          className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 shrink-0 ${
             detailView === 'villages'
               ? 'bg-primary-red text-white shadow-md'
               : 'bg-white dark:bg-zinc-900/40 text-text-muted hover:text-foreground border border-border-color dark:border-zinc-800'
@@ -510,27 +510,27 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
         </button>
         <button
           onClick={() => setDetailView('block')}
-          className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 ${
+          className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 shrink-0 ${
             detailView === 'block'
               ? 'bg-primary-red text-white shadow-md'
               : 'bg-white dark:bg-zinc-900/40 text-text-muted hover:text-foreground border border-border-color dark:border-zinc-800'
           }`}
         >
-          📦 {t.viewBlockDetails} (${blockInfo?.en})
+          📦 {t.viewBlockDetails} ({blockInfo?.en})
         </button>
       </div>
 
       {/* Hero Banner Header */}
-      <header className="p-8 md:p-12 rounded-3xl bg-linear-to-br from-primary-red/[0.03] via-primary-yellow/[0.02] to-transparent border border-border-color dark:border-zinc-900 shadow-xs mb-12 relative overflow-hidden">
+      <header className="p-5 sm:p-8 md:p-12 rounded-2xl sm:rounded-3xl bg-linear-to-br from-primary-red/[0.03] via-primary-yellow/[0.02] to-transparent border border-border-color dark:border-zinc-900 shadow-xs mb-12 relative overflow-hidden">
         <div className="absolute inset-0 madhubani-pattern-bg opacity-[0.012] pointer-events-none" />
         <div className="relative z-10">
           <span className="inline-flex items-center gap-1.5 px-3 py-1 bg-primary-red/10 text-primary-red rounded-full text-xs font-bold uppercase tracking-wider mb-4">
             🏛️ {t.panchayatDetails}
           </span>
-          <HeritageHeading as="h1" className="text-4xl md:text-5xl font-bold font-heading text-foreground mb-4">
+          <HeritageHeading as="h1" className="text-2xl sm:text-3xl md:text-5xl font-bold font-heading text-foreground mb-4">
             {gpNameLocal}
             {gpNameEn !== gpNameLocal && (
-              <span className="text-lg md:text-2xl font-semibold text-text-muted ml-3">({gpNameEn})</span>
+              <span className="block sm:inline text-base sm:text-2xl font-semibold text-text-muted sm:ml-3">({gpNameEn})</span>
             )}
           </HeritageHeading>
           
@@ -558,7 +558,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
         {detailView === 'panchayat' && (
           <>
             {/* ================= SECTION 1: MAPS & GEOGRAPHIC DETAILS ================= */}
-            <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-3xl p-6 md:p-8 shadow-xs">
+            <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-xs">
               <h2 className="text-2xl font-bold font-heading text-foreground mb-6 flex items-center gap-2 border-b border-border-color dark:border-zinc-850 pb-4">
                 📍 {t.geoTitle}
               </h2>
@@ -566,7 +566,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
                 
                 {/* Interactive Map Embed */}
-                <div className="lg:col-span-2 relative w-full h-80 sm:h-96 rounded-2xl border border-gray-200 dark:border-zinc-800 overflow-hidden shadow-md bg-zinc-100 dark:bg-zinc-900">
+                <div className="lg:col-span-2 relative w-full h-64 sm:h-96 rounded-2xl border border-gray-200 dark:border-zinc-800 overflow-hidden shadow-md bg-zinc-100 dark:bg-zinc-900">
                   <iframe
                     title="Gram Panchayat Map Location"
                     width="100%"
@@ -627,7 +627,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
 
             {/* ================= SECTION 2: DEMOGRAPHICS ================= */}
             {panchayatDemographics && (
-              <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-3xl p-6 md:p-8 shadow-xs">
+              <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-xs">
                 <h2 className="text-2xl font-bold font-heading text-foreground mb-6 flex items-center gap-2 border-b border-border-color dark:border-zinc-850 pb-4">
                   📈 {t.demographicsTitle}
                 </h2>
@@ -637,7 +637,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                   <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
                     
                     {/* Total Population */}
-                    <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
+                    <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
                       <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                         👥 {t.popLabel}
                       </span>
@@ -650,7 +650,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                     </div>
 
                     {/* Total Households */}
-                    <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
+                    <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
                       <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                         🏡 {t.householdsLabel}
                       </span>
@@ -663,7 +663,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                     </div>
 
                     {/* Average Literacy */}
-                    <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
+                    <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
                       <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                         📖 {t.literacyLabel}
                       </span>
@@ -677,7 +677,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                   </div>
 
                   {/* Gender Split Visual Card */}
-                  <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+                  <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
                     <div className="flex justify-between items-center mb-4">
                       <span className="text-xs font-bold text-text-muted uppercase tracking-wider">
                         ⚧️ Gender Distribution
@@ -704,7 +704,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                               title={`Female: ${femalePercent}%`}
                             />
                           </div>
-                          <div className="flex justify-between text-sm font-bold">
+                          <div className="flex flex-col sm:flex-row sm:justify-between gap-y-1 text-xs sm:text-sm font-bold">
                             <span className="text-blue-500 flex items-center gap-1">
                               ♂️ {t.maleLabel}: {panchayatDemographics.male.toLocaleString()} ({malePercent}%)
                             </span>
@@ -721,7 +721,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
             )}
 
             {/* ================= SECTION 3: REPRESENTATIVES & ADMINISTRATION ================= */}
-            <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-3xl p-6 md:p-8 shadow-xs">
+            <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-xs">
               <h2 className="text-2xl font-bold font-heading text-foreground mb-6 flex items-center gap-2 border-b border-border-color dark:border-zinc-850 pb-4">
                 🏛️ {t.representativeTitle}
               </h2>
@@ -808,15 +808,15 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                   </div>
 
                   {/* Wards pills list */}
-                  <div className="p-5 bg-zinc-50/50 dark:bg-zinc-950/10 rounded-2xl border border-dashed border-zinc-200 dark:border-zinc-800">
+                  <div className="p-4 sm:p-5 bg-zinc-50/50 dark:bg-zinc-950/10 rounded-2xl border border-dashed border-zinc-200 dark:border-zinc-800">
                     <span className="text-xs font-bold text-text-muted uppercase tracking-wider block mb-4 flex items-center gap-1">
                       🛡️ {t.wardLabel}
                     </span>
                     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
                       {Array.from({ length: 11 }).map((_, i) => (
-                        <div key={i} className="text-xs text-foreground/90 font-bold bg-white dark:bg-zinc-900/40 p-2.5 rounded-xl border border-zinc-150 dark:border-zinc-855 flex justify-between items-center hover:border-amber-500/25 transition-all duration-300">
+                        <div key={i} className="text-[11px] sm:text-xs text-foreground/90 font-bold bg-white dark:bg-zinc-900/40 p-2 sm:p-2.5 rounded-xl border border-zinc-150 dark:border-zinc-855 flex justify-between items-center hover:border-amber-500/25 transition-all duration-300">
                           <span>Ward {i + 1}</span>
-                          <span className="inline-flex items-center px-1.5 py-0.5 rounded-xs bg-amber-500/10 text-[8px] text-amber-500 font-black uppercase tracking-wider">
+                          <span className="inline-flex items-center px-1.5 py-0.5 rounded-xs bg-amber-500/10 text-[8px] text-amber-500 font-black uppercase tracking-wider shrink-0">
                             Active
                           </span>
                         </div>
@@ -894,7 +894,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
 
         {/* ================= SECTION 4: MEMBER VILLAGES ================= */}
         {detailView === 'villages' && (
-          <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-3xl p-6 md:p-8 shadow-xs animate-fade-in">
+          <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-xs animate-fade-in">
             <h2 className="text-2xl font-bold font-heading text-foreground mb-6 flex items-center gap-2 border-b border-border-color dark:border-zinc-850 pb-4">
               🏡 {t.memberTitle}
             </h2>
@@ -934,18 +934,21 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                     )}
                   </div>
                   
-                  <div className="flex flex-col gap-1.5 items-end text-[10px] font-mono text-text-muted bg-white dark:bg-zinc-900/60 p-2.5 rounded-xl border border-zinc-150 dark:border-zinc-800 flex-shrink-0">
-                    <span className="flex items-center gap-0.5">
-                      LGD: <span className="text-foreground font-bold">{v.code}</span>
+                  <div className="flex flex-col gap-1.5 sm:items-end items-start text-[10px] font-mono text-text-muted bg-white dark:bg-zinc-900/60 p-2.5 rounded-xl border border-zinc-150 dark:border-zinc-800 flex-shrink-0 w-full sm:w-28">
+                    <span className="flex items-center justify-between w-full">
+                      <span>LGD:</span>
+                      <span className="text-foreground font-bold">{v.code}</span>
                     </span>
                     {v.census2011 && (
-                      <span className="flex items-center gap-0.5 border-t border-zinc-200/50 dark:border-zinc-800 pt-1 mt-1 w-full text-right">
-                        C11: <span className="text-foreground font-bold">{v.census2011}</span>
+                      <span className="flex items-center justify-between border-t border-zinc-200/50 dark:border-zinc-800 pt-1 mt-1 w-full">
+                        <span>C11:</span>
+                        <span className="text-foreground font-bold">{v.census2011}</span>
                       </span>
                     )}
                     {v.census2001 && (
-                      <span className="flex items-center gap-0.5 border-t border-zinc-200/50 dark:border-zinc-800 pt-1 mt-1 w-full text-right">
-                        C01: <span className="text-foreground font-bold">{v.census2001}</span>
+                      <span className="flex items-center justify-between border-t border-zinc-200/50 dark:border-zinc-800 pt-1 mt-1 w-full">
+                        <span>C01:</span>
+                        <span className="text-foreground font-bold">{v.census2001}</span>
                       </span>
                     )}
                   </div>
@@ -957,8 +960,8 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
 
         {/* ================= SECTION 5: BLOCK DETAILS ================= */}
         {detailView === 'block' && blockStats && blockInfo && (
-          <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-3xl p-6 md:p-8 shadow-xs space-y-8 animate-fade-in">
-            <div className="border-b border-border-color dark:border-zinc-850 pb-4 flex justify-between items-center">
+          <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-xs space-y-8 animate-fade-in">
+            <div className="border-b border-border-color dark:border-zinc-850 pb-4 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 items-start">
               <h2 className="text-2xl font-bold font-heading text-foreground flex items-center gap-2">
                 📦 {t.blockStatsTitle}
               </h2>
@@ -970,7 +973,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
             {/* Block Stats Grid */}
             <div className="grid grid-cols-1 sm:grid-cols-4 gap-6">
               {/* Total GPs */}
-              <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+              <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
                 <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                   🏛️ Gram Panchayats
                 </span>
@@ -980,7 +983,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
               </div>
 
               {/* Total Villages */}
-              <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+              <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
                 <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                   🏡 Total Villages
                 </span>
@@ -990,7 +993,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
               </div>
 
               {/* Total Population */}
-              <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+              <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
                 <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                   👥 Block Population
                 </span>
@@ -1000,7 +1003,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
               </div>
 
               {/* Average Literacy */}
-              <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+              <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
                 <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                   📖 Avg Literacy Rate
                 </span>

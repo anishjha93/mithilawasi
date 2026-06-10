@@ -284,16 +284,16 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
       </div>
 
       {/* Hero Banner Header */}
-      <header className="p-8 md:p-12 rounded-3xl bg-linear-to-br from-primary-red/[0.03] via-primary-yellow/[0.02] to-transparent border border-border-color dark:border-zinc-900 shadow-xs mb-12 relative overflow-hidden">
+      <header className="p-4 sm:p-8 md:p-12 rounded-2xl sm:rounded-3xl bg-linear-to-br from-primary-red/[0.03] via-primary-yellow/[0.02] to-transparent border border-border-color dark:border-zinc-900 shadow-xs mb-12 relative overflow-hidden">
         <div className="absolute inset-0 madhubani-pattern-bg opacity-[0.012] pointer-events-none" />
         <div className="relative z-10">
           <span className="inline-flex items-center gap-1.5 px-3 py-1 bg-primary-red/10 text-primary-red rounded-full text-xs font-bold uppercase tracking-wider mb-4">
             🏡 {t.villageDetails}
           </span>
-          <HeritageHeading as="h1" className="text-4xl md:text-5xl font-bold font-heading text-foreground mb-4">
+          <HeritageHeading as="h1" className="text-2xl sm:text-3xl md:text-5xl font-bold font-heading text-foreground mb-4">
             {vNameLocal}
             {vNameEn !== vNameLocal && (
-              <span className="text-lg md:text-2xl font-semibold text-text-muted ml-3">({vNameEn})</span>
+              <span className="block sm:inline text-base sm:text-2xl font-semibold text-text-muted sm:ml-3">({vNameEn})</span>
             )}
           </HeritageHeading>
           
@@ -327,7 +327,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
       <div className="space-y-12">
         
         {/* ================= SECTION 1: MAPS & GEOGRAPHIC DETAILS ================= */}
-        <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-3xl p-6 md:p-8 shadow-xs">
+        <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-xs">
           <h2 className="text-2xl font-bold font-heading text-foreground mb-6 flex items-center gap-2 border-b border-border-color dark:border-zinc-850 pb-4">
             📍 {t.geoTitle}
           </h2>
@@ -335,7 +335,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             
             {/* Interactive Map Embed */}
-            <div className="lg:col-span-2 relative w-full h-80 sm:h-96 rounded-2xl border border-gray-200 dark:border-zinc-800 overflow-hidden shadow-md bg-zinc-100 dark:bg-zinc-900">
+            <div className="lg:col-span-2 relative w-full h-64 sm:h-96 rounded-2xl border border-gray-200 dark:border-zinc-800 overflow-hidden shadow-md bg-zinc-100 dark:bg-zinc-900">
               <iframe
                 title="Village Map Location"
                 width="100%"
@@ -396,7 +396,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
 
         {/* ================= SECTION 2: DEMOGRAPHICS ================= */}
         {villageRecord.demographics && (
-          <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-3xl p-6 md:p-8 shadow-xs">
+          <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-xs">
             <h2 className="text-2xl font-bold font-heading text-foreground mb-6 flex items-center gap-2 border-b border-border-color dark:border-zinc-850 pb-4">
               📈 {t.demographicsTitle}
             </h2>
@@ -406,7 +406,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
                 
                 {/* Total Population */}
-                <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
+                <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
                   <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                     👥 {t.popLabel}
                   </span>
@@ -419,7 +419,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
                 </div>
 
                 {/* Total Households */}
-                <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
+                <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
                   <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                     🏡 {t.householdsLabel}
                   </span>
@@ -432,7 +432,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
                 </div>
 
                 {/* Average Literacy */}
-                <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
+                <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850 flex flex-col justify-between">
                   <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                     📖 {t.literacyLabel}
                   </span>
@@ -446,7 +446,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
               </div>
 
               {/* Gender Split Visual Card */}
-              <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+              <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
                 <div className="flex justify-between items-center mb-4">
                   <span className="text-xs font-bold text-text-muted uppercase tracking-wider">
                     ⚧️ Gender Distribution
@@ -473,7 +473,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
                           title={`Female: ${femalePercent}%`}
                         />
                       </div>
-                      <div className="flex justify-between text-sm font-bold">
+                      <div className="flex flex-col sm:flex-row sm:justify-between gap-y-1 text-xs sm:text-sm font-bold">
                         <span className="text-blue-500 flex items-center gap-1">
                           ♂️ {t.maleLabel}: {villageRecord.demographics.male.toLocaleString()} ({malePercent}%)
                         </span>
@@ -490,14 +490,14 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
         )}
 
         {/* ================= SECTION 3: ADMINISTRATIVE CODES ================= */}
-        <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-3xl p-6 md:p-8 shadow-xs">
+        <section className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-xs">
           <h2 className="text-2xl font-bold font-heading text-foreground mb-6 flex items-center gap-2 border-b border-border-color dark:border-zinc-850 pb-4">
             🔢 {t.adminCodesTitle}
           </h2>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
             {/* LGD Code */}
-            <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+            <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
               <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                 Local Government Directory (LGD)
               </span>
@@ -507,7 +507,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
             </div>
 
             {/* Census 2011 Code */}
-            <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+            <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
               <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                 Census 2011 Code
               </span>
@@ -517,7 +517,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
             </div>
 
             {/* Census 2001 Code */}
-            <div className="p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
+            <div className="p-4 sm:p-6 bg-zinc-50/50 dark:bg-zinc-900/10 rounded-2xl border border-zinc-150 dark:border-zinc-850">
               <span className="text-xs uppercase font-bold text-text-muted tracking-wider block mb-2">
                 Census 2001 Code
               </span>
