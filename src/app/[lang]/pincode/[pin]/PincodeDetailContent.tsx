@@ -384,7 +384,7 @@ export default function PincodeDetailContent({ lang, pin, dict }: PincodeDetailC
       </div>
 
       {/* Two-column layout */}
-      <div className="flex flex-col-reverse lg:flex-row gap-8 items-start">
+      <div className="flex flex-col lg:flex-row gap-8 items-start">
 
         {/* ===== MAIN COLUMN ===== */}
         <main className="flex-1 min-w-0 space-y-8">

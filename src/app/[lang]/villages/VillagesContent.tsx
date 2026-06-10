@@ -591,7 +591,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
         </header>
 
         {/* View Segmented Tabs Toggle */}
-        <div className="flex border-b border-border-color dark:border-zinc-800 mb-8 relative z-10 gap-1 overflow-x-auto pb-2">
+        <div className="flex border-b border-border-color dark:border-zinc-800 mb-8 relative z-10 gap-1 overflow-x-auto pb-2 scrollbar-none -mx-1 px-1">
           <button
             onClick={() => setDirectoryView('villages')}
             className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 shrink-0 ${

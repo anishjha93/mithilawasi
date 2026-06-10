@@ -504,7 +504,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
       </header>
 
       {/* ===== TWO-COLUMN LAYOUT ===== */}
-      <div className="flex flex-col-reverse lg:flex-row gap-8 items-start">
+      <div className="flex flex-col lg:flex-row gap-8 items-start">
 
         {/* ===== MAIN COLUMN ===== */}
         <main className="flex-1 min-w-0 space-y-8">
@@ -599,39 +599,39 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
                     <tr className="bg-zinc-50 dark:bg-zinc-900/40 border-b border-zinc-150 dark:border-zinc-850">
                       <th className="text-left px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider">Description</th>
                       <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider">{t.totalLabel}</th>
-                      <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider">{t.maleLabel}</th>
-                      <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider">{t.femaleLabel}</th>
+                      <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider hidden sm:table-cell">{t.maleLabel}</th>
+                      <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider hidden sm:table-cell">{t.femaleLabel}</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-zinc-100 dark:divide-zinc-850">
                     <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
-                      <td className="px-4 py-3 text-foreground font-semibold">👥 {t.popLabel}</td>
-                      <td className="px-4 py-3 text-right font-mono font-bold text-foreground">{dem.population.toLocaleString()}</td>
-                      <td className="px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400">{dem.male.toLocaleString()}</td>
-                      <td className="px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400">{dem.female.toLocaleString()}</td>
+                      <td className="px-3 sm:px-4 py-3 text-foreground font-semibold">👥 {t.popLabel}</td>
+                      <td className="px-3 sm:px-4 py-3 text-right font-mono font-bold text-foreground">{dem.population.toLocaleString()}</td>
+                      <td className="px-3 sm:px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400 hidden sm:table-cell">{dem.male.toLocaleString()}</td>
+                      <td className="px-3 sm:px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400 hidden sm:table-cell">{dem.female.toLocaleString()}</td>
                     </tr>
                     <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
-                      <td className="px-4 py-3 text-foreground font-semibold">🏡 {t.householdsLabel}</td>
-                      <td className="px-4 py-3 text-right font-mono font-bold text-foreground" colSpan={3}>{dem.households.toLocaleString()}</td>
+                      <td className="px-3 sm:px-4 py-3 text-foreground font-semibold">🏡 {t.householdsLabel}</td>
+                      <td className="px-3 sm:px-4 py-3 text-right font-mono font-bold text-foreground" colSpan={3}>{dem.households.toLocaleString()}</td>
                     </tr>
                     <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
-                      <td className="px-4 py-3 text-foreground font-semibold">📖 {t.literacyLabel}</td>
-                      <td className="px-4 py-3 text-right font-mono font-bold text-emerald-600 dark:text-emerald-400" colSpan={3}>{dem.literacyRate}%</td>
+                      <td className="px-3 sm:px-4 py-3 text-foreground font-semibold">📖 {t.literacyLabel}</td>
+                      <td className="px-3 sm:px-4 py-3 text-right font-mono font-bold text-emerald-600 dark:text-emerald-400" colSpan={3}>{dem.literacyRate}%</td>
                     </tr>
                     {dem.childPop != null && (
                       <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
-                        <td className="px-4 py-3 text-foreground font-semibold">👶 {t.childPopLabel}</td>
-                        <td className="px-4 py-3 text-right font-mono font-bold text-foreground">{dem.childPop.toLocaleString()}</td>
-                        <td className="px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400">{dem.childMale?.toLocaleString() ?? '—'}</td>
-                        <td className="px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400">{dem.childFemale?.toLocaleString() ?? '—'}</td>
+                        <td className="px-3 sm:px-4 py-3 text-foreground font-semibold">👶 {t.childPopLabel}</td>
+                        <td className="px-3 sm:px-4 py-3 text-right font-mono font-bold text-foreground">{dem.childPop.toLocaleString()}</td>
+                        <td className="px-3 sm:px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400 hidden sm:table-cell">{dem.childMale?.toLocaleString() ?? '—'}</td>
+                        <td className="px-3 sm:px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400 hidden sm:table-cell">{dem.childFemale?.toLocaleString() ?? '—'}</td>
                       </tr>
                     )}
                     {dem.scPop != null && (
                       <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
-                        <td className="px-4 py-3 text-foreground font-semibold">🏷️ {t.scPopLabel}</td>
-                        <td className="px-4 py-3 text-right font-mono font-bold text-foreground">{dem.scPop.toLocaleString()}</td>
-                        <td className="px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400">{dem.scMale?.toLocaleString() ?? '—'}</td>
-                        <td className="px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400">{dem.scFemale?.toLocaleString() ?? '—'}</td>
+                        <td className="px-3 sm:px-4 py-3 text-foreground font-semibold">🏷️ {t.scPopLabel}</td>
+                        <td className="px-3 sm:px-4 py-3 text-right font-mono font-bold text-foreground">{dem.scPop.toLocaleString()}</td>
+                        <td className="px-3 sm:px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400 hidden sm:table-cell">{dem.scMale?.toLocaleString() ?? '—'}</td>
+                        <td className="px-3 sm:px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400 hidden sm:table-cell">{dem.scFemale?.toLocaleString() ?? '—'}</td>
                       </tr>
                     )}
                     {(() => {
@@ -640,16 +640,16 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
                       return (
                         <>
                           <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
-                            <td className="px-4 py-3 text-foreground font-semibold">✅ {t.literatePopLabel}</td>
-                            <td className="px-4 py-3 text-right font-mono font-bold text-foreground">{litTotal.toLocaleString()}</td>
-                            <td className="px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400">{dem.litMale?.toLocaleString() ?? '—'}</td>
-                            <td className="px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400">{dem.litFemale?.toLocaleString() ?? '—'}</td>
+                            <td className="px-3 sm:px-4 py-3 text-foreground font-semibold">✅ {t.literatePopLabel}</td>
+                            <td className="px-3 sm:px-4 py-3 text-right font-mono font-bold text-foreground">{litTotal.toLocaleString()}</td>
+                            <td className="px-3 sm:px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400 hidden sm:table-cell">{dem.litMale?.toLocaleString() ?? '—'}</td>
+                            <td className="px-3 sm:px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400 hidden sm:table-cell">{dem.litFemale?.toLocaleString() ?? '—'}</td>
                           </tr>
                           <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
-                            <td className="px-4 py-3 text-foreground font-semibold">❌ {t.illiteratePopLabel}</td>
-                            <td className="px-4 py-3 text-right font-mono font-bold text-foreground">{illitTotal.toLocaleString()}</td>
-                            <td className="px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400">{dem.illitMale?.toLocaleString() ?? '—'}</td>
-                            <td className="px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400">{dem.illitFemale?.toLocaleString() ?? '—'}</td>
+                            <td className="px-3 sm:px-4 py-3 text-foreground font-semibold">❌ {t.illiteratePopLabel}</td>
+                            <td className="px-3 sm:px-4 py-3 text-right font-mono font-bold text-foreground">{illitTotal.toLocaleString()}</td>
+                            <td className="px-3 sm:px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400 hidden sm:table-cell">{dem.illitMale?.toLocaleString() ?? '—'}</td>
+                            <td className="px-3 sm:px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400 hidden sm:table-cell">{dem.illitFemale?.toLocaleString() ?? '—'}</td>
                           </tr>
                         </>
                       );
@@ -793,7 +793,7 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
         </main>
 
         {/* ===== SIDEBAR ===== */}
-        <aside className="w-full lg:w-72 xl:w-80 flex-shrink-0 space-y-5">
+        <aside className="w-full lg:w-72 xl:w-80 flex-shrink-0 space-y-4">
 
           {/* Quick Facts / Overview */}
           <div className="bg-white dark:bg-zinc-950/40 border border-border-color dark:border-zinc-900 rounded-2xl p-5 shadow-xs">

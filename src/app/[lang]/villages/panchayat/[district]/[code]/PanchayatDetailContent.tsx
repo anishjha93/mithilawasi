@@ -472,7 +472,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
       </header>
 
       {/* ===== TWO-COLUMN LAYOUT ===== */}
-      <div className="flex flex-col-reverse lg:flex-row gap-8 items-start">
+      <div className="flex flex-col lg:flex-row gap-8 items-start">
 
         {/* ===== MAIN COLUMN ===== */}
         <main className="flex-1 min-w-0 space-y-8">
@@ -498,7 +498,7 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                   src={`https://maps.google.com/maps?q=${encodeURIComponent(`${gpNameEn} Panchayat, ${blockInfo?.en} Block, ${districtDisplayName}, Bihar, India`)}&t=&z=13&ie=UTF8&iwloc=&output=embed`}
                 />
               </div>
-              <div className="grid grid-cols-3 gap-3">
+              <div className="grid grid-cols-3 gap-2 sm:gap-3">
                 <div className="p-3 bg-zinc-50 dark:bg-zinc-900/20 rounded-xl border border-zinc-150 dark:border-zinc-850 text-center">
                   <span className="text-[10px] uppercase font-bold text-text-muted tracking-wider block mb-1">🧭 Latitude</span>
                   <span className="text-sm font-bold font-mono text-foreground">{panchayatLocation.latitude.toFixed(5)}° N</span>
@@ -549,8 +549,8 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                   <thead>
                     <tr className="bg-zinc-50 dark:bg-zinc-900/40 border-b border-zinc-150 dark:border-zinc-850">
                       <th className="text-left px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider">Description</th>
-                      <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider">{t.totalLabel}</th>
-                      <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider">{t.maleLabel}</th>
+                      <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider hidden sm:table-cell">{t.totalLabel}</th>
+                      <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider hidden sm:table-cell">{t.maleLabel}</th>
                       <th className="text-right px-4 py-2.5 font-bold text-text-muted text-xs uppercase tracking-wider">{t.femaleLabel}</th>
                     </tr>
                   </thead>
@@ -558,8 +558,8 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                     <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
                       <td className="px-4 py-3 font-semibold text-foreground">👥 {t.popLabel}</td>
                       <td className="px-4 py-3 text-right font-mono font-bold text-foreground">{panchayatDemographics.population.toLocaleString()}</td>
-                      <td className="px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400">{panchayatDemographics.male.toLocaleString()}</td>
-                      <td className="px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400">{panchayatDemographics.female.toLocaleString()}</td>
+                      <td className="px-3 sm:px-4 py-3 text-right font-mono text-blue-600 dark:text-blue-400 hidden sm:table-cell">{panchayatDemographics.male.toLocaleString()}</td>
+                      <td className="px-3 sm:px-4 py-3 text-right font-mono text-pink-600 dark:text-pink-400 hidden sm:table-cell">{panchayatDemographics.female.toLocaleString()}</td>
                     </tr>
                     <tr className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
                       <td className="px-4 py-3 font-semibold text-foreground">🏡 {t.householdsLabel}</td>
