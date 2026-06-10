@@ -155,7 +155,12 @@ const LOCAL_DICT: Record<string, any> = {
     contributeBtn: "Submit Information",
     contributeSuccess: "Thank you! Info submitted for verification.",
     placeholderNotSeeded: "No details seeded yet. Click to update.",
-    closeBtn: "Close"
+    closeBtn: "Close",
+    areaTypeLabel: "Area Type",
+    areaAll: "All Areas",
+    areaRural: "Rural (Gram Panchayat)",
+    areaUrban: "Urban (Municipal/Nagar Nigam)",
+    urbanLabel: "Municipal / Urban"
   },
   hi: {
     title: "मिथिला ग्राम निर्देशिका",
@@ -219,7 +224,12 @@ const LOCAL_DICT: Record<string, any> = {
     contributeBtn: "योगदान दें",
     contributeSuccess: "धन्यवाद! प्रतिनिधि की जानकारी सत्यापन के लिए भेजी गई है।",
     placeholderNotSeeded: "जानकारी उपलब्ध नहीं है। अपडेट करने के लिए क्लिक करें।",
-    closeBtn: "बंद करें"
+    closeBtn: "बंद करें",
+    areaTypeLabel: "क्षेत्र प्रकार",
+    areaAll: "सभी क्षेत्र",
+    areaRural: "ग्रामीण (ग्राम पंचायत)",
+    areaUrban: "शहरी (नगर निगम)",
+    urbanLabel: "नगर निकाय / शहरी"
   },
   mai: {
     title: "मिथिला गाम निर्देशिका",
@@ -283,7 +293,12 @@ const LOCAL_DICT: Record<string, any> = {
     contributeBtn: "योगदान दियऽ",
     contributeSuccess: "धन्यबाद! प्रतिनिधि क जानकारी सत्यापन क लेल पठाओल गेल अछि।",
     placeholderNotSeeded: "जानकारी उपलब्ध नहि अछि। अपडेट करबाक लेल क्लिक करू।",
-    closeBtn: "बंद करू"
+    closeBtn: "बंद करू",
+    areaTypeLabel: "क्षेत्रक प्रकार",
+    areaAll: "सभ क्षेत्र",
+    areaRural: "ग्रामीण (ग्राम पञ्चायत)",
+    areaUrban: "शहरी (नगर निगम / निकाय)",
+    urbanLabel: "नगर निकाय / शहरी"
   }
 };
 
@@ -302,6 +317,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 50;
   const [directoryView, setDirectoryView] = useState<'villages' | 'panchayats' | 'blocks'>('villages');
+  const [areaType, setAreaType] = useState<'all' | 'rural' | 'urban'>('all');
 
   // Filtered Curated Heritage Villages
   const filteredCurated = useMemo(() => {
@@ -322,6 +338,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
       setIsLoadingDir(true);
       setCurrentPage(1);
       setSelectedBlock('all');
+      setAreaType('all');
       try {
         const response = await fetch(`/data/villages/${selectedDistrict}.json`);
         if (!response.ok) throw new Error('Failed to load district data');
@@ -347,6 +364,11 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
       active = false;
     };
   }, [selectedDistrict]);
+
+  // Reset areaType filter when switching directory views
+  useEffect(() => {
+    setAreaType('all');
+  }, [directoryView]);
 
   // Extract unique blocks from directory villages (with localized labels)
   const blockOptions = useMemo(() => {
@@ -383,9 +405,14 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
 
       const matchesBlock = selectedBlock === 'all' || blockEn === selectedBlock.toLowerCase();
 
-      return matchesSearch && matchesBlock;
+      const matchesArea = 
+        areaType === 'all' ||
+        (areaType === 'rural' && v.panchayat && v.panchayat.code !== "") ||
+        (areaType === 'urban' && (!v.panchayat || v.panchayat.code === ""));
+
+      return matchesSearch && matchesBlock && matchesArea;
     });
-  }, [directoryVillages, directoryQuery, selectedBlock, lang]);
+  }, [directoryVillages, directoryQuery, selectedBlock, lang, areaType]);
 
   // Group and compute Gram Panchayats dynamically from the loaded villages list
   const panchayatsData = useMemo(() => {
@@ -672,7 +699,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
         </div>
 
         {/* Directory Controls */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8 relative z-10">
+        <div className={`grid grid-cols-1 sm:grid-cols-2 ${directoryView === 'villages' ? 'lg:grid-cols-4' : 'lg:grid-cols-3'} gap-4 mb-8 relative z-10`}>
           {/* District Select */}
           <div className="flex flex-col gap-1.5">
             <label className="text-xs font-bold text-text-muted uppercase tracking-wider">
@@ -710,6 +737,24 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
               ))}
             </select>
           </div>
+
+          {/* Area Type Select (Villages view only) */}
+          {directoryView === 'villages' && (
+            <div className="flex flex-col gap-1.5">
+              <label className="text-xs font-bold text-text-muted uppercase tracking-wider">
+                {t.areaTypeLabel}
+              </label>
+              <select
+                value={areaType}
+                onChange={(e) => setAreaType(e.target.value as 'all' | 'rural' | 'urban')}
+                className="px-4 py-3 bg-white dark:bg-zinc-900 border border-border-color dark:border-zinc-800 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-red text-foreground text-sm font-semibold transition-all shadow-sm"
+              >
+                <option value="all">{t.areaAll}</option>
+                <option value="rural">{t.areaRural}</option>
+                <option value="urban">{t.areaUrban}</option>
+              </select>
+            </div>
+          )}
 
           {/* Search Input */}
           <div className="flex flex-col gap-1.5">
@@ -843,7 +888,9 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                                 <span className="break-words">{v.panchayat[lang] || v.panchayat.en}</span>
                               </Link>
                             ) : (
-                              <span className="text-xs italic text-text-muted">Urban/Unmapped</span>
+                              <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-amber-500/10 text-[9px] sm:text-[10px] font-extrabold text-amber-600 dark:text-amber-500 border border-amber-500/20 whitespace-nowrap">
+                                🌆 {t.urbanLabel}
+                              </span>
                             )}
                           </td>
                           <td className="px-3 sm:px-6 py-3.5 text-sm text-foreground/80 font-medium hidden md:table-cell">

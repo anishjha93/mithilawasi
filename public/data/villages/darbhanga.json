@@ -168,7 +168,11 @@
         "female": 998,
         "households": 392,
         "literacyRate": 56.8
-      }
+      },
+      "pin": "847201",
+      "area": 145,
+      "distanceFromBlock": 11,
+      "distanceFromDistrict": 45
     },
     {
       "code": "227090",
@@ -3220,7 +3224,11 @@
         "female": 813,
         "households": 339,
         "literacyRate": 58.2
-      }
+      },
+      "pin": "847201",
+      "area": 190,
+      "distanceFromBlock": 8,
+      "distanceFromDistrict": 42
     },
     {
       "code": "227808",
@@ -22512,7 +22520,11 @@
         "female": 898,
         "households": 388,
         "literacyRate": 52.4
-      }
+      },
+      "pin": "847201",
+      "area": 280,
+      "distanceFromBlock": 6,
+      "distanceFromDistrict": 39
     },
     {
       "code": "226938",
@@ -26964,7 +26976,11 @@
         "female": 1712,
         "households": 627,
         "literacyRate": 68.7
-      }
+      },
+      "pin": "847201",
+      "area": 220,
+      "distanceFromBlock": 9,
+      "distanceFromDistrict": 43
     },
     {
       "code": "227359",
@@ -30772,7 +30788,11 @@
         "female": 948,
         "households": 359,
         "literacyRate": 64.2
-      }
+      },
+      "pin": "847201",
+      "area": 312,
+      "distanceFromBlock": 5,
+      "distanceFromDistrict": 40
     },
     {
       "code": "227756",
@@ -31667,8 +31687,24 @@
         "male": 2011,
         "female": 1991,
         "households": 783,
-        "literacyRate": 49
-      }
+        "literacyRate": 49,
+        "childPop": 1141,
+        "childMale": 591,
+        "childFemale": 550,
+        "scPop": 810,
+        "scMale": 417,
+        "scFemale": 393,
+        "litPop": 4117,
+        "litMale": 2541,
+        "litFemale": 1576,
+        "illitPop": 3455,
+        "illitMale": 1424,
+        "illitFemale": 2031
+      },
+      "pin": "847201",
+      "area": 645,
+      "distanceFromBlock": 7,
+      "distanceFromDistrict": 37
     },
     {
       "code": "227409",
@@ -31864,7 +31900,11 @@
         "female": 1529,
         "households": 663,
         "literacyRate": 55.9
-      }
+      },
+      "pin": "847201",
+      "area": 175,
+      "distanceFromBlock": 10,
+      "distanceFromDistrict": 44
     },
     {
       "code": "227529",
@@ -32620,7 +32660,11 @@
         "female": 1448,
         "households": 541,
         "literacyRate": 57.4
-      }
+      },
+      "pin": "847201",
+      "area": 200,
+      "distanceFromBlock": 4,
+      "distanceFromDistrict": 38
     },
     {
       "code": "227726",
