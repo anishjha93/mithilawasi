@@ -104,6 +104,12 @@ const LOCAL_DICT: Record<string, any> = {
     
     // New labels
     featuredTitle: "Featured Heritage Villages",
+    pincodeTabLabel: "Pincode",
+    pincodeSearchTitle: "Search by Pincode",
+    pincodeSearchDesc: "Enter a 6-digit pincode to see all villages, blocks, and postal information.",
+    pincodeSearchPlaceholder: "Enter pincode e.g. 847201",
+    pincodeSearchBtn: "Go",
+    pincodeInvalidMsg: "Please enter a valid 6-digit pincode.",
     directoryTitle: "All Bihar Gram Panchayat & Village Directory",
     directorySubtitle: "Browse the official Local Government Directory (LGD) record database.",
     selectDistrict: "Select District",
@@ -173,6 +179,12 @@ const LOCAL_DICT: Record<string, any> = {
 
     // New labels
     featuredTitle: "प्रसिद्ध विरासत ग्राम",
+    pincodeTabLabel: "पिनकोड",
+    pincodeSearchTitle: "पिनकोड द्वारा खोजें",
+    pincodeSearchDesc: "सभी गाँव, प्रखंड और डाक जानकारी देखने के लिए 6 अंकों का पिनकोड दर्ज करें।",
+    pincodeSearchPlaceholder: "पिनकोड दर्ज करें जैसे 847201",
+    pincodeSearchBtn: "जाएं",
+    pincodeInvalidMsg: "कृपया एक वैध 6 अंकों का पिनकोड दर्ज करें।",
     directoryTitle: "बिहार ग्राम पंचायत और ग्राम निर्देशिका",
     directorySubtitle: "आधिकारिक स्थानीय निकाय निर्देशिका (LGD) रिकॉर्ड डेटाबेस खोजें।",
     selectDistrict: "जिला चुनें",
@@ -242,6 +254,12 @@ const LOCAL_DICT: Record<string, any> = {
 
     // New labels
     featuredTitle: "प्रसिद्ध विरासत गाम",
+    pincodeTabLabel: "पिनकोड",
+    pincodeSearchTitle: "पिनकोड द्वारा खोजू",
+    pincodeSearchDesc: "सभ गाम, प्रखंड आ डाक जानकारी देखय लेल 6 अंकक पिनकोड दर्ज करू।",
+    pincodeSearchPlaceholder: "पिनकोड दर्ज करू जेना 847201",
+    pincodeSearchBtn: "जाऊ",
+    pincodeInvalidMsg: "कृपया एक वैध 6 अंकक पिनकोड दर्ज करू।",
     directoryTitle: "बिहार ग्राम पञ्चायत आ गाम निर्देशिका",
     directorySubtitle: "आधिकारिक स्थानीय निकाय निर्देशिका (LGD) रिकॉर्ड डेटाबेस खोजू।",
     selectDistrict: "जिला चुनू",
@@ -316,7 +334,9 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
   const [isLoadingDir, setIsLoadingDir] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 50;
-  const [directoryView, setDirectoryView] = useState<'villages' | 'panchayats' | 'blocks'>('villages');
+  const [directoryView, setDirectoryView] = useState<'villages' | 'panchayats' | 'blocks' | 'pincode'>('villages');
+  const [pincodeInput, setPincodeInput] = useState('');
+  const [pincodeError, setPincodeError] = useState(false);
   const [areaType, setAreaType] = useState<'all' | 'rural' | 'urban'>('all');
 
   // Filtered Curated Heritage Villages
@@ -556,102 +576,8 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
         <div className="h-1 w-24 bg-primary-red mx-auto mt-6 rounded-full opacity-60"></div>
       </header>
 
-      {/* ================= SECTION 1: CURATED HERITAGE VILLAGES ================= */}
-      <section className="mb-24">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-12 border-b border-border-color dark:border-zinc-800 pb-6 px-4">
-          <div>
-            <h2 className="text-3xl font-bold font-heading text-foreground mb-2">
-              ✨ {t.featuredTitle}
-            </h2>
-            <p className="text-sm text-text-muted">
-              {lang === 'en' ? 'Handpicked centers of Mithila art, Sanskrit scholarship, and ancient legacy.' : 
-               lang === 'hi' ? 'मिथिला कला, संस्कृत विद्वता और प्राचीन विरासत के चुनिंदा केंद्र।' : 
-               'मिथिला कला, संस्कृत विद्वता आ प्राचीन विरासतक चुनिंदा केंद्र।'}
-            </p>
-          </div>
 
-          {/* Search Curated */}
-          <div className="relative w-full md:w-80">
-            <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 w-4 h-4" />
-            <input
-              type="text"
-              placeholder={t.searchPlaceholder}
-              value={curatedQuery}
-              onChange={(e) => setCuratedQuery(e.target.value)}
-              className="w-full pl-10 pr-4 py-2 bg-white dark:bg-white/5 border border-border-color dark:border-zinc-800 rounded-full focus:outline-none focus:ring-2 focus:ring-primary-red transition-all text-sm text-foreground"
-            />
-          </div>
-        </div>
-
-        {/* Curated Grid */}
-        {filteredCurated.length > 0 ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-4">
-            {filteredCurated.map((village) => (
-              <MithilaCard
-                key={village.slug}
-                padding="none"
-                className="p-5 sm:p-8 group flex flex-col justify-between h-full hover:shadow-lg border border-border-color dark:border-zinc-800"
-              >
-                <div>
-                  <div className="flex justify-between items-start mb-6">
-                    <div className="h-12 w-12 rounded-xl bg-primary-red/5 flex items-center justify-center text-primary-red text-2xl group-hover:bg-primary-red group-hover:text-white transition-all duration-300">
-                      🏡
-                    </div>
-                    <span className="text-xs font-bold px-3 py-1 bg-primary-yellow/10 text-primary-yellow border border-primary-yellow/20 rounded-full flex items-center gap-1">
-                      <MapPin size={10} />
-                      {village.district[lang] || village.district.en}
-                    </span>
-                  </div>
-
-                  <h3 className="text-2xl font-bold mb-2 text-foreground font-heading tracking-tight">
-                    {village.name[lang] || village.name.en}
-                  </h3>
-                  
-                  <p className="text-xs text-text-muted uppercase tracking-wider mb-4 flex items-center gap-1.5 font-bold">
-                    <Compass size={12} className="text-primary-red" />
-                    {t.blockLabel}: {village.block[lang] || village.block.en}
-                  </p>
-
-                  <div className="mb-4 bg-gray-50 dark:bg-zinc-900/30 p-3 rounded-lg border border-gray-100 dark:border-zinc-900">
-                    <span className="text-xs text-text-muted font-bold block mb-1 uppercase tracking-wide flex items-center gap-1">
-                      <Award size={12} className="text-primary-red" />
-                      {t.famousLabel}
-                    </span>
-                    <p className="text-sm font-semibold text-primary-red">
-                      {village.famousFor[lang] || village.famousFor.en}
-                    </p>
-                  </div>
-
-                  <p className="text-[0.95rem] text-text-muted leading-relaxed font-serif italic mb-6">
-                    {village.description[lang] || village.description.en}
-                  </p>
-                </div>
-
-                <div className="border-t border-border-color dark:border-zinc-800 pt-6">
-                  <span className="text-xs text-text-muted font-bold block mb-3 uppercase tracking-wide flex items-center gap-1">
-                    <Star size={12} className="text-primary-yellow" />
-                    {t.highlightsLabel}
-                  </span>
-                  <ul className="space-y-1.5 pl-0 list-none m-0">
-                    {village.highlights.map((hl, hIdx) => (
-                      <li key={hIdx} className="text-xs text-foreground/80 flex items-center gap-2 font-medium">
-                        <span className="w-1.5 h-1.5 rounded-full bg-primary-red flex-shrink-0" />
-                        {hl[lang] || hl.en}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              </MithilaCard>
-            ))}
-          </div>
-        ) : (
-          <div className="text-center py-12 px-4 bg-white dark:bg-white/5 border border-border-color dark:border-zinc-800 rounded-3xl max-w-2xl mx-auto">
-            <p className="text-text-muted font-semibold">{t.noResults}</p>
-          </div>
-        )}
-      </section>
-
-      {/* ================= SECTION 2: BIHAR ENTIRE LGD DIRECTORY ================= */}
+            {/* ================= SECTION 2: BIHAR ENTIRE LGD DIRECTORY ================= */}
       <section className="bg-gray-50/50 dark:bg-zinc-900/10 border border-border-color dark:border-zinc-800/80 rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-10 shadow-xs relative">
         <div className="absolute inset-0 madhubani-pattern-bg opacity-[0.015] pointer-events-none rounded-3xl" />
         
@@ -696,9 +622,78 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
           >
             📦 {t.viewBlocks}
           </button>
+          <button
+            onClick={() => setDirectoryView('pincode')}
+            className={`py-2.5 px-5 rounded-full text-xs font-bold transition-all cursor-pointer border-0 flex items-center gap-1.5 shrink-0 ${
+              directoryView === 'pincode'
+                ? 'bg-primary-red text-white shadow-md'
+                : 'bg-white dark:bg-zinc-900/40 text-text-muted hover:text-foreground border border-border-color dark:border-zinc-800'
+            }`}
+          >
+            📮 {t.pincodeTabLabel}
+          </button>
         </div>
 
-        {/* Directory Controls */}
+        {/* ===== PINCODE SEARCH PANEL ===== */}
+        {directoryView === 'pincode' && (
+          <div className="relative z-10 mt-4">
+            <div className="max-w-2xl mx-auto text-center mb-8">
+              <div className="h-14 w-14 bg-primary-red/10 rounded-2xl flex items-center justify-center text-3xl mx-auto mb-4">📮</div>
+              <h3 className="text-2xl font-bold font-heading text-foreground mb-2">{t.pincodeSearchTitle}</h3>
+              <p className="text-sm text-text-muted">{t.pincodeSearchDesc}</p>
+            </div>
+            <div className="max-w-md mx-auto">
+              <form
+                onSubmit={(e) => {
+                  e.preventDefault();
+                  const val = pincodeInput.trim();
+                  if (/^[0-9]{6}$/.test(val)) {
+                    setPincodeError(false);
+                    window.location.href = `/${lang}/pincode/${val}`;
+                  } else {
+                    setPincodeError(true);
+                  }
+                }}
+                className="flex gap-2"
+              >
+                <div className="flex-1 relative">
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-lg">📮</span>
+                  <input
+                    type="text"
+                    inputMode="numeric"
+                    maxLength={6}
+                    placeholder={t.pincodeSearchPlaceholder}
+                    value={pincodeInput}
+                    onChange={(e) => { setPincodeInput(e.target.value.replace(/\D/g, '')); setPincodeError(false); }}
+                    className={`w-full pl-11 pr-4 py-3.5 bg-white dark:bg-zinc-900 border ${pincodeError ? 'border-red-500 ring-2 ring-red-200' : 'border-border-color dark:border-zinc-800'} rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-red text-foreground text-base font-mono font-bold tracking-widest transition-all shadow-sm`}
+                  />
+                </div>
+                <button
+                  type="submit"
+                  className="px-6 py-3.5 bg-primary-red hover:bg-red-800 text-white rounded-xl font-bold text-sm tracking-wide transition-all shadow-md"
+                >
+                  {t.pincodeSearchBtn}
+                </button>
+              </form>
+              {pincodeError && (
+                <p className="text-red-500 text-xs font-semibold mt-2 pl-1">{t.pincodeInvalidMsg}</p>
+              )}
+              <p className="text-center text-xs text-text-muted mt-6 font-medium">
+                {lang === 'en' ? 'Try: ' : lang === 'hi' ? 'उदाहरण: ' : 'उदाहरण: '}
+                {['847201', '847102', '847301'].map((pin, i) => (
+                  <span key={pin}>
+                    {i > 0 && <span className="mx-1 text-zinc-300">·</span>}
+                    <a href={`/${lang}/pincode/${pin}`} className="text-primary-red hover:underline font-mono font-bold">{pin}</a>
+                  </span>
+                ))}
+              </p>
+            </div>
+          </div>
+        )}
+
+        {/* Directory Controls + Results — hidden when pincode tab active */}
+        {directoryView !== 'pincode' && (
+        <>
         <div className={`grid grid-cols-1 sm:grid-cols-2 ${directoryView === 'villages' ? 'lg:grid-cols-4' : 'lg:grid-cols-3'} gap-4 mb-8 relative z-10`}>
           {/* District Select */}
           <div className="flex flex-col gap-1.5">
@@ -1031,6 +1026,8 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
             </div>
           )}
         </div>
+        </>
+        )} {/* end directoryView !== pincode */}
       </section>
 
         </div>

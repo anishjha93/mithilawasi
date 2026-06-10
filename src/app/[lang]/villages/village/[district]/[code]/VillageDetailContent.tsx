@@ -918,7 +918,9 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
                 {villageRecord.pin && (
                   <div className="flex justify-between gap-2">
                     <dt className="text-text-muted font-semibold">{t.pincodeLabel}</dt>
-                    <dd className="font-mono font-bold text-foreground">{villageRecord.pin}</dd>
+                    <dd className="font-mono font-bold">
+                      <Link href={`/${lang}/pincode/${villageRecord.pin}`} className="text-primary-red hover:underline">{villageRecord.pin}</Link>
+                    </dd>
                   </div>
                 )}
                 {villageRecord.area != null && (
