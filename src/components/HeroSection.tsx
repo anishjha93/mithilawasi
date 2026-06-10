@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function HeroSection({ dict, lang }: { dict: any; lang: string }) {
     return (
-        <section className="relative min-h-[70vh] flex items-center justify-center overflow-hidden py-24 md:py-32 border-b border-primary-red/10">
+        <section className="relative min-h-[70vh] flex items-center justify-center overflow-hidden py-16 sm:py-24 md:py-32 border-b border-primary-red/10">
             {/* Immersive Background Layers */}
             <div className="absolute inset-0 bg-[var(--mesh-gradient-1)] opacity-40"></div>
             <div className="absolute inset-0 madhubani-pattern-bg opacity-10 pointer-events-none transition-transform duration-1000 hover:scale-105"></div>
@@ -32,7 +32,7 @@ export default function HeroSection({ dict, lang }: { dict: any; lang: string })
                     </span>
                 </h1>
 
-                <p className="text-xl md:text-2xl text-text-muted max-w-[800px] mx-auto mb-12 leading-relaxed font-serif italic animate-fade-in-up delay-200" style={{ fontFamily: lang === 'en' ? 'var(--font-body)' : 'var(--font-devanagari-body)' }}>
+                <p className="text-lg sm:text-xl md:text-2xl text-text-muted max-w-[800px] mx-auto mb-8 sm:mb-12 leading-relaxed font-serif italic animate-fade-in-up delay-200" style={{ fontFamily: lang === 'en' ? 'var(--font-body)' : 'var(--font-devanagari-body)' }}>
                     {dict.subtitle}
                 </p>
 

@@ -843,7 +843,7 @@ export default function VillagesContent({ lang, dict, villages }: VillagesConten
                       
                       return (
                         <tr 
-                          key={v.code} 
+                          key={`${v.code}-${v.panchayat?.code || index}`} 
                           className="hover:bg-primary-red/5 dark:hover:bg-primary-red/5 transition-colors duration-150 group"
                         >
                           <td className="px-3 sm:px-6 py-3.5 text-sm font-medium text-text-muted">

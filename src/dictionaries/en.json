@@ -164,13 +164,15 @@
             "mantras": "Sacred chants and invocations for daily peace and spiritual growth.",
             "vrat": "Timeless stories of fasting and devotion observed in Mithila.",
             "shop": "Authentic Mithila paintings, handicrafts, and cultural artifacts.",
-            "modern_mithila": "Explore the contemporary developments and future vision of the region."
+            "modern_mithila": "Explore the contemporary developments and future vision of the region.",
+            "villages": "Search and explore the comprehensive directory of villages, panchayats, and blocks in the Mithila region."
         },
         "heritage": {
             "rootsDesc": "Trace the ancient lineage of Videha and the modern evolution of Mithila.",
             "artDesc": "Immerse yourself in the colors of Madhubani and the traditions of the land.",
             "spiritualDesc": "Find peace with sacred mantras and ancient fasting tales of devotion.",
-            "tasteDesc": "Savor the unique cuisine and read heart-touching stories from Mithila."
+            "tasteDesc": "Savor the unique cuisine and read heart-touching stories from Mithila.",
+            "placesDesc": "Explore the directory of our villages and the modern evolution of Mithila."
         },
         "featured": {
             "title": "Discover Mithila",

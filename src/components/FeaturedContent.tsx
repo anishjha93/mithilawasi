@@ -76,7 +76,7 @@ const FeaturedContent: React.FC<FeaturedContentProps> = ({ lang, dict }) => {
                         {/* Top Accent Line */}
                         <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-primary-red via-primary-yellow to-accent-gold scale-x-0 origin-left transition-transform duration-400 group-hover:scale-x-100"></div>
 
-                        <div className="text-5xl mb-4">{item.emoji}</div>
+                        <div className="text-4xl sm:text-5xl mb-3 sm:mb-4">{item.emoji}</div>
                         <div className="text-[0.85rem] font-bold uppercase tracking-[1.5px] text-primary-yellow mb-3">{item.category}</div>
                         <h3 className="text-[1.35rem] font-bold text-foreground mb-4 font-heading leading-tight">{item.title}</h3>
                         <p className="text-base leading-relaxed text-foreground/80 mb-6 flex-grow">{item.description}</p>

@@ -705,8 +705,8 @@ export default function PanchayatDetailContent({ lang, district, code, dict }: P
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-zinc-100 dark:divide-zinc-850">
-                  {panchayatVillages.map(v => (
-                    <tr key={v.code} className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
+                  {panchayatVillages.map((v, index) => (
+                    <tr key={`${v.code}-${v.panchayat?.code || index}`} className="hover:bg-zinc-50/50 dark:hover:bg-zinc-900/20 transition-colors">
                       <td className="px-4 py-3">
                         <Link href={`/${lang}/villages/village/${district.toLowerCase()}/${v.code}`}
                           className="font-bold text-foreground hover:text-primary-red hover:underline transition-colors">

@@ -719,9 +719,9 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
                 <div className="mb-6">
                   <h3 className="text-xs font-bold uppercase tracking-wider text-text-muted mb-3">{t.nearbySubtitle}</h3>
                   <div className="flex flex-wrap gap-2">
-                    {nearbyVillages.samePanchayat.map(v => (
+                    {nearbyVillages.samePanchayat.map((v, index) => (
                       <Link
-                        key={v.code}
+                        key={`${v.code}-${v.panchayat?.code || index}`}
                         href={`/${lang}/villages/village/${district.toLowerCase()}/${v.code}`}
                         className="px-3 py-1.5 bg-zinc-50 dark:bg-zinc-900/30 hover:bg-primary-red/5 dark:hover:bg-primary-red/10 border border-zinc-200 dark:border-zinc-800 hover:border-primary-red/30 rounded-lg text-xs font-semibold text-foreground hover:text-primary-red transition-all no-underline"
                       >
@@ -741,9 +741,9 @@ export default function VillageDetailContent({ lang, district, code, dict }: Vil
                     {fill(t.nearbyBlockTitle, { block: blockNameLocal })}
                   </h3>
                   <div className="flex flex-wrap gap-2">
-                    {nearbyVillages.sameBlock.map(v => (
+                    {nearbyVillages.sameBlock.map((v, index) => (
                       <Link
-                        key={v.code}
+                        key={`${v.code}-${v.panchayat?.code || index}`}
                         href={`/${lang}/villages/village/${district.toLowerCase()}/${v.code}`}
                         className="px-3 py-1.5 bg-zinc-50 dark:bg-zinc-900/30 hover:bg-zinc-100 dark:hover:bg-zinc-900/50 border border-zinc-200 dark:border-zinc-800 rounded-lg text-xs font-semibold text-foreground hover:text-primary-red transition-all no-underline"
                       >
